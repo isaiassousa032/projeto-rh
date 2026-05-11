@@ -6,3 +6,4 @@ env/
 __pycache__/
 *.pyc
 .tmp.driveupload/
+neondb_ep_noisy_band_aneeehsa_c_6_us_east_1_aws_neon_tech-2026_04_25_18_53_56-dump.sql
