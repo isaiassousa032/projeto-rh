@@ -1,0 +1,1001 @@
+﻿Nome do Funcionário,ID Único,Salário,Cargo,Idade,Faixa de Idade,Gênero,Data de Contratação,Status do Funcionário,Departamento,ID da Filial
+Aline Mendes,DT87832,"R$ 13.163,20",Engenheiro Cloud Sênior,36,35-44,Feminino,05/05/2016,Ativo,Infraestrutura e Cloud,FL05
+Carlos Rodrigues,DT40595,"R$ 8.987,99",Analista de Dados Pleno,52,45-54,Masculino,16/01/2015,Ativo,Análise de Dados,FL03
+Cristina Fernandes,DT28643,"R$ 5.997,77",Engenheiro de Dados Júnior,37,35-44,Feminino,07/05/2023,Ativo,Engenharia de Dados,FL07
+Isabela Vieira,DT67560,"R$ 24.976,41",Lead de Ciência de Dados,62,55+,Feminino,11/01/2019,Inativo,Ciência de Dados,FL08
+Daniel Monteiro,DT74722,"R$ 5.495,09",Analista de BI Júnior,45,45-54,Masculino,25/03/2017,Ativo,Business Intelligence,FL01
+Lucas Ferreira,DT40005,"R$ 6.498,93",Analista Financeiro Júnior,61,55+,Masculino,17/01/2016,Ativo,Financeiro,FL02
+Leandro Ribeiro,DT71669,"R$ 25.412,51",Arquiteto Cloud,29,25-34,Masculino,17/02/2023,Ativo,Infraestrutura e Cloud,FL01
+Luana Ramos,DT21959,"R$ 15.041,74",Engenheiro Cloud Sênior,38,35-44,Feminino,11/01/2025,Ativo,Infraestrutura e Cloud,FL05
+Bruno Dias,DT63955,"R$ 17.729,31",Gerente Financeiro,43,35-44,Masculino,04/05/2022,Ativo,Financeiro,FL02
+Matheus Rocha,DT43082,"R$ 9.910,55",Engenheiro de ML Júnior,43,35-44,Masculino,17/07/2021,Inativo,Machine Learning,FL03
+Lucas Monteiro,DT70552,"R$ 4.468,96",Analista de BI Júnior,41,35-44,Masculino,19/12/2023,Ativo,Business Intelligence,FL01
+Bruna Mendes,DT16764,"R$ 17.520,71",Cientista de Dados Sênior,36,35-44,Feminino,30/10/2019,Inativo,Ciência de Dados,FL06
+Pedro Pereira,DT13783,"R$ 8.129,35",Analista de RH Pleno,37,35-44,Masculino,10/05/2022,Ativo,Recursos Humanos,FL02
+Aline Ferreira,DT39451,"R$ 26.655,89",Lead de Ciência de Dados,59,55+,Feminino,15/06/2013,Ativo,Ciência de Dados,FL04
+Cláudia Vieira,DT76698,"R$ 12.661,96",Analista Financeiro Sênior,48,45-54,Feminino,04/08/2020,Ativo,Financeiro,FL04
+Alexandre Gomes,DT60277,"R$ 13.388,12",Cientista de Dados Pleno,35,35-44,Masculino,23/04/2019,Ativo,Ciência de Dados,FL03
+Vitória Gonçalves,DT45018,"R$ 16.767,23",Engenheiro de Dados Sênior,55,55+,Feminino,03/01/2023,Inativo,Engenharia de Dados,FL05
+Pedro Gomes,DT68529,"R$ 21.415,87",Arquiteto Cloud,53,45-54,Masculino,10/03/2022,Ativo,Infraestrutura e Cloud,FL01
+Cristina Rocha,DT34727,"R$ 9.001,29",Analista Financeiro Pleno,32,25-34,Feminino,20/03/2019,Ativo,Financeiro,FL05
+Renato Cardoso,DT59968,"R$ 12.728,98",Engenheiro de ML Pleno,20,18-24,Masculino,31/10/2012,Ativo,Machine Learning,FL02
+Fernando Dias,DT23154,"R$ 5.314,88",Analista de BI Júnior,47,45-54,Masculino,06/05/2010,Ativo,Business Intelligence,FL02
+Aline Gomes,DT19807,"R$ 14.692,81",Engenheiro Cloud Sênior,62,55+,Feminino,01/12/2018,Ativo,Infraestrutura e Cloud,FL06
+Julio Dias,DT98389,"R$ 25.678,98",Arquiteto Cloud,58,55+,Masculino,11/12/2020,Inativo,Infraestrutura e Cloud,FL02
+Gabriel Rodrigues,DT40771,"R$ 12.990,99",Analista de RH Sênior,23,18-24,Masculino,26/09/2019,Inativo,Recursos Humanos,FL02
+Sabrina Alves,DT68153,"R$ 19.468,83",Cientista de Dados Sênior,20,18-24,Feminino,11/04/2017,Ativo,Ciência de Dados,FL04
+Anderson Nascimento,DT59131,"R$ 7.854,69",Analista de BI Pleno,44,35-44,Masculino,11/09/2022,Ativo,Business Intelligence,FL02
+Beatriz Costa,DT32946,"R$ 22.528,12",Arquiteto de Dados,33,25-34,Feminino,28/02/2021,Inativo,Engenharia de Dados,FL04
+Felipe Almeida,DT70443,"R$ 11.108,50",Analista de RH Sênior,60,55+,Masculino,18/03/2010,Inativo,Recursos Humanos,FL03
+Carlos Vieira,DT98815,"R$ 8.795,45",Engenheiro Cloud Pleno,40,35-44,Masculino,07/03/2023,Ativo,Infraestrutura e Cloud,FL02
+Aline Sousa,DT69878,"R$ 10.997,81",Analista de Dados Pleno,48,45-54,Feminino,23/05/2012,Ativo,Análise de Dados,FL05
+Isabela Nascimento,DT85341,"R$ 11.598,73",Analista de Dados Sênior,60,55+,Feminino,17/11/2018,Ativo,Análise de Dados,FL04
+Isabela Souza,DT89482,"R$ 22.662,71",Diretor Comercial,36,35-44,Feminino,01/03/2015,Ativo,Vendas e Parcerias,FL08
+Vanessa Almeida,DT93442,"R$ 18.227,70",Cientista de Dados Sênior,60,55+,Feminino,25/01/2013,Ativo,Ciência de Dados,FL06
+André Oliveira,DT50492,"R$ 5.448,93",Analista de BI Júnior,26,25-34,Masculino,09/01/2012,Inativo,Business Intelligence,FL02
+Tatiana Marques,DT33021,"R$ 13.039,31",Cientista de Dados Pleno,41,35-44,Feminino,27/11/2021,Ativo,Ciência de Dados,FL08
+Rodrigo Costa,DT43681,"R$ 16.732,80",Engenheiro Cloud Sênior,39,35-44,Masculino,01/08/2012,Ativo,Infraestrutura e Cloud,FL02
+Juliana Gomes,DT39571,"R$ 21.803,62",Gerente Financeiro,53,45-54,Feminino,16/03/2018,Ativo,Financeiro,FL03
+Patrícia Silva,DT44663,"R$ 6.364,36",Engenheiro Cloud Júnior,61,55+,Feminino,29/01/2025,Ativo,Infraestrutura e Cloud,FL05
+Henrique Andrade,DT24201,"R$ 8.650,17",Analista Financeiro Pleno,57,55+,Masculino,05/08/2022,Ativo,Financeiro,FL01
+Marcelo Almeida,DT94889,"R$ 24.411,02",Arquiteto de Dados,37,35-44,Masculino,24/07/2024,Ativo,Engenharia de Dados,FL02
+Felipe Oliveira,DT14877,"R$ 17.696,72",Gerente de Análise de Dados,33,25-34,Masculino,21/01/2022,Ativo,Análise de Dados,FL01
+Carlos Andrade,DT97881,"R$ 20.698,72",Diretor Comercial,27,25-34,Masculino,22/04/2019,Ativo,Vendas e Parcerias,FL01
+Luana Ramos,DT90694,"R$ 11.147,22",Analista de BI Sênior,41,35-44,Feminino,15/11/2014,Ativo,Business Intelligence,FL05
+Thiago Andrade,DT23022,"R$ 13.177,86",Analista Financeiro Sênior,59,55+,Masculino,17/01/2018,Ativo,Financeiro,FL01
+Rodrigo Martins,DT26011,"R$ 5.656,92",Analista de BI Júnior,59,55+,Masculino,05/05/2024,Ativo,Business Intelligence,FL02
+Ana Souza,DT53713,"R$ 10.254,42",Analista de Dados Pleno,31,25-34,Feminino,17/07/2011,Inativo,Análise de Dados,FL05
+Alexandre Carvalho,DT86858,"R$ 8.649,96",Analista de Dados Pleno,27,25-34,Masculino,15/05/2023,Ativo,Análise de Dados,FL01
+Julio Gomes,DT27038,"R$ 16.992,57",Engenheiro Cloud Sênior,25,25-34,Masculino,29/10/2024,Ativo,Infraestrutura e Cloud,FL01
+Mariana Silva,DT56955,"R$ 11.571,01",Analista de Dados Sênior,34,25-34,Feminino,06/03/2011,Ativo,Análise de Dados,FL05
+Eduardo Araújo,DT24896,"R$ 4.847,74",Analista Comercial Júnior,41,35-44,Masculino,06/07/2021,Ativo,Vendas e Parcerias,FL01
+Carlos Gonçalves,DT39038,"R$ 4.954,49",Analista de RH Júnior,60,55+,Masculino,11/09/2021,Ativo,Recursos Humanos,FL02
+Bruna Santos,DT17972,"R$ 21.983,92",Arquiteto Cloud,24,18-24,Feminino,30/12/2020,Ativo,Infraestrutura e Cloud,FL09
+Carlos Rodrigues,DT20589,"R$ 10.795,57",Engenheiro de ML Pleno,35,35-44,Masculino,02/01/2024,Ativo,Machine Learning,FL01
+Alexandre Rocha,DT59925,"R$ 16.995,43",Product Manager Sênior,56,55+,Masculino,26/08/2019,Ativo,Produto,FL01
+Ricardo Pereira,DT95814,"R$ 7.290,21",Analista de RH Pleno,32,25-34,Masculino,13/04/2019,Ativo,Recursos Humanos,FL02
+Renata Nunes,DT64524,"R$ 4.487,61",Analista Comercial Júnior,38,35-44,Feminino,01/12/2024,Ativo,Vendas e Parcerias,FL03
+Mariana Cardoso,DT18799,"R$ 5.779,69",Engenheiro de Dados Júnior,24,18-24,Feminino,11/05/2018,Ativo,Engenharia de Dados,FL04
+Lívia Souza,DT86869,"R$ 18.185,07",Product Manager Sênior,44,35-44,Feminino,06/12/2017,Inativo,Produto,FL05
+Leandro Machado,DT16743,"R$ 13.082,41",Analista de Dados Sênior,54,45-54,Masculino,19/05/2021,Ativo,Análise de Dados,FL01
+Daniela Cardoso,DT39392,"R$ 17.304,18",Engenheiro de Dados Sênior,41,35-44,Feminino,30/07/2012,Ativo,Engenharia de Dados,FL03
+Isabela Almeida,DT66244,"R$ 7.826,98",Product Manager Júnior,60,55+,Feminino,31/12/2015,Ativo,Produto,FL03
+Rodrigo Barbosa,DT54541,"R$ 7.544,22",Engenheiro de ML Júnior,27,25-34,Masculino,14/09/2022,Ativo,Machine Learning,FL01
+Juliana Gomes,DT92991,"R$ 7.738,34",Engenheiro de Dados Júnior,31,25-34,Feminino,09/06/2018,Ativo,Engenharia de Dados,FL04
+Gustavo Costa,DT58503,"R$ 19.772,60",Engenheiro de ML Sênior,54,45-54,Masculino,17/05/2023,Ativo,Machine Learning,FL02
+Gabriel Gomes,DT30632,"R$ 5.282,73",Analista Comercial Júnior,35,35-44,Masculino,09/12/2019,Ativo,Vendas e Parcerias,FL02
+Carla Mendes,DT64287,"R$ 10.142,30",Analista de Dados Pleno,25,25-34,Feminino,28/09/2017,Ativo,Análise de Dados,FL07
+Anderson Ramos,DT79066,"R$ 11.181,67",Analista Financeiro Sênior,43,35-44,Masculino,11/06/2023,Ativo,Financeiro,FL02
+Diego Barbosa,DT37686,"R$ 9.174,56",Analista Comercial Pleno,36,35-44,Masculino,11/05/2017,Ativo,Vendas e Parcerias,FL01
+Pedro Machado,DT33028,"R$ 23.961,79",Lead de Ciência de Dados,32,25-34,Masculino,22/03/2021,Ativo,Ciência de Dados,FL01
+Vitor Nascimento,DT19447,"R$ 5.090,55",Analista de BI Júnior,47,45-54,Masculino,30/09/2011,Inativo,Business Intelligence,FL01
+Fernando Machado,DT85156,"R$ 17.737,09",Gerente de BI,43,35-44,Masculino,20/06/2010,Inativo,Business Intelligence,FL01
+Bruno Freitas,DT57428,"R$ 23.989,15",Arquiteto de Dados,33,25-34,Masculino,10/10/2019,Ativo,Engenharia de Dados,FL01
+Daniel Ferreira,DT61873,"R$ 16.718,65",Engenheiro de ML Sênior,28,25-34,Masculino,18/09/2011,Ativo,Machine Learning,FL02
+Rafael Araújo,DT76840,"R$ 16.431,05",Cientista de Dados Sênior,59,55+,Masculino,24/04/2013,Ativo,Ciência de Dados,FL01
+Felipe Sousa,DT35856,"R$ 12.920,97",Cientista de Dados Pleno,59,55+,Masculino,10/09/2011,Ativo,Ciência de Dados,FL03
+Sabrina Ramos,DT70811,"R$ 21.449,07",Diretor Comercial,54,45-54,Feminino,03/06/2024,Ativo,Vendas e Parcerias,FL07
+Natália Rocha,DT92210,"R$ 12.478,93",Engenheiro de ML Pleno,48,45-54,Feminino,02/12/2019,Ativo,Machine Learning,FL05
+Vitória Fernandes,DT87518,"R$ 15.783,02",Engenheiro de Dados Sênior,37,35-44,Feminino,10/05/2020,Ativo,Engenharia de Dados,FL07
+Gabriel Andrade,DT47627,"R$ 7.345,03",Engenheiro de Dados Júnior,50,45-54,Masculino,16/08/2018,Ativo,Engenharia de Dados,FL01
+Lívia Oliveira,DT68947,"R$ 10.946,87",Product Manager Pleno,48,45-54,Feminino,31/03/2021,Ativo,Produto,FL08
+Fernanda Mendes,DT23566,"R$ 8.513,65",Engenheiro de ML Júnior,29,25-34,Feminino,17/11/2010,Ativo,Machine Learning,FL06
+Carlos Mendes,DT78690,"R$ 9.955,59",Engenheiro Cloud Pleno,36,35-44,Masculino,09/09/2018,Ativo,Infraestrutura e Cloud,FL03
+Gustavo Souza,DT92691,"R$ 9.730,69",Analista de RH Sênior,24,18-24,Masculino,07/07/2022,Ativo,Recursos Humanos,FL01
+Gabriela Sousa,DT96057,"R$ 11.000,13",Product Manager Pleno,55,55+,Feminino,19/11/2024,Ativo,Produto,FL06
+Leonardo Barbosa,DT95990,"R$ 16.773,71",Gerente Financeiro,23,18-24,Masculino,11/12/2016,Ativo,Financeiro,FL01
+Bruna Dias,DT26750,"R$ 5.615,06",Analista Financeiro Júnior,45,45-54,Feminino,28/05/2021,Ativo,Financeiro,FL05
+Vanessa Barbosa,DT33627,"R$ 15.764,51",Analista de Dados Sênior,49,45-54,Feminino,22/04/2014,Ativo,Análise de Dados,FL08
+Felipe Gomes,DT20114,"R$ 5.769,22",Analista de Dados Júnior,52,45-54,Masculino,23/10/2021,Ativo,Análise de Dados,FL01
+Gustavo Lima,DT88282,"R$ 11.230,11",Engenheiro de ML Pleno,62,55+,Masculino,05/01/2024,Ativo,Machine Learning,FL03
+Bruno Mendes,DT15726,"R$ 14.043,63",Analista de BI Sênior,33,25-34,Masculino,18/12/2019,Ativo,Business Intelligence,FL01
+Sabrina Mendes,DT40671,"R$ 9.737,87",Engenheiro Cloud Pleno,48,45-54,Feminino,09/05/2014,Ativo,Infraestrutura e Cloud,FL04
+Fernando Mendes,DT70513,"R$ 14.001,56",Gerente de Contas,50,45-54,Masculino,30/10/2021,Ativo,Vendas e Parcerias,FL01
+Bruno Martins,DT89254,"R$ 14.786,99",Cientista de Dados Sênior,48,45-54,Masculino,29/04/2018,Ativo,Ciência de Dados,FL02
+Rafael Araújo,DT26341,"R$ 6.407,79",Analista de Dados Júnior,35,35-44,Masculino,29/01/2020,Inativo,Análise de Dados,FL03
+Felipe Machado,DT22021,"R$ 22.307,78",Gerente de Análise de Dados,19,18-24,Masculino,22/04/2019,Ativo,Análise de Dados,FL01
+Priscila Andrade,DT40903,"R$ 8.124,74",Engenheiro de ML Júnior,19,18-24,Feminino,23/02/2017,Inativo,Machine Learning,FL08
+Caio Dias,DT29142,"R$ 6.860,64",Cientista de Dados Júnior,48,45-54,Masculino,10/02/2013,Ativo,Ciência de Dados,FL02
+Carla Mendes,DT90654,"R$ 5.557,01",Engenheiro de Dados Júnior,31,25-34,Feminino,09/05/2013,Ativo,Engenharia de Dados,FL03
+Renato Araújo,DT65476,"R$ 15.807,02",Cientista de Dados Sênior,25,25-34,Masculino,27/01/2011,Ativo,Ciência de Dados,FL01
+Bruna Freitas,DT18232,"R$ 24.378,80",Lead de Ciência de Dados,19,18-24,Feminino,04/03/2024,Ativo,Ciência de Dados,FL06
+Amanda Gomes,DT48177,"R$ 5.537,02",Analista de BI Júnior,33,25-34,Feminino,19/10/2022,Ativo,Business Intelligence,FL04
+Vitor Ferreira,DT78614,"R$ 9.860,21",Engenheiro de ML Júnior,52,45-54,Masculino,19/05/2021,Ativo,Machine Learning,FL01
+Priscila Santos,DT61177,"R$ 6.907,01",Engenheiro Cloud Júnior,41,35-44,Feminino,09/09/2015,Ativo,Infraestrutura e Cloud,FL08
+Vanessa Rodrigues,DT55193,"R$ 6.428,75",Analista de Dados Júnior,39,35-44,Feminino,28/12/2012,Ativo,Análise de Dados,FL08
+Lívia Dias,DT94252,"R$ 26.875,32",Lead de Ciência de Dados,48,45-54,Feminino,03/03/2024,Ativo,Ciência de Dados,FL03
+Mariana Rodrigues,DT69988,"R$ 14.407,16",Engenheiro de Dados Sênior,30,25-34,Feminino,10/12/2010,Ativo,Engenharia de Dados,FL09
+Gabriela Gonçalves,DT62196,"R$ 20.773,20",Arquiteto Cloud,59,55+,Feminino,15/04/2014,Ativo,Infraestrutura e Cloud,FL08
+Monique Souza,DT95948,"R$ 16.184,61",Engenheiro de ML Sênior,41,35-44,Feminino,20/10/2019,Inativo,Machine Learning,FL05
+Renato Mendes,DT60678,"R$ 12.732,91",Engenheiro de ML Pleno,49,45-54,Masculino,29/03/2018,Inativo,Machine Learning,FL01
+Daniel Fernandes,DT20828,"R$ 16.631,42",Diretor Comercial,56,55+,Masculino,18/01/2014,Ativo,Vendas e Parcerias,FL03
+Tatiana Alves,DT20494,"R$ 17.185,73",Engenheiro de ML Sênior,56,55+,Feminino,23/07/2019,Ativo,Machine Learning,FL06
+Carlos Nascimento,DT68606,"R$ 16.266,83",Engenheiro de Dados Sênior,45,45-54,Masculino,28/02/2016,Ativo,Engenharia de Dados,FL01
+Fábio Souza,DT19835,"R$ 18.179,87",Gerente Financeiro,61,55+,Masculino,03/08/2013,Inativo,Financeiro,FL02
+Felipe Mendes,DT14561,"R$ 6.707,99",Cientista de Dados Júnior,59,55+,Masculino,20/03/2018,Ativo,Ciência de Dados,FL01
+Fernando Oliveira,DT89310,"R$ 26.667,35",Lead de Ciência de Dados,41,35-44,Masculino,16/12/2019,Ativo,Ciência de Dados,FL02
+Isabela Lima,DT79397,"R$ 24.515,08",Especialista em IA,35,35-44,Feminino,07/08/2015,Inativo,Machine Learning,FL06
+Lucas Ribeiro,DT75410,"R$ 25.394,80",Arquiteto Cloud,25,25-34,Masculino,15/11/2015,Ativo,Infraestrutura e Cloud,FL02
+Cláudia Mendes,DT38124,"R$ 11.928,93",Analista de RH Sênior,49,45-54,Feminino,28/06/2014,Ativo,Recursos Humanos,FL03
+Julio Rodrigues,DT69250,"R$ 26.982,21",Lead de Ciência de Dados,61,55+,Masculino,03/03/2017,Ativo,Ciência de Dados,FL01
+Ricardo Rodrigues,DT82089,"R$ 17.456,66",Engenheiro Cloud Sênior,28,25-34,Masculino,21/04/2024,Ativo,Infraestrutura e Cloud,FL01
+Leonardo Gonçalves,DT39391,"R$ 13.064,30",Cientista de Dados Pleno,33,25-34,Masculino,30/01/2021,Ativo,Ciência de Dados,FL03
+Alexandre Andrade,DT71263,"R$ 12.253,77",Product Manager Pleno,23,18-24,Masculino,23/06/2011,Ativo,Produto,FL02
+Cláudia Cardoso,DT78903,"R$ 20.940,04",Gerente de BI,22,18-24,Feminino,23/10/2012,Inativo,Business Intelligence,FL04
+Paulo Rodrigues,DT68979,"R$ 11.577,51",Analista de BI Sênior,53,45-54,Masculino,08/05/2024,Ativo,Business Intelligence,FL01
+Sabrina Lima,DT66704,"R$ 7.494,17",Engenheiro Cloud Júnior,51,45-54,Feminino,07/06/2013,Ativo,Infraestrutura e Cloud,FL03
+Bruno Rocha,DT39552,"R$ 20.152,64",Engenheiro de ML Sênior,34,25-34,Masculino,28/05/2014,Ativo,Machine Learning,FL02
+Lívia Fernandes,DT26406,"R$ 11.650,50",Analista de RH Sênior,23,18-24,Feminino,10/04/2021,Ativo,Recursos Humanos,FL06
+Isabela Gomes,DT32439,"R$ 12.448,86",Analista de RH Sênior,54,45-54,Feminino,04/12/2010,Inativo,Recursos Humanos,FL04
+Ana Ferreira,DT15958,"R$ 11.778,95",Analista de RH Sênior,54,45-54,Feminino,06/05/2019,Ativo,Recursos Humanos,FL09
+Lucas Ramos,DT92203,"R$ 16.209,54",Engenheiro Cloud Sênior,37,35-44,Masculino,31/10/2020,Ativo,Infraestrutura e Cloud,FL03
+Vitória Nunes,DT48985,"R$ 5.721,53",Analista de BI Júnior,28,25-34,Feminino,11/11/2019,Ativo,Business Intelligence,FL07
+Renata Carvalho,DT54589,"R$ 10.906,62",Product Manager Pleno,38,35-44,Feminino,30/09/2017,Inativo,Produto,FL06
+Mariana Andrade,DT77499,"R$ 6.957,35",Product Manager Júnior,47,45-54,Feminino,30/09/2012,Ativo,Produto,FL07
+Thiago Gomes,DT22689,"R$ 17.754,23",Engenheiro de Dados Sênior,57,55+,Masculino,19/05/2019,Ativo,Engenharia de Dados,FL02
+Monique Costa,DT52917,"R$ 15.544,09",Product Manager Sênior,28,25-34,Feminino,05/03/2021,Inativo,Produto,FL03
+Renata Ramos,DT50441,"R$ 5.270,15",Engenheiro Cloud Júnior,43,35-44,Feminino,03/05/2021,Ativo,Infraestrutura e Cloud,FL05
+Thiago Carvalho,DT86460,"R$ 7.151,62",Engenheiro de ML Júnior,49,45-54,Masculino,27/05/2023,Inativo,Machine Learning,FL01
+Paulo Cardoso,DT47453,"R$ 7.541,52",Engenheiro Cloud Júnior,45,45-54,Masculino,02/01/2013,Inativo,Infraestrutura e Cloud,FL01
+Renato Andrade,DT62855,"R$ 8.201,74",Engenheiro de ML Júnior,54,45-54,Masculino,08/08/2022,Ativo,Machine Learning,FL02
+Lívia Vieira,DT19637,"R$ 28.115,23",Especialista em IA,35,35-44,Feminino,24/12/2023,Ativo,Machine Learning,FL06
+Camila Lima,DT22672,"R$ 14.577,04",Analista de BI Sênior,39,35-44,Feminino,06/07/2022,Inativo,Business Intelligence,FL08
+Sabrina Gomes,DT36090,"R$ 24.500,55",Head de Produto,20,18-24,Feminino,15/11/2010,Ativo,Produto,FL08
+Tatiana Cardoso,DT78069,"R$ 9.121,91",Analista de BI Pleno,50,45-54,Feminino,19/02/2013,Ativo,Business Intelligence,FL08
+Marcelo Rocha,DT31299,"R$ 13.671,76",Analista de BI Sênior,50,45-54,Masculino,07/06/2021,Ativo,Business Intelligence,FL02
+Cláudia Barbosa,DT72245,"R$ 14.990,58",Engenheiro de Dados Sênior,25,25-34,Feminino,06/05/2019,Ativo,Engenharia de Dados,FL05
+Fábio Santos,DT88238,"R$ 17.835,35",Engenheiro Cloud Sênior,55,55+,Masculino,15/12/2022,Ativo,Infraestrutura e Cloud,FL02
+Gabriel Cardoso,DT32349,"R$ 20.034,43",Arquiteto Cloud,61,55+,Masculino,08/06/2015,Ativo,Infraestrutura e Cloud,FL02
+Ricardo Pereira,DT35006,"R$ 20.539,00",Arquiteto de Dados,27,25-34,Masculino,06/04/2019,Ativo,Engenharia de Dados,FL02
+Eduardo Gonçalves,DT90147,"R$ 7.117,33",Engenheiro Cloud Júnior,51,45-54,Masculino,26/08/2014,Ativo,Infraestrutura e Cloud,FL02
+Daniela Cardoso,DT78875,"R$ 20.761,77",Engenheiro de ML Sênior,47,45-54,Feminino,16/12/2021,Ativo,Machine Learning,FL04
+Vanessa Sousa,DT89963,"R$ 12.329,35",Engenheiro Cloud Pleno,35,35-44,Feminino,08/07/2022,Ativo,Infraestrutura e Cloud,FL05
+Gabriela Vieira,DT37168,"R$ 17.902,24",Gerente Financeiro,40,35-44,Feminino,28/07/2022,Inativo,Financeiro,FL08
+Fábio Fernandes,DT47721,"R$ 26.322,44",Lead de Ciência de Dados,43,35-44,Masculino,28/09/2017,Inativo,Ciência de Dados,FL02
+Fábio Gomes,DT48070,"R$ 17.798,91",Engenheiro de Dados Sênior,23,18-24,Masculino,08/10/2017,Inativo,Engenharia de Dados,FL03
+Bruna Sousa,DT72793,"R$ 10.397,83",Analista de Dados Pleno,35,35-44,Feminino,10/08/2022,Ativo,Análise de Dados,FL04
+Felipe Alves,DT90698,"R$ 7.348,60",Analista Comercial Pleno,60,55+,Masculino,29/11/2021,Ativo,Vendas e Parcerias,FL02
+Thiago Souza,DT23133,"R$ 14.228,11",Analista de BI Sênior,24,18-24,Masculino,31/01/2013,Ativo,Business Intelligence,FL01
+Alexandre Costa,DT63334,"R$ 16.387,24",Gerente de RH,30,25-34,Masculino,11/06/2016,Ativo,Recursos Humanos,FL01
+Bruna Souza,DT21725,"R$ 7.605,46",Analista de RH Pleno,20,18-24,Feminino,05/12/2013,Ativo,Recursos Humanos,FL04
+Luana Ribeiro,DT14763,"R$ 17.117,87",Gerente de BI,36,35-44,Feminino,03/11/2010,Ativo,Business Intelligence,FL05
+Isabela Alves,DT53914,"R$ 22.934,60",Gerente de Análise de Dados,52,45-54,Feminino,05/10/2021,Ativo,Análise de Dados,FL03
+Felipe Gonçalves,DT71344,"R$ 10.330,85",Analista de Dados Pleno,39,35-44,Masculino,24/08/2013,Ativo,Análise de Dados,FL01
+Bruna Sousa,DT34405,"R$ 17.058,45",Engenheiro de Dados Sênior,54,45-54,Feminino,15/02/2025,Ativo,Engenharia de Dados,FL04
+Bruno Nunes,DT66059,"R$ 13.433,69",Engenheiro Cloud Sênior,60,55+,Masculino,21/02/2012,Ativo,Infraestrutura e Cloud,FL02
+Mariana Cardoso,DT52415,"R$ 5.151,96",Analista de Dados Júnior,33,25-34,Feminino,08/01/2020,Ativo,Análise de Dados,FL09
+Tatiana Barbosa,DT86344,"R$ 4.653,88",Analista Financeiro Júnior,41,35-44,Feminino,20/04/2015,Ativo,Financeiro,FL04
+Rafael Freitas,DT50213,"R$ 24.959,48",Lead de Ciência de Dados,37,35-44,Masculino,19/08/2012,Ativo,Ciência de Dados,FL02
+Gabriela Andrade,DT90560,"R$ 10.850,76",Analista de Dados Pleno,48,45-54,Feminino,08/06/2013,Ativo,Análise de Dados,FL06
+Marcelo Andrade,DT64505,"R$ 20.544,10",Gerente Financeiro,60,55+,Masculino,25/11/2014,Ativo,Financeiro,FL02
+Vitor Ferreira,DT78879,"R$ 11.351,46",Analista de BI Sênior,54,45-54,Masculino,08/07/2012,Ativo,Business Intelligence,FL01
+Lívia Gonçalves,DT36497,"R$ 10.240,42",Product Manager Pleno,51,45-54,Feminino,29/11/2019,Ativo,Produto,FL08
+Diego Ramos,DT21919,"R$ 24.660,84",Arquiteto Cloud,47,45-54,Masculino,16/12/2012,Ativo,Infraestrutura e Cloud,FL02
+Carlos Souza,DT83242,"R$ 14.254,76",Analista de BI Sênior,43,35-44,Masculino,16/09/2015,Ativo,Business Intelligence,FL02
+Renato Carvalho,DT85800,"R$ 6.771,09",Engenheiro de Dados Júnior,62,55+,Masculino,07/06/2011,Ativo,Engenharia de Dados,FL01
+Fernanda Rodrigues,DT71875,"R$ 15.339,90",Engenheiro de Dados Sênior,26,25-34,Feminino,22/05/2024,Inativo,Engenharia de Dados,FL04
+Bruna Marques,DT59081,"R$ 28.956,96",Especialista em IA,42,35-44,Feminino,05/06/2018,Ativo,Machine Learning,FL05
+Daniela Monteiro,DT27431,"R$ 9.915,22",Analista de RH Sênior,52,45-54,Feminino,25/10/2018,Ativo,Recursos Humanos,FL04
+Renato Almeida,DT10455,"R$ 5.952,68",Analista Comercial Júnior,47,45-54,Masculino,08/02/2025,Ativo,Vendas e Parcerias,FL01
+Aline Monteiro,DT59712,"R$ 9.112,19",Analista de Dados Pleno,27,25-34,Feminino,08/03/2016,Ativo,Análise de Dados,FL04
+Roberta Pereira,DT14222,"R$ 17.074,62",Gerente de RH,19,18-24,Feminino,26/05/2015,Ativo,Recursos Humanos,FL10
+Rafael Oliveira,DT68515,"R$ 6.734,20",Product Manager Júnior,20,18-24,Masculino,09/01/2019,Ativo,Produto,FL02
+Alexandre Carvalho,DT17398,"R$ 15.787,89",Cientista de Dados Sênior,54,45-54,Masculino,25/02/2017,Ativo,Ciência de Dados,FL02
+Leandro Rocha,DT41051,"R$ 10.949,93",Analista de Dados Pleno,51,45-54,Masculino,16/12/2014,Ativo,Análise de Dados,FL01
+Rodrigo Souza,DT82970,"R$ 12.316,97",Product Manager Pleno,45,45-54,Masculino,20/06/2022,Ativo,Produto,FL01
+Leonardo Moreira,DT78742,"R$ 25.266,07",Especialista em IA,37,35-44,Masculino,11/06/2018,Ativo,Machine Learning,FL02
+Alexandre Cardoso,DT41584,"R$ 15.358,94",Analista de Dados Sênior,27,25-34,Masculino,21/05/2020,Inativo,Análise de Dados,FL02
+Lívia Marques,DT64592,"R$ 11.247,89",Product Manager Pleno,34,25-34,Feminino,24/07/2014,Ativo,Produto,FL10
+Juliana Mendes,DT58637,"R$ 9.206,15",Engenheiro de Dados Pleno,42,35-44,Feminino,09/02/2025,Ativo,Engenharia de Dados,FL07
+Fernanda Rodrigues,DT34662,"R$ 8.177,88",Analista Comercial Pleno,39,35-44,Feminino,19/10/2016,Inativo,Vendas e Parcerias,FL07
+Lucas Carvalho,DT34906,"R$ 5.443,13",Analista Comercial Júnior,48,45-54,Masculino,11/06/2015,Ativo,Vendas e Parcerias,FL02
+Ricardo Carvalho,DT61987,"R$ 14.989,81",Analista de Dados Sênior,42,35-44,Masculino,16/06/2020,Ativo,Análise de Dados,FL01
+Leonardo Barbosa,DT44283,"R$ 25.728,03",Especialista em IA,48,45-54,Masculino,08/03/2017,Inativo,Machine Learning,FL01
+Leonardo Rocha,DT64254,"R$ 11.965,01",Engenheiro de Dados Pleno,19,18-24,Masculino,07/11/2015,Ativo,Engenharia de Dados,FL02
+Fernando Marques,DT48691,"R$ 10.984,39",Cientista de Dados Pleno,42,35-44,Masculino,12/10/2022,Inativo,Ciência de Dados,FL02
+Pedro Dias,DT43728,"R$ 23.732,07",Diretor Comercial,59,55+,Masculino,01/01/2021,Ativo,Vendas e Parcerias,FL02
+Elisa Nascimento,DT32185,"R$ 21.696,31",Lead de Ciência de Dados,52,45-54,Feminino,24/05/2024,Ativo,Ciência de Dados,FL04
+Priscila Oliveira,DT19742,"R$ 5.910,85",Analista Financeiro Júnior,44,35-44,Feminino,31/01/2013,Inativo,Financeiro,FL04
+Thiago Rodrigues,DT29795,"R$ 11.022,93",Engenheiro de Dados Pleno,41,35-44,Masculino,11/05/2011,Ativo,Engenharia de Dados,FL01
+Vitor Cardoso,DT96413,"R$ 5.019,84",Engenheiro Cloud Júnior,53,45-54,Masculino,24/03/2019,Ativo,Infraestrutura e Cloud,FL01
+Daniel Fernandes,DT80220,"R$ 5.755,54",Analista de Dados Júnior,62,55+,Masculino,12/02/2025,Ativo,Análise de Dados,FL02
+Cristina Ribeiro,DT24026,"R$ 9.963,88",Engenheiro de Dados Pleno,57,55+,Feminino,22/10/2021,Ativo,Engenharia de Dados,FL07
+Leonardo Fernandes,DT62022,"R$ 17.816,84",Engenheiro de Dados Sênior,47,45-54,Masculino,03/09/2022,Ativo,Engenharia de Dados,FL01
+Ricardo Almeida,DT49318,"R$ 5.634,34",Analista Financeiro Júnior,59,55+,Masculino,17/09/2010,Ativo,Financeiro,FL01
+Henrique Moreira,DT82443,"R$ 6.910,24",Engenheiro Cloud Júnior,62,55+,Masculino,04/11/2013,Ativo,Infraestrutura e Cloud,FL02
+Monique Machado,DT94529,"R$ 9.684,37",Engenheiro de ML Júnior,20,18-24,Feminino,26/02/2015,Ativo,Machine Learning,FL09
+Julio Cardoso,DT45532,"R$ 7.553,29",Engenheiro de Dados Júnior,35,35-44,Masculino,07/03/2022,Ativo,Engenharia de Dados,FL01
+Fernanda Ribeiro,DT51220,"R$ 11.348,14",Engenheiro de Dados Pleno,43,35-44,Feminino,23/09/2011,Ativo,Engenharia de Dados,FL09
+Fernando Lopes,DT84277,"R$ 17.611,15",Engenheiro de ML Sênior,26,25-34,Masculino,05/10/2011,Ativo,Machine Learning,FL01
+Vanessa Souza,DT22803,"R$ 9.935,36",Analista de BI Pleno,39,35-44,Feminino,29/07/2023,Ativo,Business Intelligence,FL05
+Marcelo Nunes,DT52778,"R$ 17.025,97",Engenheiro de Dados Sênior,46,45-54,Masculino,02/01/2021,Ativo,Engenharia de Dados,FL02
+Lívia Moreira,DT66603,"R$ 21.057,01",Lead de Ciência de Dados,57,55+,Feminino,16/08/2016,Ativo,Ciência de Dados,FL10
+Ricardo Rodrigues,DT20752,"R$ 8.830,00",Analista de Dados Pleno,58,55+,Masculino,17/06/2013,Ativo,Análise de Dados,FL03
+Tatiana Andrade,DT23965,"R$ 8.328,88",Engenheiro de Dados Júnior,46,45-54,Feminino,27/01/2018,Ativo,Engenharia de Dados,FL05
+Rafael Lima,DT21442,"R$ 23.417,48",Lead de Ciência de Dados,53,45-54,Masculino,29/06/2021,Ativo,Ciência de Dados,FL01
+Ana Ferreira,DT56388,"R$ 7.790,77",Product Manager Júnior,38,35-44,Feminino,22/08/2018,Ativo,Produto,FL04
+Aline Moreira,DT21101,"R$ 9.001,86",Analista Financeiro Pleno,28,25-34,Feminino,16/07/2018,Ativo,Financeiro,FL06
+Letícia Barbosa,DT45180,"R$ 8.753,07",Engenheiro Cloud Pleno,45,45-54,Feminino,10/03/2016,Ativo,Infraestrutura e Cloud,FL03
+Pedro Rodrigues,DT57333,"R$ 10.023,15",Analista de Dados Pleno,49,45-54,Masculino,27/04/2023,Ativo,Análise de Dados,FL03
+Renata Alves,DT27758,"R$ 6.872,06",Analista de Dados Júnior,39,35-44,Feminino,29/11/2023,Ativo,Análise de Dados,FL06
+Julio Dias,DT67700,"R$ 28.523,80",Especialista em IA,59,55+,Masculino,02/05/2023,Ativo,Machine Learning,FL02
+Gustavo Martins,DT72784,"R$ 14.840,59",Engenheiro de ML Pleno,38,35-44,Masculino,15/07/2016,Ativo,Machine Learning,FL01
+Paulo Ramos,DT85481,"R$ 13.192,25",Analista de Dados Sênior,43,35-44,Masculino,10/03/2018,Ativo,Análise de Dados,FL02
+Fernando Martins,DT87624,"R$ 11.226,85",Engenheiro Cloud Pleno,53,45-54,Masculino,09/08/2010,Inativo,Infraestrutura e Cloud,FL01
+Carlos Carvalho,DT67469,"R$ 6.547,41",Analista de Dados Júnior,44,35-44,Masculino,04/02/2025,Ativo,Análise de Dados,FL01
+Bruna Barbosa,DT41722,"R$ 10.003,33",Analista de Dados Pleno,42,35-44,Feminino,29/08/2011,Ativo,Análise de Dados,FL08
+Marcelo Cardoso,DT86315,"R$ 19.261,87",Gerente de BI,41,35-44,Masculino,16/01/2022,Ativo,Business Intelligence,FL01
+Cristina Ferreira,DT24335,"R$ 8.801,61",Analista Comercial Pleno,40,35-44,Feminino,24/09/2013,Ativo,Vendas e Parcerias,FL03
+Gabriel Nunes,DT53463,"R$ 4.026,37",Analista de BI Júnior,34,25-34,Masculino,24/12/2014,Ativo,Business Intelligence,FL01
+Priscila Almeida,DT68429,"R$ 25.704,51",Especialista em IA,61,55+,Feminino,15/03/2023,Ativo,Machine Learning,FL07
+Mariana Nascimento,DT13219,"R$ 5.886,30",Engenheiro Cloud Júnior,23,18-24,Feminino,08/08/2012,Inativo,Infraestrutura e Cloud,FL03
+Renato Gomes,DT55656,"R$ 18.004,33",Engenheiro de ML Sênior,31,25-34,Masculino,08/09/2021,Ativo,Machine Learning,FL01
+Carla Alves,DT67431,"R$ 17.913,46",Gerente Financeiro,37,35-44,Feminino,02/01/2011,Ativo,Financeiro,FL08
+Camila Santos,DT54967,"R$ 4.854,28",Analista de RH Júnior,28,25-34,Feminino,22/06/2015,Ativo,Recursos Humanos,FL04
+Alexandre Costa,DT53383,"R$ 27.709,24",Head de Produto,32,25-34,Masculino,01/02/2019,Ativo,Produto,FL02
+Beatriz Machado,DT61849,"R$ 10.798,30",Engenheiro de Dados Pleno,45,45-54,Feminino,21/09/2018,Ativo,Engenharia de Dados,FL05
+Diego Carvalho,DT46483,"R$ 5.070,17",Analista Comercial Júnior,52,45-54,Masculino,12/03/2014,Ativo,Vendas e Parcerias,FL01
+Larissa Freitas,DT24936,"R$ 20.166,29",Gerente de Análise de Dados,58,55+,Feminino,11/01/2017,Ativo,Análise de Dados,FL05
+Natália Nunes,DT86939,"R$ 16.435,92",Cientista de Dados Sênior,47,45-54,Feminino,06/11/2023,Ativo,Ciência de Dados,FL04
+Daniela Barbosa,DT90541,"R$ 8.016,33",Product Manager Júnior,38,35-44,Feminino,23/08/2012,Ativo,Produto,FL03
+Rafael Ribeiro,DT58929,"R$ 8.787,89",Analista Financeiro Pleno,44,35-44,Masculino,18/05/2023,Ativo,Financeiro,FL01
+Patrícia Machado,DT34347,"R$ 10.719,65",Engenheiro Cloud Pleno,49,45-54,Feminino,24/06/2016,Ativo,Infraestrutura e Cloud,FL05
+Tatiana Mendes,DT91187,"R$ 17.783,29",Engenheiro de Dados Sênior,49,45-54,Feminino,23/01/2013,Ativo,Engenharia de Dados,FL08
+Henrique Gonçalves,DT95599,"R$ 23.792,88",Arquiteto Cloud,44,35-44,Masculino,16/12/2019,Ativo,Infraestrutura e Cloud,FL03
+Juliana Santos,DT38905,"R$ 5.187,13",Analista de Dados Júnior,52,45-54,Feminino,22/06/2016,Ativo,Análise de Dados,FL03
+Carlos Ramos,DT82053,"R$ 6.718,14",Engenheiro Cloud Júnior,35,35-44,Masculino,08/03/2022,Inativo,Infraestrutura e Cloud,FL01
+Leonardo Monteiro,DT15453,"R$ 20.370,83",Diretor Comercial,45,45-54,Masculino,18/04/2012,Ativo,Vendas e Parcerias,FL01
+Paulo Lopes,DT49021,"R$ 20.208,30",Arquiteto de Dados,23,18-24,Masculino,06/11/2019,Inativo,Engenharia de Dados,FL01
+Rafael Lopes,DT37509,"R$ 14.374,72",Gerente de Contas,57,55+,Masculino,11/03/2024,Ativo,Vendas e Parcerias,FL02
+Marcelo Lima,DT37082,"R$ 7.710,22",Cientista de Dados Júnior,52,45-54,Masculino,21/04/2016,Ativo,Ciência de Dados,FL01
+Bruno Rocha,DT48356,"R$ 15.785,79",Analista de Dados Sênior,50,45-54,Masculino,27/03/2025,Ativo,Análise de Dados,FL01
+Felipe Marques,DT17770,"R$ 9.954,99",Analista de Dados Pleno,26,25-34,Masculino,08/08/2015,Ativo,Análise de Dados,FL01
+Gustavo Lopes,DT98635,"R$ 16.853,03",Gerente de BI,58,55+,Masculino,11/01/2016,Ativo,Business Intelligence,FL02
+Henrique Mendes,DT19898,"R$ 4.305,70",Analista de RH Júnior,35,35-44,Masculino,12/04/2018,Ativo,Recursos Humanos,FL02
+Pedro Rocha,DT86278,"R$ 7.692,80",Engenheiro de Dados Júnior,47,45-54,Masculino,28/03/2024,Ativo,Engenharia de Dados,FL02
+Leonardo Rodrigues,DT80048,"R$ 10.388,45",Analista de BI Pleno,31,25-34,Masculino,04/02/2021,Ativo,Business Intelligence,FL01
+Luana Vieira,DT54270,"R$ 12.047,64",Product Manager Pleno,49,45-54,Feminino,16/09/2017,Inativo,Produto,FL04
+Leandro Souza,DT16021,"R$ 18.605,83",Arquiteto de Dados,28,25-34,Masculino,25/11/2019,Ativo,Engenharia de Dados,FL01
+Aline Martins,DT27290,"R$ 10.056,42",Analista de RH Sênior,35,35-44,Feminino,04/02/2012,Ativo,Recursos Humanos,FL04
+Letícia Ferreira,DT58738,"R$ 7.181,26",Analista Financeiro Pleno,58,55+,Feminino,07/11/2016,Ativo,Financeiro,FL06
+Leandro Almeida,DT66260,"R$ 4.907,40",Analista de RH Júnior,18,18-24,Masculino,15/10/2014,Ativo,Recursos Humanos,FL01
+Mariana Almeida,DT78084,"R$ 16.055,72",Gerente Financeiro,62,55+,Feminino,15/09/2017,Ativo,Financeiro,FL06
+Monique Machado,DT27324,"R$ 5.686,84",Engenheiro Cloud Júnior,23,18-24,Feminino,19/04/2012,Ativo,Infraestrutura e Cloud,FL04
+Vanessa Barbosa,DT27973,"R$ 13.387,09",Engenheiro de ML Pleno,61,55+,Feminino,16/03/2013,Ativo,Machine Learning,FL06
+Fernando Silva,DT89995,"R$ 7.320,30",Analista de RH Pleno,31,25-34,Masculino,02/02/2024,Ativo,Recursos Humanos,FL02
+Marcos Marques,DT90750,"R$ 21.159,78",Gerente Financeiro,23,18-24,Masculino,03/04/2012,Ativo,Financeiro,FL02
+Camila Moreira,DT56076,"R$ 14.559,84",Analista de BI Sênior,33,25-34,Feminino,18/03/2016,Ativo,Business Intelligence,FL06
+Thiago Vieira,DT13515,"R$ 10.219,06",Analista de RH Sênior,56,55+,Masculino,06/06/2021,Ativo,Recursos Humanos,FL01
+Patrícia Vieira,DT94694,"R$ 10.979,55",Engenheiro de Dados Pleno,25,25-34,Feminino,29/05/2015,Ativo,Engenharia de Dados,FL04
+Natália Rodrigues,DT79243,"R$ 17.702,66",Engenheiro de Dados Sênior,26,25-34,Feminino,04/09/2018,Inativo,Engenharia de Dados,FL09
+Isabela Marques,DT57895,"R$ 11.550,90",Engenheiro Cloud Pleno,22,18-24,Feminino,17/05/2010,Ativo,Infraestrutura e Cloud,FL03
+Lucas Sousa,DT38277,"R$ 8.346,04",Engenheiro de Dados Júnior,43,35-44,Masculino,13/05/2021,Ativo,Engenharia de Dados,FL01
+Ricardo Gonçalves,DT64451,"R$ 16.494,57",Gerente de BI,52,45-54,Masculino,22/01/2022,Ativo,Business Intelligence,FL01
+Rodrigo Ferreira,DT50620,"R$ 12.897,25",Engenheiro de Dados Pleno,27,25-34,Masculino,12/01/2022,Ativo,Engenharia de Dados,FL01
+Fernando Rodrigues,DT50654,"R$ 20.379,75",Gerente Financeiro,33,25-34,Masculino,20/04/2011,Ativo,Financeiro,FL02
+Marcos Machado,DT25202,"R$ 4.773,23",Analista de BI Júnior,60,55+,Masculino,09/12/2013,Ativo,Business Intelligence,FL01
+Ricardo Lima,DT11487,"R$ 26.694,61",Lead de Ciência de Dados,51,45-54,Masculino,08/08/2021,Ativo,Ciência de Dados,FL01
+Renato Sousa,DT31884,"R$ 13.873,99",Engenheiro de ML Pleno,35,35-44,Masculino,25/08/2012,Ativo,Machine Learning,FL03
+Lucas Dias,DT66272,"R$ 5.157,37",Analista de Dados Júnior,54,45-54,Masculino,28/01/2024,Ativo,Análise de Dados,FL01
+Carlos Gonçalves,DT57202,"R$ 24.085,84",Arquiteto de Dados,28,25-34,Masculino,01/04/2018,Ativo,Engenharia de Dados,FL01
+Leandro Alves,DT85223,"R$ 4.571,01",Analista Financeiro Júnior,50,45-54,Masculino,22/01/2010,Ativo,Financeiro,FL02
+Julio Silva,DT42053,"R$ 20.865,85",Arquiteto de Dados,27,25-34,Masculino,06/01/2014,Inativo,Engenharia de Dados,FL02
+Monique Oliveira,DT82465,"R$ 17.347,09",Gerente Financeiro,33,25-34,Feminino,03/05/2019,Inativo,Financeiro,FL04
+Gustavo Fernandes,DT20208,"R$ 15.156,71",Product Manager Sênior,61,55+,Masculino,08/03/2011,Ativo,Produto,FL02
+Fábio Araújo,DT16019,"R$ 6.192,48",Analista de BI Júnior,36,35-44,Masculino,20/12/2016,Ativo,Business Intelligence,FL02
+Alexandre Freitas,DT11044,"R$ 11.812,18",Engenheiro de ML Pleno,37,35-44,Masculino,20/12/2023,Ativo,Machine Learning,FL01
+Vanessa Ramos,DT35614,"R$ 7.026,98",Analista Comercial Pleno,44,35-44,Feminino,15/07/2010,Ativo,Vendas e Parcerias,FL06
+Leonardo Silva,DT53911,"R$ 24.018,54",Arquiteto de Dados,37,35-44,Masculino,01/05/2012,Ativo,Engenharia de Dados,FL01
+Thiago Marques,DT74491,"R$ 11.846,61",Engenheiro de Dados Pleno,23,18-24,Masculino,26/12/2010,Inativo,Engenharia de Dados,FL02
+Roberta Araújo,DT64140,"R$ 12.833,83",Analista Financeiro Sênior,23,18-24,Feminino,10/01/2023,Ativo,Financeiro,FL08
+Mariana Nunes,DT19808,"R$ 7.304,95",Product Manager Júnior,26,25-34,Feminino,24/04/2015,Ativo,Produto,FL05
+Julio Rocha,DT61505,"R$ 12.272,23",Analista Financeiro Sênior,35,35-44,Masculino,29/03/2015,Ativo,Financeiro,FL03
+Diego Lima,DT86638,"R$ 9.422,63",Engenheiro de Dados Pleno,46,45-54,Masculino,14/06/2020,Ativo,Engenharia de Dados,FL01
+Rafael Monteiro,DT56961,"R$ 8.081,71",Analista Comercial Pleno,47,45-54,Masculino,11/12/2015,Inativo,Vendas e Parcerias,FL03
+Juliana Costa,DT99922,"R$ 5.037,55",Analista de Dados Júnior,38,35-44,Feminino,30/04/2013,Ativo,Análise de Dados,FL04
+Thiago Nascimento,DT61936,"R$ 7.031,55",Engenheiro Cloud Júnior,34,25-34,Masculino,25/11/2013,Ativo,Infraestrutura e Cloud,FL02
+Patrícia Mendes,DT82869,"R$ 6.831,54",Analista Comercial Pleno,24,18-24,Feminino,19/02/2013,Ativo,Vendas e Parcerias,FL06
+Gabriel Almeida,DT27133,"R$ 22.919,56",Lead de Ciência de Dados,58,55+,Masculino,17/06/2024,Ativo,Ciência de Dados,FL01
+Fernando Sousa,DT19828,"R$ 6.093,25",Engenheiro de Dados Júnior,59,55+,Masculino,12/12/2019,Ativo,Engenharia de Dados,FL01
+Matheus Dias,DT26059,"R$ 18.829,15",Arquiteto de Dados,54,45-54,Masculino,19/09/2019,Inativo,Engenharia de Dados,FL02
+Henrique Ramos,DT13864,"R$ 23.382,46",Especialista em IA,31,25-34,Masculino,14/03/2014,Ativo,Machine Learning,FL03
+Carlos Gomes,DT14541,"R$ 7.941,84",Analista de RH Pleno,49,45-54,Masculino,30/03/2019,Inativo,Recursos Humanos,FL01
+Carla Souza,DT21497,"R$ 17.823,42",Gerente de Análise de Dados,30,25-34,Feminino,31/05/2024,Ativo,Análise de Dados,FL03
+Daniel Lopes,DT92674,"R$ 7.968,21",Engenheiro Cloud Júnior,40,35-44,Masculino,04/10/2020,Ativo,Infraestrutura e Cloud,FL02
+Pedro Nascimento,DT84141,"R$ 14.941,91",Engenheiro Cloud Sênior,29,25-34,Masculino,02/08/2010,Ativo,Infraestrutura e Cloud,FL01
+Thiago Santos,DT46822,"R$ 21.941,31",Arquiteto de Dados,55,55+,Masculino,22/03/2015,Inativo,Engenharia de Dados,FL02
+Camila Lopes,DT96096,"R$ 13.901,60",Analista de Dados Sênior,21,18-24,Feminino,03/12/2014,Ativo,Análise de Dados,FL05
+Fábio Moreira,DT56504,"R$ 10.564,48",Cientista de Dados Pleno,38,35-44,Masculino,18/01/2018,Inativo,Ciência de Dados,FL02
+Ana Nascimento,DT84403,"R$ 12.033,99",Product Manager Pleno,30,25-34,Feminino,15/01/2021,Ativo,Produto,FL05
+Bruno Ramos,DT14975,"R$ 6.197,87",Engenheiro de Dados Júnior,32,25-34,Masculino,13/06/2010,Ativo,Engenharia de Dados,FL02
+Lucas Dias,DT90495,"R$ 11.033,42",Cientista de Dados Pleno,29,25-34,Masculino,04/04/2017,Ativo,Ciência de Dados,FL01
+Felipe Gomes,DT24538,"R$ 17.802,79",Engenheiro Cloud Sênior,41,35-44,Masculino,07/11/2024,Ativo,Infraestrutura e Cloud,FL03
+Camila Dias,DT49552,"R$ 14.891,37",Engenheiro de ML Pleno,45,45-54,Feminino,03/05/2024,Ativo,Machine Learning,FL03
+Paulo Rocha,DT32833,"R$ 11.892,95",Analista Financeiro Sênior,55,55+,Masculino,07/12/2013,Ativo,Financeiro,FL03
+Elisa Vieira,DT26691,"R$ 8.846,36",Cientista de Dados Júnior,54,45-54,Feminino,13/10/2018,Inativo,Ciência de Dados,FL05
+Leandro Oliveira,DT33865,"R$ 19.565,71",Product Manager Sênior,57,55+,Masculino,15/12/2014,Ativo,Produto,FL01
+Camila Ramos,DT28434,"R$ 7.713,99",Engenheiro de ML Júnior,38,35-44,Feminino,07/10/2013,Ativo,Machine Learning,FL07
+Juliana Dias,DT68540,"R$ 14.443,58",Engenheiro de Dados Sênior,62,55+,Feminino,10/07/2011,Ativo,Engenharia de Dados,FL04
+Vitória Alves,DT10167,"R$ 21.348,43",Arquiteto de Dados,44,35-44,Feminino,24/09/2013,Inativo,Engenharia de Dados,FL07
+Pedro Moreira,DT56036,"R$ 19.710,00",Arquiteto Cloud,48,45-54,Masculino,19/12/2022,Ativo,Infraestrutura e Cloud,FL01
+Vitor Almeida,DT31319,"R$ 5.997,99",Analista de BI Júnior,20,18-24,Masculino,12/08/2016,Ativo,Business Intelligence,FL02
+Rodrigo Alves,DT19725,"R$ 14.495,69",Engenheiro de ML Pleno,28,25-34,Masculino,07/09/2011,Ativo,Machine Learning,FL02
+Roberta Ferreira,DT54295,"R$ 25.931,53",Head de Produto,45,45-54,Feminino,29/08/2024,Ativo,Produto,FL08
+Roberta Machado,DT30591,"R$ 6.493,28",Engenheiro de Dados Júnior,30,25-34,Feminino,07/03/2019,Ativo,Engenharia de Dados,FL06
+Renato Monteiro,DT44768,"R$ 10.540,90",Analista de RH Sênior,24,18-24,Masculino,11/02/2011,Ativo,Recursos Humanos,FL01
+Lívia Ramos,DT30131,"R$ 13.517,17",Engenheiro de Dados Sênior,23,18-24,Feminino,09/08/2016,Inativo,Engenharia de Dados,FL04
+Paulo Cardoso,DT36171,"R$ 6.120,86",Engenheiro de Dados Júnior,58,55+,Masculino,18/07/2016,Inativo,Engenharia de Dados,FL02
+Carla Pereira,DT50416,"R$ 18.934,58",Gerente de BI,60,55+,Feminino,11/12/2015,Ativo,Business Intelligence,FL04
+Alexandre Moreira,DT34232,"R$ 24.955,21",Especialista em IA,46,45-54,Masculino,01/01/2011,Ativo,Machine Learning,FL02
+Renata Sousa,DT39654,"R$ 4.877,83",Analista de Dados Júnior,62,55+,Feminino,20/12/2024,Ativo,Análise de Dados,FL07
+Vitor Nascimento,DT80968,"R$ 8.937,61",Analista de BI Pleno,42,35-44,Masculino,20/09/2021,Ativo,Business Intelligence,FL02
+Alexandre Cardoso,DT85066,"R$ 18.793,11",Gerente de Análise de Dados,43,35-44,Masculino,12/10/2010,Ativo,Análise de Dados,FL01
+André Araújo,DT84905,"R$ 7.420,99",Analista Financeiro Pleno,46,45-54,Masculino,17/11/2013,Inativo,Financeiro,FL01
+Beatriz Carvalho,DT35260,"R$ 7.270,12",Cientista de Dados Júnior,61,55+,Feminino,07/10/2019,Ativo,Ciência de Dados,FL06
+Caio Gomes,DT87994,"R$ 15.598,62",Analista de Dados Sênior,22,18-24,Masculino,14/12/2011,Ativo,Análise de Dados,FL02
+Patrícia Rocha,DT46202,"R$ 25.420,13",Arquiteto Cloud,18,18-24,Feminino,23/12/2023,Ativo,Infraestrutura e Cloud,FL08
+Vitória Marques,DT24748,"R$ 7.518,70",Analista de BI Pleno,55,55+,Feminino,26/01/2023,Ativo,Business Intelligence,FL10
+Rafael Alves,DT83752,"R$ 5.528,64",Analista Comercial Júnior,52,45-54,Masculino,17/09/2017,Inativo,Vendas e Parcerias,FL02
+Letícia Moreira,DT95824,"R$ 19.262,26",Arquiteto Cloud,35,35-44,Feminino,15/01/2019,Ativo,Infraestrutura e Cloud,FL03
+Marcelo Nunes,DT15083,"R$ 14.107,31",Analista de BI Sênior,21,18-24,Masculino,28/08/2020,Inativo,Business Intelligence,FL01
+André Andrade,DT12651,"R$ 17.210,22",Engenheiro de ML Sênior,49,45-54,Masculino,15/03/2012,Inativo,Machine Learning,FL02
+Thiago Lima,DT49384,"R$ 22.192,25",Diretor Comercial,38,35-44,Masculino,17/01/2016,Ativo,Vendas e Parcerias,FL02
+Marcelo Ferreira,DT34633,"R$ 10.197,01",Analista de BI Pleno,44,35-44,Masculino,12/11/2020,Ativo,Business Intelligence,FL01
+Julio Andrade,DT17367,"R$ 8.762,47",Engenheiro Cloud Pleno,50,45-54,Masculino,18/01/2019,Ativo,Infraestrutura e Cloud,FL02
+Julio Araújo,DT84537,"R$ 9.771,05",Engenheiro de Dados Pleno,30,25-34,Masculino,18/04/2011,Ativo,Engenharia de Dados,FL01
+Renata Souza,DT57235,"R$ 7.958,92",Analista Financeiro Pleno,47,45-54,Feminino,30/04/2021,Ativo,Financeiro,FL04
+Cristina Pereira,DT99282,"R$ 10.489,87",Engenheiro de Dados Pleno,56,55+,Feminino,03/01/2020,Ativo,Engenharia de Dados,FL04
+Julio Cardoso,DT86923,"R$ 16.393,37",Product Manager Sênior,34,25-34,Masculino,11/01/2012,Ativo,Produto,FL02
+Henrique Souza,DT31352,"R$ 13.357,00",Product Manager Pleno,59,55+,Masculino,19/01/2015,Ativo,Produto,FL01
+Letícia Marques,DT77276,"R$ 6.922,29",Engenheiro de Dados Júnior,26,25-34,Feminino,09/07/2024,Ativo,Engenharia de Dados,FL04
+Vitória Silva,DT39329,"R$ 14.707,33",Analista de Dados Sênior,59,55+,Feminino,05/03/2016,Ativo,Análise de Dados,FL06
+Patrícia Nascimento,DT70161,"R$ 9.133,44",Analista de Dados Pleno,61,55+,Feminino,05/09/2021,Inativo,Análise de Dados,FL08
+Patrícia Alves,DT10963,"R$ 15.807,29",Engenheiro Cloud Sênior,56,55+,Feminino,30/08/2023,Ativo,Infraestrutura e Cloud,FL04
+Daniela Alves,DT73142,"R$ 17.947,62",Engenheiro de Dados Sênior,58,55+,Feminino,17/04/2017,Inativo,Engenharia de Dados,FL05
+Rodrigo Barbosa,DT34688,"R$ 13.548,59",Cientista de Dados Pleno,56,55+,Masculino,24/01/2019,Ativo,Ciência de Dados,FL01
+Vitor Lima,DT13336,"R$ 18.987,35",Gerente de RH,34,25-34,Masculino,22/05/2019,Ativo,Recursos Humanos,FL01
+Renato Oliveira,DT86418,"R$ 8.201,08",Analista Financeiro Pleno,32,25-34,Masculino,28/12/2021,Ativo,Financeiro,FL01
+Carla Nascimento,DT76494,"R$ 10.442,24",Analista de Dados Pleno,53,45-54,Feminino,23/01/2014,Ativo,Análise de Dados,FL06
+Carla Lima,DT43902,"R$ 10.314,23",Analista Financeiro Pleno,39,35-44,Feminino,05/09/2024,Ativo,Financeiro,FL07
+Leonardo Almeida,DT50250,"R$ 12.672,57",Analista de BI Sênior,55,55+,Masculino,05/08/2016,Ativo,Business Intelligence,FL01
+Camila Cardoso,DT17035,"R$ 4.444,44",Analista de RH Júnior,30,25-34,Feminino,23/03/2021,Ativo,Recursos Humanos,FL04
+Daniela Moreira,DT79446,"R$ 17.324,37",Gerente de Análise de Dados,27,25-34,Feminino,30/01/2013,Inativo,Análise de Dados,FL08
+Gustavo Marques,DT84632,"R$ 8.107,34",Analista de BI Pleno,29,25-34,Masculino,25/10/2011,Ativo,Business Intelligence,FL02
+Paulo Ribeiro,DT51079,"R$ 3.509,43",Analista de RH Júnior,35,35-44,Masculino,12/09/2014,Ativo,Recursos Humanos,FL02
+Bruno Costa,DT74169,"R$ 4.084,69",Analista Comercial Júnior,45,45-54,Masculino,17/03/2024,Ativo,Vendas e Parcerias,FL01
+Eduardo Cardoso,DT60242,"R$ 7.101,35",Engenheiro de Dados Júnior,41,35-44,Masculino,26/04/2010,Inativo,Engenharia de Dados,FL02
+Sabrina Araújo,DT34979,"R$ 7.380,06",Engenheiro de Dados Júnior,33,25-34,Feminino,28/01/2015,Ativo,Engenharia de Dados,FL06
+Vanessa Barbosa,DT26899,"R$ 21.771,69",Arquiteto de Dados,37,35-44,Feminino,30/09/2013,Ativo,Engenharia de Dados,FL08
+Gabriel Barbosa,DT48119,"R$ 12.951,49",Analista de BI Sênior,61,55+,Masculino,01/01/2013,Ativo,Business Intelligence,FL02
+Roberta Ramos,DT57087,"R$ 7.077,09",Analista Comercial Pleno,43,35-44,Feminino,06/06/2010,Ativo,Vendas e Parcerias,FL09
+Elisa Lima,DT37681,"R$ 5.097,32",Analista Comercial Júnior,28,25-34,Feminino,05/10/2012,Ativo,Vendas e Parcerias,FL04
+Paulo Oliveira,DT59177,"R$ 12.199,37",Analista de RH Sênior,57,55+,Masculino,03/02/2011,Ativo,Recursos Humanos,FL01
+Fernanda Alves,DT95664,"R$ 7.569,25",Engenheiro de Dados Júnior,44,35-44,Feminino,19/12/2019,Ativo,Engenharia de Dados,FL07
+Alexandre Sousa,DT72180,"R$ 7.719,23",Analista Financeiro Pleno,61,55+,Masculino,20/02/2024,Ativo,Financeiro,FL01
+Aline Alves,DT96832,"R$ 16.113,99",Engenheiro Cloud Sênior,62,55+,Feminino,28/01/2013,Ativo,Infraestrutura e Cloud,FL08
+André Alves,DT77054,"R$ 4.706,77",Analista Financeiro Júnior,24,18-24,Masculino,01/03/2021,Ativo,Financeiro,FL01
+Larissa Sousa,DT78569,"R$ 18.368,90",Cientista de Dados Sênior,36,35-44,Feminino,06/08/2013,Ativo,Ciência de Dados,FL07
+Carla Carvalho,DT73001,"R$ 10.512,32",Engenheiro de ML Pleno,60,55+,Feminino,31/12/2011,Inativo,Machine Learning,FL07
+Caio Ramos,DT29548,"R$ 7.670,69",Engenheiro de Dados Júnior,24,18-24,Masculino,28/09/2015,Ativo,Engenharia de Dados,FL01
+Carlos Vieira,DT44619,"R$ 4.249,52",Analista de BI Júnior,29,25-34,Masculino,20/11/2010,Inativo,Business Intelligence,FL01
+Vanessa Rocha,DT65836,"R$ 4.009,00",Analista Comercial Júnior,20,18-24,Feminino,21/03/2010,Inativo,Vendas e Parcerias,FL06
+Daniela Costa,DT53078,"R$ 29.640,71",Especialista em IA,35,35-44,Feminino,01/02/2012,Ativo,Machine Learning,FL09
+Gustavo Ribeiro,DT24920,"R$ 21.773,86",Gerente de BI,35,35-44,Masculino,26/08/2018,Ativo,Business Intelligence,FL01
+Pedro Marques,DT95045,"R$ 6.397,53",Cientista de Dados Júnior,21,18-24,Masculino,29/07/2013,Ativo,Ciência de Dados,FL01
+Marcos Cardoso,DT84572,"R$ 17.087,56",Gerente Financeiro,42,35-44,Masculino,16/01/2018,Ativo,Financeiro,FL02
+Monique Lima,DT73318,"R$ 7.662,78",Engenheiro Cloud Júnior,46,45-54,Feminino,12/01/2011,Ativo,Infraestrutura e Cloud,FL09
+Paulo Rocha,DT11620,"R$ 10.422,63",Analista Financeiro Pleno,60,55+,Masculino,03/08/2017,Ativo,Financeiro,FL01
+Ricardo Alves,DT66734,"R$ 7.445,79",Analista de RH Pleno,60,55+,Masculino,03/03/2025,Ativo,Recursos Humanos,FL02
+Felipe Souza,DT11526,"R$ 7.516,70",Analista de RH Pleno,48,45-54,Masculino,13/02/2021,Inativo,Recursos Humanos,FL01
+Matheus Ramos,DT52026,"R$ 15.865,65",Analista de Dados Sênior,21,18-24,Masculino,15/05/2021,Ativo,Análise de Dados,FL01
+Paulo Moreira,DT62858,"R$ 5.647,74",Analista de Dados Júnior,54,45-54,Masculino,19/01/2020,Ativo,Análise de Dados,FL02
+Pedro Mendes,DT51426,"R$ 25.344,05",Lead de Ciência de Dados,19,18-24,Masculino,20/04/2012,Ativo,Ciência de Dados,FL02
+Fernanda Silva,DT21913,"R$ 19.395,61",Product Manager Sênior,53,45-54,Feminino,22/08/2014,Ativo,Produto,FL07
+Carlos Dias,DT57624,"R$ 12.377,27",Engenheiro de Dados Pleno,39,35-44,Masculino,25/07/2022,Ativo,Engenharia de Dados,FL01
+Marcelo Cardoso,DT96136,"R$ 22.912,19",Especialista em IA,60,55+,Masculino,22/12/2014,Ativo,Machine Learning,FL01
+Leonardo Vieira,DT81786,"R$ 16.510,48",Engenheiro Cloud Sênior,20,18-24,Masculino,06/09/2013,Ativo,Infraestrutura e Cloud,FL01
+Caio Marques,DT24019,"R$ 8.156,40",Analista de Dados Pleno,43,35-44,Masculino,02/11/2014,Ativo,Análise de Dados,FL03
+Fábio Martins,DT54293,"R$ 18.802,25",Arquiteto de Dados,58,55+,Masculino,28/01/2025,Ativo,Engenharia de Dados,FL01
+Leandro Mendes,DT69950,"R$ 8.891,56",Analista de RH Pleno,18,18-24,Masculino,23/11/2021,Ativo,Recursos Humanos,FL02
+Alexandre Machado,DT86692,"R$ 11.267,27",Engenheiro Cloud Pleno,29,25-34,Masculino,17/11/2012,Ativo,Infraestrutura e Cloud,FL03
+Daniela Rocha,DT76074,"R$ 29.836,01",Especialista em IA,62,55+,Feminino,27/07/2015,Ativo,Machine Learning,FL10
+Tatiana Vieira,DT69355,"R$ 11.357,35",Cientista de Dados Pleno,62,55+,Feminino,28/06/2021,Ativo,Ciência de Dados,FL07
+Ricardo Rocha,DT82559,"R$ 6.602,67",Analista de RH Pleno,57,55+,Masculino,08/07/2016,Ativo,Recursos Humanos,FL02
+Marcos Lima,DT95208,"R$ 18.406,94",Cientista de Dados Sênior,40,35-44,Masculino,12/08/2022,Ativo,Ciência de Dados,FL02
+Fernando Marques,DT98374,"R$ 14.448,65",Gerente de Contas,45,45-54,Masculino,15/04/2010,Ativo,Vendas e Parcerias,FL01
+Ana Moreira,DT29048,"R$ 6.099,71",Engenheiro de Dados Júnior,28,25-34,Feminino,05/06/2016,Ativo,Engenharia de Dados,FL10
+Felipe Souza,DT48684,"R$ 7.076,05",Cientista de Dados Júnior,46,45-54,Masculino,19/04/2012,Ativo,Ciência de Dados,FL01
+Vitor Almeida,DT94819,"R$ 22.663,17",Head de Produto,62,55+,Masculino,14/06/2016,Ativo,Produto,FL02
+Fernanda Moreira,DT60797,"R$ 15.346,25",Analista de BI Sênior,21,18-24,Feminino,17/04/2010,Ativo,Business Intelligence,FL03
+Larissa Mendes,DT39563,"R$ 12.142,88",Analista de RH Sênior,52,45-54,Feminino,14/07/2023,Ativo,Recursos Humanos,FL08
+Renato Martins,DT48558,"R$ 10.442,09",Analista de BI Pleno,22,18-24,Masculino,12/03/2014,Inativo,Business Intelligence,FL02
+Renato Gonçalves,DT25643,"R$ 8.285,52",Engenheiro de ML Júnior,53,45-54,Masculino,05/12/2015,Ativo,Machine Learning,FL02
+Fernando Sousa,DT10739,"R$ 27.677,51",Especialista em IA,27,25-34,Masculino,24/11/2010,Ativo,Machine Learning,FL01
+Tatiana Souza,DT91968,"R$ 11.216,93",Analista de RH Sênior,54,45-54,Feminino,04/05/2022,Ativo,Recursos Humanos,FL07
+Fábio Rocha,DT78864,"R$ 9.322,12",Analista de Dados Pleno,50,45-54,Masculino,29/07/2013,Ativo,Análise de Dados,FL01
+Alexandre Nunes,DT22051,"R$ 14.475,29",Engenheiro de ML Pleno,60,55+,Masculino,11/06/2017,Ativo,Machine Learning,FL02
+Anderson Carvalho,DT91039,"R$ 25.976,42",Arquiteto Cloud,59,55+,Masculino,14/03/2010,Ativo,Infraestrutura e Cloud,FL01
+Leonardo Mendes,DT41502,"R$ 8.876,69",Analista de RH Pleno,61,55+,Masculino,14/03/2017,Ativo,Recursos Humanos,FL01
+Fábio Pereira,DT60577,"R$ 11.611,18",Analista de Dados Sênior,51,45-54,Masculino,30/05/2018,Ativo,Análise de Dados,FL01
+Priscila Mendes,DT73806,"R$ 17.542,27",Engenheiro de Dados Sênior,30,25-34,Feminino,09/03/2017,Ativo,Engenharia de Dados,FL03
+Camila Costa,DT80513,"R$ 6.880,80",Engenheiro Cloud Júnior,31,25-34,Feminino,13/01/2025,Ativo,Infraestrutura e Cloud,FL05
+Larissa Machado,DT23621,"R$ 24.702,65",Lead de Ciência de Dados,22,18-24,Feminino,13/06/2013,Ativo,Ciência de Dados,FL10
+Ricardo Dias,DT14965,"R$ 5.662,80",Engenheiro de Dados Júnior,34,25-34,Masculino,08/07/2022,Ativo,Engenharia de Dados,FL02
+Luana Almeida,DT43901,"R$ 18.706,75",Gerente de BI,43,35-44,Feminino,18/09/2019,Ativo,Business Intelligence,FL06
+Patrícia Pereira,DT80101,"R$ 7.767,88",Engenheiro de Dados Júnior,55,55+,Feminino,08/01/2011,Ativo,Engenharia de Dados,FL04
+Juliana Nascimento,DT75907,"R$ 17.041,01",Engenheiro de Dados Sênior,37,35-44,Feminino,09/08/2023,Ativo,Engenharia de Dados,FL06
+Leandro Mendes,DT59992,"R$ 5.184,97",Analista de BI Júnior,52,45-54,Masculino,07/12/2014,Ativo,Business Intelligence,FL03
+Henrique Monteiro,DT48663,"R$ 6.894,17",Analista de RH Pleno,59,55+,Masculino,15/05/2018,Inativo,Recursos Humanos,FL03
+Ana Gomes,DT26152,"R$ 7.218,16",Engenheiro de Dados Júnior,43,35-44,Feminino,18/01/2022,Ativo,Engenharia de Dados,FL05
+Matheus Barbosa,DT37532,"R$ 11.452,82",Gerente de Contas,59,55+,Masculino,30/06/2021,Ativo,Vendas e Parcerias,FL03
+Bruno Almeida,DT90856,"R$ 7.901,18",Analista de Dados Pleno,60,55+,Masculino,22/09/2022,Inativo,Análise de Dados,FL03
+Julio Freitas,DT94498,"R$ 6.871,96",Product Manager Júnior,22,18-24,Masculino,16/08/2015,Ativo,Produto,FL02
+Renato Ramos,DT53365,"R$ 13.520,83",Engenheiro de ML Pleno,33,25-34,Masculino,30/03/2012,Ativo,Machine Learning,FL01
+Juliana Martins,DT51652,"R$ 21.298,42",Arquiteto Cloud,60,55+,Feminino,09/11/2016,Ativo,Infraestrutura e Cloud,FL07
+Mariana Andrade,DT51462,"R$ 7.016,91",Analista de BI Pleno,33,25-34,Feminino,20/12/2014,Ativo,Business Intelligence,FL04
+Bruna Machado,DT46264,"R$ 13.558,11",Engenheiro de ML Pleno,39,35-44,Feminino,06/10/2020,Ativo,Machine Learning,FL05
+Leonardo Barbosa,DT73828,"R$ 6.527,31",Product Manager Júnior,56,55+,Masculino,03/11/2011,Inativo,Produto,FL03
+Julio Lima,DT80597,"R$ 18.534,50",Cientista de Dados Sênior,58,55+,Masculino,19/09/2011,Ativo,Ciência de Dados,FL01
+André Santos,DT76476,"R$ 5.125,28",Analista de RH Júnior,55,55+,Masculino,01/02/2019,Ativo,Recursos Humanos,FL01
+Larissa Oliveira,DT82298,"R$ 20.923,45",Gerente de Análise de Dados,27,25-34,Feminino,16/03/2018,Ativo,Análise de Dados,FL07
+André Vieira,DT27548,"R$ 4.991,96",Analista de BI Júnior,50,45-54,Masculino,28/03/2010,Ativo,Business Intelligence,FL01
+Julio Costa,DT77388,"R$ 21.534,95",Lead de Ciência de Dados,54,45-54,Masculino,10/09/2022,Ativo,Ciência de Dados,FL02
+Felipe Cardoso,DT57028,"R$ 12.045,89",Engenheiro de Dados Pleno,32,25-34,Masculino,30/05/2011,Ativo,Engenharia de Dados,FL02
+Thiago Oliveira,DT97632,"R$ 16.634,51",Cientista de Dados Sênior,47,45-54,Masculino,16/01/2011,Ativo,Ciência de Dados,FL03
+Bruna Rocha,DT23529,"R$ 14.339,49",Analista Financeiro Sênior,34,25-34,Feminino,24/12/2022,Ativo,Financeiro,FL05
+Bruno Moreira,DT95678,"R$ 18.732,23",Engenheiro de ML Sênior,22,18-24,Masculino,03/08/2021,Ativo,Machine Learning,FL02
+Marcos Almeida,DT77681,"R$ 14.677,57",Analista de BI Sênior,40,35-44,Masculino,02/12/2020,Ativo,Business Intelligence,FL03
+Roberta Silva,DT75776,"R$ 21.576,44",Lead de Ciência de Dados,22,18-24,Feminino,17/07/2021,Ativo,Ciência de Dados,FL07
+Larissa Gomes,DT34498,"R$ 17.811,11",Cientista de Dados Sênior,25,25-34,Feminino,29/10/2024,Ativo,Ciência de Dados,FL09
+Fábio Dias,DT24855,"R$ 22.353,15",Arquiteto Cloud,55,55+,Masculino,13/08/2013,Ativo,Infraestrutura e Cloud,FL01
+Aline Santos,DT41938,"R$ 11.293,95",Engenheiro de Dados Pleno,28,25-34,Feminino,08/01/2013,Ativo,Engenharia de Dados,FL04
+Gabriel Gomes,DT17328,"R$ 19.573,46",Cientista de Dados Sênior,51,45-54,Masculino,04/02/2019,Ativo,Ciência de Dados,FL02
+Fernando Santos,DT96736,"R$ 5.041,48",Analista de Dados Júnior,56,55+,Masculino,28/07/2020,Inativo,Análise de Dados,FL02
+Beatriz Almeida,DT63840,"R$ 13.075,77",Product Manager Pleno,29,25-34,Feminino,24/12/2023,Ativo,Produto,FL08
+Rodrigo Costa,DT99861,"R$ 26.772,27",Especialista em IA,22,18-24,Masculino,26/02/2015,Ativo,Machine Learning,FL02
+Mariana Alves,DT12170,"R$ 25.872,34",Lead de Ciência de Dados,56,55+,Feminino,28/02/2012,Ativo,Ciência de Dados,FL03
+André Oliveira,DT79655,"R$ 5.279,57",Engenheiro Cloud Júnior,60,55+,Masculino,03/12/2012,Inativo,Infraestrutura e Cloud,FL01
+Lívia Silva,DT98940,"R$ 16.610,22",Gerente de RH,41,35-44,Feminino,22/12/2010,Ativo,Recursos Humanos,FL04
+Eduardo Almeida,DT73192,"R$ 18.804,14",Diretor Comercial,62,55+,Masculino,03/12/2022,Ativo,Vendas e Parcerias,FL01
+Mariana Sousa,DT72539,"R$ 9.685,30",Analista Comercial Pleno,23,18-24,Feminino,09/05/2016,Ativo,Vendas e Parcerias,FL05
+Lívia Marques,DT43791,"R$ 8.127,45",Cientista de Dados Júnior,18,18-24,Feminino,18/12/2022,Ativo,Ciência de Dados,FL08
+Daniel Silva,DT59155,"R$ 8.063,30",Analista de RH Pleno,38,35-44,Masculino,04/03/2019,Ativo,Recursos Humanos,FL03
+Felipe Machado,DT95403,"R$ 15.937,17",Product Manager Sênior,52,45-54,Masculino,02/07/2019,Ativo,Produto,FL01
+Marcelo Fernandes,DT99208,"R$ 8.446,30",Analista de BI Pleno,53,45-54,Masculino,27/10/2020,Ativo,Business Intelligence,FL03
+Alexandre Cardoso,DT43263,"R$ 19.758,07",Engenheiro de ML Sênior,43,35-44,Masculino,05/02/2013,Inativo,Machine Learning,FL01
+Vitor Pereira,DT40116,"R$ 7.350,98",Analista de BI Pleno,50,45-54,Masculino,26/12/2018,Ativo,Business Intelligence,FL01
+Fábio Souza,DT31068,"R$ 9.413,11",Engenheiro de ML Júnior,27,25-34,Masculino,30/07/2020,Inativo,Machine Learning,FL02
+Eduardo Ferreira,DT18399,"R$ 8.797,92",Analista de Dados Pleno,56,55+,Masculino,06/11/2010,Ativo,Análise de Dados,FL01
+Cristina Nunes,DT90473,"R$ 11.990,62",Analista de RH Sênior,56,55+,Feminino,16/04/2011,Inativo,Recursos Humanos,FL04
+Caio Ribeiro,DT93924,"R$ 19.074,97",Arquiteto Cloud,60,55+,Masculino,15/08/2021,Ativo,Infraestrutura e Cloud,FL01
+Gabriel Gonçalves,DT77608,"R$ 9.153,16",Analista Financeiro Pleno,61,55+,Masculino,23/10/2010,Ativo,Financeiro,FL02
+Bruna Silva,DT30636,"R$ 17.008,53",Engenheiro de Dados Sênior,40,35-44,Feminino,07/01/2025,Ativo,Engenharia de Dados,FL09
+Fernando Martins,DT77861,"R$ 8.257,53",Engenheiro de Dados Júnior,53,45-54,Masculino,19/05/2016,Ativo,Engenharia de Dados,FL01
+Alexandre Nascimento,DT55544,"R$ 9.622,27",Analista de Dados Pleno,30,25-34,Masculino,14/03/2020,Inativo,Análise de Dados,FL02
+Fernando Silva,DT44223,"R$ 23.790,55",Lead de Ciência de Dados,53,45-54,Masculino,16/08/2011,Ativo,Ciência de Dados,FL03
+Gustavo Pereira,DT77277,"R$ 14.623,86",Analista de Dados Sênior,42,35-44,Masculino,19/08/2022,Ativo,Análise de Dados,FL01
+Amanda Dias,DT70142,"R$ 21.379,14",Gerente Financeiro,19,18-24,Feminino,23/10/2020,Ativo,Financeiro,FL05
+Juliana Moreira,DT93055,"R$ 10.300,56",Analista de Dados Pleno,44,35-44,Feminino,02/12/2017,Ativo,Análise de Dados,FL06
+Ana Sousa,DT42539,"R$ 5.497,33",Analista de Dados Júnior,39,35-44,Feminino,15/09/2011,Ativo,Análise de Dados,FL06
+Beatriz Cardoso,DT51139,"R$ 14.524,42",Engenheiro de ML Pleno,35,35-44,Feminino,06/02/2014,Inativo,Machine Learning,FL05
+Daniela Martins,DT75404,"R$ 7.322,01",Analista Comercial Pleno,33,25-34,Feminino,15/12/2015,Ativo,Vendas e Parcerias,FL05
+Diego Lopes,DT91080,"R$ 14.005,22",Engenheiro de ML Pleno,25,25-34,Masculino,05/10/2011,Ativo,Machine Learning,FL01
+Vitor Ramos,DT90455,"R$ 8.044,03",Engenheiro de Dados Júnior,41,35-44,Masculino,03/12/2023,Ativo,Engenharia de Dados,FL01
+Roberta Fernandes,DT74330,"R$ 16.688,34",Cientista de Dados Sênior,54,45-54,Feminino,16/11/2012,Ativo,Ciência de Dados,FL08
+Fábio Machado,DT72694,"R$ 6.507,43",Engenheiro Cloud Júnior,43,35-44,Masculino,02/12/2013,Ativo,Infraestrutura e Cloud,FL02
+Camila Araújo,DT70302,"R$ 7.035,46",Engenheiro de ML Júnior,31,25-34,Feminino,06/07/2018,Ativo,Machine Learning,FL04
+Gustavo Andrade,DT90318,"R$ 9.419,97",Analista de Dados Pleno,33,25-34,Masculino,16/01/2016,Ativo,Análise de Dados,FL01
+Marcelo Dias,DT57962,"R$ 23.255,63",Lead de Ciência de Dados,44,35-44,Masculino,08/05/2018,Ativo,Ciência de Dados,FL02
+Patrícia Fernandes,DT69077,"R$ 13.906,73",Cientista de Dados Pleno,61,55+,Feminino,16/02/2015,Ativo,Ciência de Dados,FL10
+Elisa Fernandes,DT40907,"R$ 26.994,16",Head de Produto,30,25-34,Feminino,09/04/2013,Ativo,Produto,FL07
+Renato Gomes,DT71995,"R$ 10.686,08",Engenheiro de Dados Pleno,26,25-34,Masculino,23/02/2024,Ativo,Engenharia de Dados,FL02
+Elisa Rocha,DT73782,"R$ 14.029,62",Analista de Dados Sênior,54,45-54,Feminino,26/01/2011,Ativo,Análise de Dados,FL04
+Ricardo Costa,DT17869,"R$ 13.644,43",Analista de Dados Sênior,58,55+,Masculino,28/02/2012,Ativo,Análise de Dados,FL03
+Gustavo Sousa,DT57312,"R$ 17.392,77",Engenheiro de ML Sênior,44,35-44,Masculino,20/09/2012,Ativo,Machine Learning,FL01
+Vitor Martins,DT85609,"R$ 13.907,18",Product Manager Pleno,36,35-44,Masculino,19/12/2017,Ativo,Produto,FL02
+Daniel Ramos,DT68580,"R$ 22.488,81",Arquiteto de Dados,47,45-54,Masculino,02/03/2024,Inativo,Engenharia de Dados,FL01
+Monique Costa,DT93962,"R$ 27.050,19",Especialista em IA,54,45-54,Feminino,29/01/2019,Inativo,Machine Learning,FL03
+Matheus Ferreira,DT31233,"R$ 11.910,67",Engenheiro de ML Pleno,59,55+,Masculino,14/07/2016,Ativo,Machine Learning,FL02
+Marcelo Nunes,DT45553,"R$ 14.365,53",Analista de BI Sênior,51,45-54,Masculino,06/02/2020,Ativo,Business Intelligence,FL02
+Bruno Santos,DT26389,"R$ 8.817,08",Analista Comercial Pleno,62,55+,Masculino,18/10/2011,Ativo,Vendas e Parcerias,FL01
+Henrique Alves,DT22524,"R$ 22.064,82",Arquiteto de Dados,19,18-24,Masculino,27/11/2018,Ativo,Engenharia de Dados,FL02
+Juliana Alves,DT44400,"R$ 6.252,93",Analista de RH Pleno,42,35-44,Feminino,09/12/2016,Ativo,Recursos Humanos,FL08
+Elisa Vieira,DT68085,"R$ 6.393,83",Analista de RH Pleno,28,25-34,Feminino,23/08/2010,Ativo,Recursos Humanos,FL04
+Vanessa Rocha,DT72410,"R$ 13.468,45",Analista de BI Sênior,26,25-34,Feminino,04/02/2022,Ativo,Business Intelligence,FL04
+Marcelo Freitas,DT92712,"R$ 20.187,68",Diretor Comercial,58,55+,Masculino,21/12/2021,Ativo,Vendas e Parcerias,FL01
+Leonardo Cardoso,DT80735,"R$ 5.604,65",Analista de Dados Júnior,41,35-44,Masculino,31/03/2019,Ativo,Análise de Dados,FL02
+Anderson Silva,DT10012,"R$ 9.875,54",Engenheiro Cloud Pleno,48,45-54,Masculino,01/01/2022,Ativo,Infraestrutura e Cloud,FL01
+Cristina Ramos,DT72530,"R$ 6.414,67",Analista de Dados Júnior,36,35-44,Feminino,23/05/2023,Ativo,Análise de Dados,FL04
+Lucas Andrade,DT34716,"R$ 18.368,51",Gerente de BI,28,25-34,Masculino,27/06/2024,Ativo,Business Intelligence,FL01
+Henrique Almeida,DT44469,"R$ 22.564,60",Arquiteto de Dados,51,45-54,Masculino,03/10/2023,Ativo,Engenharia de Dados,FL02
+Vitor Fernandes,DT47313,"R$ 10.945,16",Analista de RH Sênior,22,18-24,Masculino,03/02/2014,Ativo,Recursos Humanos,FL02
+Camila Freitas,DT90967,"R$ 14.152,13",Analista de BI Sênior,49,45-54,Feminino,19/03/2014,Ativo,Business Intelligence,FL06
+Felipe Souza,DT80119,"R$ 12.889,33",Engenheiro de Dados Pleno,36,35-44,Masculino,15/01/2016,Ativo,Engenharia de Dados,FL02
+Carlos Silva,DT40514,"R$ 9.058,90",Engenheiro de Dados Pleno,31,25-34,Masculino,01/09/2017,Ativo,Engenharia de Dados,FL02
+Fábio Ramos,DT58679,"R$ 4.825,62",Analista de BI Júnior,27,25-34,Masculino,05/04/2011,Ativo,Business Intelligence,FL02
+Henrique Rodrigues,DT81197,"R$ 9.268,77",Engenheiro Cloud Pleno,34,25-34,Masculino,23/07/2018,Inativo,Infraestrutura e Cloud,FL01
+Rafael Lopes,DT60436,"R$ 17.977,30",Diretor Comercial,20,18-24,Masculino,20/06/2014,Ativo,Vendas e Parcerias,FL01
+Leandro Alves,DT78306,"R$ 8.654,89",Analista Financeiro Pleno,61,55+,Masculino,31/12/2016,Inativo,Financeiro,FL02
+Bruno Oliveira,DT82034,"R$ 5.759,94",Engenheiro Cloud Júnior,58,55+,Masculino,13/09/2016,Ativo,Infraestrutura e Cloud,FL01
+André Souza,DT97385,"R$ 5.089,91",Analista de Dados Júnior,45,45-54,Masculino,12/04/2017,Ativo,Análise de Dados,FL02
+Fábio Fernandes,DT86637,"R$ 25.629,43",Lead de Ciência de Dados,18,18-24,Masculino,11/12/2010,Ativo,Ciência de Dados,FL01
+Cláudia Cardoso,DT88146,"R$ 18.739,38",Cientista de Dados Sênior,33,25-34,Feminino,15/07/2013,Ativo,Ciência de Dados,FL06
+Daniela Dias,DT91937,"R$ 6.566,55",Engenheiro de Dados Júnior,27,25-34,Feminino,11/01/2022,Ativo,Engenharia de Dados,FL06
+Mariana Ramos,DT40497,"R$ 19.930,39",Engenheiro de ML Sênior,46,45-54,Feminino,30/04/2014,Ativo,Machine Learning,FL09
+Henrique Nascimento,DT27659,"R$ 5.713,26",Analista de Dados Júnior,46,45-54,Masculino,16/07/2022,Ativo,Análise de Dados,FL02
+Ricardo Ramos,DT34874,"R$ 11.946,29",Product Manager Pleno,38,35-44,Masculino,04/07/2020,Ativo,Produto,FL02
+Caio Costa,DT19027,"R$ 10.297,54",Engenheiro Cloud Pleno,34,25-34,Masculino,23/02/2022,Ativo,Infraestrutura e Cloud,FL01
+Ana Gonçalves,DT59681,"R$ 9.590,26",Analista Comercial Pleno,57,55+,Feminino,02/03/2018,Ativo,Vendas e Parcerias,FL10
+Thiago Rocha,DT18302,"R$ 14.949,35",Gerente de RH,61,55+,Masculino,27/02/2021,Ativo,Recursos Humanos,FL02
+Felipe Vieira,DT52283,"R$ 11.497,09",Analista de BI Sênior,51,45-54,Masculino,11/10/2024,Ativo,Business Intelligence,FL01
+Luana Lima,DT33414,"R$ 9.428,22",Engenheiro de Dados Pleno,30,25-34,Feminino,19/03/2012,Ativo,Engenharia de Dados,FL08
+Bruna Moreira,DT96235,"R$ 13.245,43",Engenheiro Cloud Sênior,32,25-34,Feminino,04/08/2023,Ativo,Infraestrutura e Cloud,FL07
+Ana Carvalho,DT95950,"R$ 6.404,18",Engenheiro Cloud Júnior,58,55+,Feminino,13/05/2011,Ativo,Infraestrutura e Cloud,FL04
+Elisa Marques,DT58374,"R$ 6.059,11",Analista Financeiro Júnior,35,35-44,Feminino,12/11/2021,Ativo,Financeiro,FL05
+Juliana Barbosa,DT20215,"R$ 4.753,06",Analista de Dados Júnior,32,25-34,Feminino,04/12/2021,Ativo,Análise de Dados,FL04
+Diego Araújo,DT96098,"R$ 9.454,48",Analista de Dados Pleno,53,45-54,Masculino,25/04/2019,Ativo,Análise de Dados,FL01
+Sabrina Nascimento,DT98407,"R$ 21.296,94",Gerente de BI,28,25-34,Feminino,17/01/2014,Ativo,Business Intelligence,FL08
+Priscila Dias,DT96184,"R$ 26.567,88",Lead de Ciência de Dados,38,35-44,Feminino,04/05/2022,Inativo,Ciência de Dados,FL04
+Gustavo Andrade,DT64046,"R$ 22.609,24",Diretor Comercial,38,35-44,Masculino,25/08/2023,Ativo,Vendas e Parcerias,FL02
+Lívia Carvalho,DT59160,"R$ 12.120,04",Gerente de Contas,46,45-54,Feminino,14/01/2020,Inativo,Vendas e Parcerias,FL04
+Ana Oliveira,DT47287,"R$ 7.552,83",Product Manager Júnior,37,35-44,Feminino,23/02/2010,Ativo,Produto,FL08
+Thiago Carvalho,DT51275,"R$ 17.636,00",Engenheiro de Dados Sênior,50,45-54,Masculino,24/06/2022,Ativo,Engenharia de Dados,FL02
+Fernando Gomes,DT22358,"R$ 20.811,76",Arquiteto de Dados,26,25-34,Masculino,11/12/2015,Ativo,Engenharia de Dados,FL01
+Fernando Lopes,DT40539,"R$ 11.913,57",Analista de Dados Sênior,43,35-44,Masculino,06/10/2022,Inativo,Análise de Dados,FL01
+Renato Rodrigues,DT52558,"R$ 10.453,11",Engenheiro Cloud Pleno,62,55+,Masculino,04/12/2022,Ativo,Infraestrutura e Cloud,FL02
+Rafael Barbosa,DT14898,"R$ 16.627,82",Diretor Comercial,21,18-24,Masculino,02/07/2017,Ativo,Vendas e Parcerias,FL01
+Luana Machado,DT64594,"R$ 12.864,55",Cientista de Dados Pleno,56,55+,Feminino,04/04/2010,Ativo,Ciência de Dados,FL03
+Paulo Moreira,DT17094,"R$ 7.957,95",Engenheiro de ML Júnior,54,45-54,Masculino,10/05/2013,Ativo,Machine Learning,FL01
+Ricardo Almeida,DT30079,"R$ 24.811,76",Arquiteto de Dados,56,55+,Masculino,26/11/2022,Ativo,Engenharia de Dados,FL01
+Amanda Machado,DT47982,"R$ 7.462,66",Analista de BI Pleno,23,18-24,Feminino,03/09/2020,Ativo,Business Intelligence,FL04
+Fernanda Nunes,DT44413,"R$ 21.761,85",Arquiteto de Dados,62,55+,Feminino,04/12/2012,Ativo,Engenharia de Dados,FL09
+Carla Martins,DT73944,"R$ 8.964,09",Analista de BI Pleno,51,45-54,Feminino,11/07/2015,Ativo,Business Intelligence,FL03
+Rodrigo Machado,DT52390,"R$ 4.281,32",Analista Financeiro Júnior,44,35-44,Masculino,02/07/2019,Ativo,Financeiro,FL02
+Diego Rocha,DT55157,"R$ 8.309,04",Product Manager Júnior,28,25-34,Masculino,04/11/2017,Ativo,Produto,FL02
+Vitória Mendes,DT91681,"R$ 20.791,70",Lead de Ciência de Dados,32,25-34,Feminino,24/06/2014,Ativo,Ciência de Dados,FL05
+Felipe Ferreira,DT24728,"R$ 4.334,71",Analista Comercial Júnior,57,55+,Masculino,24/04/2013,Inativo,Vendas e Parcerias,FL01
+Caio Vieira,DT11800,"R$ 7.915,35",Engenheiro de ML Júnior,48,45-54,Masculino,06/07/2010,Ativo,Machine Learning,FL01
+Renato Monteiro,DT37770,"R$ 17.518,40",Cientista de Dados Sênior,57,55+,Masculino,03/03/2013,Ativo,Ciência de Dados,FL02
+Daniela Santos,DT59362,"R$ 6.766,37",Product Manager Júnior,21,18-24,Feminino,15/05/2016,Ativo,Produto,FL06
+Ricardo Fernandes,DT16957,"R$ 4.166,49",Analista de BI Júnior,60,55+,Masculino,01/02/2016,Ativo,Business Intelligence,FL01
+Marcos Andrade,DT24141,"R$ 17.403,35",Engenheiro de Dados Sênior,59,55+,Masculino,02/09/2018,Ativo,Engenharia de Dados,FL01
+Patrícia Gonçalves,DT23055,"R$ 28.934,18",Especialista em IA,52,45-54,Feminino,23/12/2011,Ativo,Machine Learning,FL04
+Priscila Freitas,DT83490,"R$ 4.099,38",Analista Financeiro Júnior,51,45-54,Feminino,02/11/2016,Ativo,Financeiro,FL09
+Henrique Costa,DT12408,"R$ 17.454,58",Engenheiro de ML Sênior,37,35-44,Masculino,19/04/2015,Inativo,Machine Learning,FL01
+Priscila Fernandes,DT18127,"R$ 12.575,37",Analista de RH Sênior,19,18-24,Feminino,13/06/2022,Inativo,Recursos Humanos,FL06
+Amanda Gomes,DT54798,"R$ 7.307,28",Analista de BI Pleno,42,35-44,Feminino,05/09/2021,Inativo,Business Intelligence,FL05
+Natália Almeida,DT64700,"R$ 8.992,63",Analista de Dados Pleno,37,35-44,Feminino,31/07/2023,Ativo,Análise de Dados,FL09
+Lívia Lima,DT37100,"R$ 7.743,09",Analista de RH Pleno,61,55+,Feminino,16/07/2014,Inativo,Recursos Humanos,FL03
+Anderson Araújo,DT27727,"R$ 9.296,81",Analista de BI Pleno,54,45-54,Masculino,18/07/2013,Ativo,Business Intelligence,FL01
+Alexandre Monteiro,DT25517,"R$ 19.117,37",Cientista de Dados Sênior,27,25-34,Masculino,30/08/2010,Ativo,Ciência de Dados,FL02
+André Marques,DT63903,"R$ 21.473,66",Gerente de Análise de Dados,58,55+,Masculino,21/02/2016,Ativo,Análise de Dados,FL01
+Diego Alves,DT27241,"R$ 8.287,34",Cientista de Dados Júnior,57,55+,Masculino,03/11/2023,Ativo,Ciência de Dados,FL01
+Fernando Almeida,DT88166,"R$ 9.905,82",Analista de Dados Pleno,40,35-44,Masculino,14/10/2011,Ativo,Análise de Dados,FL01
+Carla Lima,DT75840,"R$ 25.984,13",Head de Produto,41,35-44,Feminino,16/02/2014,Inativo,Produto,FL09
+Carla Cardoso,DT28024,"R$ 10.518,23",Cientista de Dados Pleno,44,35-44,Feminino,03/05/2010,Inativo,Ciência de Dados,FL06
+Eduardo Almeida,DT97993,"R$ 9.797,61",Cientista de Dados Pleno,46,45-54,Masculino,03/11/2023,Ativo,Ciência de Dados,FL01
+Gustavo Freitas,DT42346,"R$ 20.657,29",Gerente de BI,56,55+,Masculino,14/07/2018,Ativo,Business Intelligence,FL01
+Patrícia Monteiro,DT78843,"R$ 4.541,30",Analista de RH Júnior,46,45-54,Feminino,31/03/2020,Inativo,Recursos Humanos,FL08
+Gabriel Lopes,DT77987,"R$ 25.886,81",Arquiteto Cloud,20,18-24,Masculino,05/07/2022,Ativo,Infraestrutura e Cloud,FL01
+Leandro Souza,DT34884,"R$ 19.388,24",Gerente de Análise de Dados,37,35-44,Masculino,31/05/2016,Ativo,Análise de Dados,FL01
+Eduardo Vieira,DT90364,"R$ 10.854,32",Engenheiro de Dados Pleno,59,55+,Masculino,18/02/2020,Ativo,Engenharia de Dados,FL02
+Priscila Pereira,DT33562,"R$ 7.875,73",Analista Comercial Pleno,38,35-44,Feminino,11/02/2020,Ativo,Vendas e Parcerias,FL09
+Carlos Martins,DT69596,"R$ 14.958,34",Engenheiro de Dados Sênior,59,55+,Masculino,05/09/2013,Ativo,Engenharia de Dados,FL01
+Camila Ferreira,DT24963,"R$ 19.804,43",Gerente Financeiro,23,18-24,Feminino,01/10/2021,Ativo,Financeiro,FL06
+Renato Gonçalves,DT90225,"R$ 24.077,25",Lead de Ciência de Dados,20,18-24,Masculino,31/10/2013,Inativo,Ciência de Dados,FL02
+Fernando Gomes,DT31249,"R$ 12.961,21",Cientista de Dados Pleno,21,18-24,Masculino,31/05/2019,Ativo,Ciência de Dados,FL03
+Elisa Mendes,DT47851,"R$ 6.352,66",Analista de RH Pleno,26,25-34,Feminino,20/07/2014,Ativo,Recursos Humanos,FL05
+Sabrina Sousa,DT11600,"R$ 21.132,47",Gerente de BI,52,45-54,Feminino,17/02/2010,Ativo,Business Intelligence,FL04
+Pedro Lopes,DT38426,"R$ 24.176,17",Head de Produto,46,45-54,Masculino,13/10/2011,Ativo,Produto,FL01
+Lucas Lopes,DT81741,"R$ 7.671,22",Analista de Dados Pleno,27,25-34,Masculino,28/03/2011,Ativo,Análise de Dados,FL02
+Fernanda Gomes,DT14250,"R$ 12.324,44",Analista Financeiro Sênior,23,18-24,Feminino,06/02/2011,Ativo,Financeiro,FL07
+Beatriz Costa,DT98092,"R$ 10.882,03",Analista de Dados Pleno,55,55+,Feminino,29/01/2018,Inativo,Análise de Dados,FL04
+Matheus Barbosa,DT52312,"R$ 28.562,12",Especialista em IA,45,45-54,Masculino,07/05/2022,Ativo,Machine Learning,FL02
+Carla Lima,DT25993,"R$ 12.316,83",Analista Financeiro Sênior,44,35-44,Feminino,07/10/2021,Ativo,Financeiro,FL05
+Larissa Souza,DT24326,"R$ 7.450,99",Product Manager Júnior,62,55+,Feminino,26/07/2023,Inativo,Produto,FL04
+Ricardo Vieira,DT65974,"R$ 15.928,13",Product Manager Sênior,54,45-54,Masculino,24/12/2023,Ativo,Produto,FL03
+Mariana Ramos,DT78118,"R$ 19.940,04",Diretor Comercial,29,25-34,Feminino,02/09/2023,Ativo,Vendas e Parcerias,FL04
+Anderson Martins,DT10207,"R$ 7.394,66",Cientista de Dados Júnior,25,25-34,Masculino,26/08/2014,Ativo,Ciência de Dados,FL03
+Eduardo Marques,DT15962,"R$ 18.582,29",Engenheiro de ML Sênior,58,55+,Masculino,06/10/2014,Ativo,Machine Learning,FL01
+Diego Vieira,DT43347,"R$ 14.851,28",Engenheiro de Dados Sênior,53,45-54,Masculino,07/04/2017,Ativo,Engenharia de Dados,FL01
+Camila Dias,DT54742,"R$ 6.080,11",Analista de BI Júnior,30,25-34,Feminino,31/05/2017,Inativo,Business Intelligence,FL03
+Cristina Cardoso,DT72193,"R$ 10.925,98",Engenheiro de Dados Pleno,58,55+,Feminino,01/05/2020,Inativo,Engenharia de Dados,FL07
+Alexandre Dias,DT70616,"R$ 6.087,76",Analista de BI Júnior,37,35-44,Masculino,03/09/2022,Ativo,Business Intelligence,FL01
+Gustavo Monteiro,DT12453,"R$ 18.897,44",Cientista de Dados Sênior,40,35-44,Masculino,27/06/2011,Inativo,Ciência de Dados,FL01
+Letícia Santos,DT54453,"R$ 13.069,42",Engenheiro de ML Pleno,42,35-44,Feminino,16/03/2014,Ativo,Machine Learning,FL09
+Julio Barbosa,DT51222,"R$ 4.678,74",Analista Financeiro Júnior,23,18-24,Masculino,23/02/2021,Inativo,Financeiro,FL02
+Leonardo Mendes,DT49666,"R$ 12.287,56",Analista de Dados Sênior,41,35-44,Masculino,03/11/2010,Ativo,Análise de Dados,FL02
+Marcos Ferreira,DT68166,"R$ 7.397,08",Engenheiro Cloud Júnior,50,45-54,Masculino,16/06/2013,Ativo,Infraestrutura e Cloud,FL01
+Cristina Cardoso,DT78632,"R$ 16.288,12",Engenheiro de ML Sênior,24,18-24,Feminino,30/07/2021,Ativo,Machine Learning,FL07
+Mariana Carvalho,DT14791,"R$ 20.282,06",Gerente de BI,51,45-54,Feminino,06/08/2012,Ativo,Business Intelligence,FL07
+Marcos Oliveira,DT87894,"R$ 15.600,94",Engenheiro de Dados Sênior,20,18-24,Masculino,24/04/2012,Ativo,Engenharia de Dados,FL01
+Daniela Barbosa,DT12946,"R$ 18.013,68",Product Manager Sênior,31,25-34,Feminino,13/03/2017,Ativo,Produto,FL04
+Anderson Fernandes,DT79766,"R$ 27.368,99",Especialista em IA,35,35-44,Masculino,08/05/2013,Ativo,Machine Learning,FL01
+Rafael Silva,DT91650,"R$ 6.619,73",Product Manager Júnior,40,35-44,Masculino,28/04/2022,Ativo,Produto,FL01
+Mariana Vieira,DT85246,"R$ 7.749,35",Analista de Dados Pleno,57,55+,Feminino,06/08/2017,Ativo,Análise de Dados,FL07
+Gabriel Lima,DT13800,"R$ 5.317,78",Engenheiro Cloud Júnior,21,18-24,Masculino,07/12/2011,Ativo,Infraestrutura e Cloud,FL03
+Beatriz Mendes,DT90781,"R$ 17.327,83",Engenheiro de ML Sênior,30,25-34,Feminino,17/01/2025,Ativo,Machine Learning,FL03
+Juliana Freitas,DT84421,"R$ 8.438,55",Cientista de Dados Júnior,62,55+,Feminino,03/07/2020,Ativo,Ciência de Dados,FL06
+Gabriela Freitas,DT71675,"R$ 8.003,03",Analista de Dados Pleno,57,55+,Feminino,15/10/2015,Inativo,Análise de Dados,FL09
+Henrique Ribeiro,DT97186,"R$ 17.993,06",Engenheiro de ML Sênior,19,18-24,Masculino,20/06/2011,Ativo,Machine Learning,FL01
+Leonardo Cardoso,DT70455,"R$ 18.723,68",Cientista de Dados Sênior,56,55+,Masculino,21/11/2022,Ativo,Ciência de Dados,FL01
+Camila Nunes,DT24022,"R$ 9.377,29",Engenheiro de ML Júnior,52,45-54,Feminino,04/05/2020,Ativo,Machine Learning,FL03
+Aline Lopes,DT91379,"R$ 10.908,62",Analista de Dados Pleno,42,35-44,Feminino,26/06/2011,Ativo,Análise de Dados,FL03
+Luana Machado,DT67062,"R$ 17.494,90",Product Manager Sênior,33,25-34,Feminino,18/11/2013,Ativo,Produto,FL07
+Juliana Ramos,DT24984,"R$ 23.277,65",Head de Produto,24,18-24,Feminino,27/12/2019,Ativo,Produto,FL03
+Henrique Rodrigues,DT88415,"R$ 20.628,15",Arquiteto de Dados,59,55+,Masculino,22/10/2024,Ativo,Engenharia de Dados,FL01
+Diego Lima,DT86122,"R$ 5.465,57",Analista Comercial Júnior,60,55+,Masculino,07/05/2013,Ativo,Vendas e Parcerias,FL02
+Anderson Moreira,DT90684,"R$ 22.369,67",Head de Produto,61,55+,Masculino,06/02/2017,Ativo,Produto,FL01
+Vitória Barbosa,DT66980,"R$ 14.961,16",Analista Financeiro Sênior,55,55+,Feminino,08/03/2010,Ativo,Financeiro,FL05
+Priscila Nunes,DT26718,"R$ 5.423,06",Analista de Dados Júnior,53,45-54,Feminino,12/03/2011,Ativo,Análise de Dados,FL03
+Lívia Nascimento,DT24378,"R$ 5.088,10",Analista de Dados Júnior,62,55+,Feminino,28/03/2023,Ativo,Análise de Dados,FL05
+Gustavo Moreira,DT63219,"R$ 26.360,95",Especialista em IA,60,55+,Masculino,21/11/2013,Ativo,Machine Learning,FL01
+Diego Moreira,DT57223,"R$ 8.009,65",Analista de BI Pleno,60,55+,Masculino,25/10/2012,Ativo,Business Intelligence,FL01
+Matheus Santos,DT28873,"R$ 19.947,56",Gerente Financeiro,26,25-34,Masculino,25/11/2011,Ativo,Financeiro,FL03
+Vitória Marques,DT69772,"R$ 19.739,49",Gerente Financeiro,47,45-54,Feminino,05/06/2021,Ativo,Financeiro,FL07
+Luana Mendes,DT60425,"R$ 11.336,06",Engenheiro de ML Pleno,56,55+,Feminino,02/03/2010,Ativo,Machine Learning,FL06
+Monique Lopes,DT75762,"R$ 22.559,39",Gerente de Análise de Dados,54,45-54,Feminino,26/03/2018,Ativo,Análise de Dados,FL05
+Gabriel Cardoso,DT58310,"R$ 26.751,30",Lead de Ciência de Dados,23,18-24,Masculino,09/03/2013,Ativo,Ciência de Dados,FL03
+Daniel Fernandes,DT70940,"R$ 6.570,07",Engenheiro Cloud Júnior,57,55+,Masculino,26/12/2011,Ativo,Infraestrutura e Cloud,FL02
+Bruna Rodrigues,DT99662,"R$ 11.645,64",Analista de RH Sênior,39,35-44,Feminino,31/12/2021,Ativo,Recursos Humanos,FL06
+Carla Freitas,DT77195,"R$ 15.105,08",Engenheiro Cloud Sênior,36,35-44,Feminino,27/06/2016,Ativo,Infraestrutura e Cloud,FL04
+Ricardo Barbosa,DT83886,"R$ 6.073,25",Analista de Dados Júnior,55,55+,Masculino,17/10/2013,Ativo,Análise de Dados,FL01
+Vitor Vieira,DT91830,"R$ 15.681,42",Engenheiro de Dados Sênior,26,25-34,Masculino,04/05/2021,Ativo,Engenharia de Dados,FL02
+Vitória Fernandes,DT43036,"R$ 16.013,69",Cientista de Dados Sênior,34,25-34,Feminino,27/04/2010,Ativo,Ciência de Dados,FL04
+Marcelo Ribeiro,DT87564,"R$ 8.807,04",Analista Comercial Pleno,41,35-44,Masculino,07/12/2013,Ativo,Vendas e Parcerias,FL03
+Cláudia Lopes,DT73559,"R$ 7.028,54",Cientista de Dados Júnior,23,18-24,Feminino,03/04/2013,Ativo,Ciência de Dados,FL03
+Luana Gomes,DT75004,"R$ 22.162,94",Diretor Comercial,33,25-34,Feminino,26/10/2024,Ativo,Vendas e Parcerias,FL06
+Paulo Costa,DT37637,"R$ 14.798,79",Product Manager Sênior,34,25-34,Masculino,08/08/2012,Ativo,Produto,FL01
+Carlos Nunes,DT72420,"R$ 21.476,90",Gerente de Análise de Dados,52,45-54,Masculino,30/03/2015,Ativo,Análise de Dados,FL02
+Cláudia Moreira,DT72205,"R$ 9.356,55",Analista de Dados Pleno,45,45-54,Feminino,08/04/2010,Ativo,Análise de Dados,FL05
+Fábio Mendes,DT60070,"R$ 14.847,05",Analista Financeiro Sênior,61,55+,Masculino,03/12/2010,Ativo,Financeiro,FL01
+Alexandre Nascimento,DT66595,"R$ 10.672,39",Analista de RH Sênior,35,35-44,Masculino,16/03/2012,Ativo,Recursos Humanos,FL02
+Isabela Nunes,DT70438,"R$ 9.070,10",Analista Comercial Pleno,55,55+,Feminino,16/05/2014,Ativo,Vendas e Parcerias,FL03
+Daniela Ribeiro,DT51060,"R$ 8.018,41",Product Manager Júnior,22,18-24,Feminino,08/04/2010,Ativo,Produto,FL07
+Daniel Alves,DT99849,"R$ 11.987,37",Analista de BI Sênior,36,35-44,Masculino,26/08/2015,Ativo,Business Intelligence,FL01
+Lucas Ferreira,DT17455,"R$ 13.777,20",Product Manager Pleno,58,55+,Masculino,24/09/2012,Ativo,Produto,FL02
+Camila Ferreira,DT89257,"R$ 24.766,57",Lead de Ciência de Dados,59,55+,Feminino,12/09/2022,Ativo,Ciência de Dados,FL10
+Bruno Pereira,DT34151,"R$ 13.601,30",Analista de Dados Sênior,22,18-24,Masculino,29/04/2024,Ativo,Análise de Dados,FL02
+Rodrigo Machado,DT97500,"R$ 11.658,01",Gerente de Contas,22,18-24,Masculino,21/03/2016,Ativo,Vendas e Parcerias,FL01
+Patrícia Moreira,DT53601,"R$ 17.800,23",Engenheiro de Dados Sênior,34,25-34,Feminino,28/12/2013,Ativo,Engenharia de Dados,FL07
+Pedro Martins,DT89993,"R$ 9.259,19",Analista de BI Pleno,24,18-24,Masculino,24/03/2013,Ativo,Business Intelligence,FL01
+Aline Carvalho,DT94323,"R$ 23.150,10",Arquiteto de Dados,24,18-24,Feminino,13/10/2010,Ativo,Engenharia de Dados,FL05
+Isabela Sousa,DT68442,"R$ 19.467,55",Arquiteto de Dados,58,55+,Feminino,08/01/2010,Inativo,Engenharia de Dados,FL07
+Vitor Moreira,DT44922,"R$ 19.475,40",Cientista de Dados Sênior,54,45-54,Masculino,31/01/2010,Ativo,Ciência de Dados,FL01
+Leandro Ramos,DT72670,"R$ 21.064,29",Gerente de BI,22,18-24,Masculino,11/02/2022,Ativo,Business Intelligence,FL02
+Patrícia Cardoso,DT25886,"R$ 16.333,92",Product Manager Sênior,37,35-44,Feminino,26/12/2018,Ativo,Produto,FL05
+Bruna Ferreira,DT57887,"R$ 13.402,28",Engenheiro Cloud Sênior,47,45-54,Feminino,03/07/2016,Ativo,Infraestrutura e Cloud,FL05
+Bruno Oliveira,DT60353,"R$ 6.896,61",Analista de RH Pleno,42,35-44,Masculino,24/05/2012,Ativo,Recursos Humanos,FL01
+Leonardo Ramos,DT21123,"R$ 17.676,62",Gerente de RH,26,25-34,Masculino,20/10/2010,Ativo,Recursos Humanos,FL01
+Elisa Lopes,DT74124,"R$ 9.378,22",Engenheiro de ML Júnior,59,55+,Feminino,25/11/2016,Ativo,Machine Learning,FL10
+Caio Mendes,DT12151,"R$ 13.752,25",Engenheiro de Dados Sênior,20,18-24,Masculino,04/02/2019,Ativo,Engenharia de Dados,FL01
+Fábio Araújo,DT70079,"R$ 9.593,68",Analista Financeiro Pleno,32,25-34,Masculino,14/08/2011,Ativo,Financeiro,FL03
+Mariana Ramos,DT95699,"R$ 24.396,66",Arquiteto de Dados,57,55+,Feminino,11/01/2011,Ativo,Engenharia de Dados,FL04
+Paulo Lima,DT11882,"R$ 8.713,99",Cientista de Dados Júnior,24,18-24,Masculino,26/03/2020,Ativo,Ciência de Dados,FL01
+Luana Rodrigues,DT23937,"R$ 24.367,35",Lead de Ciência de Dados,57,55+,Feminino,12/12/2014,Ativo,Ciência de Dados,FL10
+Larissa Machado,DT54216,"R$ 18.593,88",Diretor Comercial,61,55+,Feminino,02/12/2022,Ativo,Vendas e Parcerias,FL03
+Gustavo Carvalho,DT15975,"R$ 11.009,77",Product Manager Pleno,25,25-34,Masculino,22/02/2016,Ativo,Produto,FL02
+Eduardo Costa,DT58487,"R$ 11.473,98",Product Manager Pleno,55,55+,Masculino,30/11/2010,Ativo,Produto,FL01
+Fábio Moreira,DT30677,"R$ 19.024,70",Arquiteto de Dados,18,18-24,Masculino,09/01/2014,Inativo,Engenharia de Dados,FL01
+Cláudia Vieira,DT64555,"R$ 20.154,15",Gerente Financeiro,31,25-34,Feminino,18/03/2013,Ativo,Financeiro,FL08
+Priscila Mendes,DT64005,"R$ 9.636,88",Analista de Dados Pleno,20,18-24,Feminino,17/05/2023,Ativo,Análise de Dados,FL05
+Pedro Ferreira,DT92207,"R$ 13.384,54",Analista de Dados Sênior,53,45-54,Masculino,15/04/2015,Ativo,Análise de Dados,FL01
+Priscila Alves,DT91123,"R$ 12.588,97",Engenheiro de ML Pleno,58,55+,Feminino,15/10/2024,Ativo,Machine Learning,FL06
+Gabriel Martins,DT24769,"R$ 23.733,85",Lead de Ciência de Dados,28,25-34,Masculino,11/01/2025,Ativo,Ciência de Dados,FL01
+Fernanda Andrade,DT47363,"R$ 22.133,98",Lead de Ciência de Dados,57,55+,Feminino,01/03/2020,Ativo,Ciência de Dados,FL09
+Elisa Souza,DT80432,"R$ 13.034,71",Cientista de Dados Pleno,49,45-54,Feminino,20/07/2021,Ativo,Ciência de Dados,FL06
+Roberta Lopes,DT68303,"R$ 16.804,86",Product Manager Sênior,61,55+,Feminino,22/04/2017,Ativo,Produto,FL04
+Camila Rocha,DT39855,"R$ 11.950,99",Engenheiro de Dados Pleno,30,25-34,Feminino,04/06/2018,Inativo,Engenharia de Dados,FL08
+Matheus Cardoso,DT86689,"R$ 7.671,47",Engenheiro Cloud Júnior,27,25-34,Masculino,06/11/2014,Inativo,Infraestrutura e Cloud,FL01
+Carlos Ribeiro,DT60768,"R$ 12.559,83",Engenheiro de ML Pleno,30,25-34,Masculino,05/03/2024,Ativo,Machine Learning,FL01
+Rodrigo Martins,DT54025,"R$ 8.076,63",Cientista de Dados Júnior,21,18-24,Masculino,17/04/2016,Ativo,Ciência de Dados,FL02
+Julio Freitas,DT70106,"R$ 9.661,19",Analista de BI Pleno,32,25-34,Masculino,14/08/2016,Ativo,Business Intelligence,FL02
+Fábio Costa,DT85775,"R$ 9.889,13",Product Manager Pleno,51,45-54,Masculino,21/12/2020,Inativo,Produto,FL01
+Diego Cardoso,DT70655,"R$ 6.325,04",Analista de Dados Júnior,33,25-34,Masculino,24/07/2015,Ativo,Análise de Dados,FL01
+Isabela Almeida,DT29525,"R$ 7.253,32",Product Manager Júnior,20,18-24,Feminino,25/11/2010,Inativo,Produto,FL04
+Elisa Gonçalves,DT14406,"R$ 18.875,62",Gerente de BI,62,55+,Feminino,13/03/2012,Ativo,Business Intelligence,FL04
+Amanda Ferreira,DT83202,"R$ 5.324,95",Analista Comercial Júnior,44,35-44,Feminino,21/11/2014,Ativo,Vendas e Parcerias,FL04
+Anderson Lopes,DT94887,"R$ 6.939,35",Engenheiro de Dados Júnior,37,35-44,Masculino,18/08/2013,Ativo,Engenharia de Dados,FL01
+Julio Santos,DT69616,"R$ 10.059,70",Analista de BI Pleno,43,35-44,Masculino,24/02/2014,Ativo,Business Intelligence,FL02
+Leonardo Freitas,DT93021,"R$ 6.654,64",Engenheiro de Dados Júnior,62,55+,Masculino,20/06/2017,Ativo,Engenharia de Dados,FL02
+Gabriela Machado,DT45361,"R$ 9.756,92",Analista Financeiro Pleno,23,18-24,Feminino,01/12/2023,Inativo,Financeiro,FL05
+Renato Souza,DT77467,"R$ 14.551,91",Analista Financeiro Sênior,25,25-34,Masculino,04/08/2018,Ativo,Financeiro,FL02
+Marcelo Oliveira,DT57916,"R$ 13.416,78",Engenheiro de ML Pleno,22,18-24,Masculino,30/07/2022,Ativo,Machine Learning,FL02
+Larissa Lima,DT53899,"R$ 6.122,60",Analista de Dados Júnior,55,55+,Feminino,15/09/2014,Ativo,Análise de Dados,FL04
+Sabrina Almeida,DT52003,"R$ 18.269,61",Engenheiro de ML Sênior,45,45-54,Feminino,20/03/2016,Ativo,Machine Learning,FL09
+Leonardo Nascimento,DT69298,"R$ 6.410,49",Engenheiro Cloud Júnior,52,45-54,Masculino,19/03/2025,Ativo,Infraestrutura e Cloud,FL01
+André Vieira,DT69241,"R$ 12.299,66",Analista de RH Sênior,62,55+,Masculino,22/06/2011,Ativo,Recursos Humanos,FL01
+André Freitas,DT21443,"R$ 24.336,65",Arquiteto de Dados,36,35-44,Masculino,23/09/2011,Ativo,Engenharia de Dados,FL02
+Letícia Pereira,DT29392,"R$ 11.999,97",Engenheiro Cloud Pleno,51,45-54,Feminino,26/01/2024,Ativo,Infraestrutura e Cloud,FL04
+Eduardo Monteiro,DT27305,"R$ 15.100,65",Engenheiro Cloud Sênior,59,55+,Masculino,25/06/2010,Ativo,Infraestrutura e Cloud,FL01
+Matheus Santos,DT40451,"R$ 15.058,46",Engenheiro Cloud Sênior,39,35-44,Masculino,15/09/2024,Ativo,Infraestrutura e Cloud,FL02
+Tatiana Ramos,DT87772,"R$ 18.748,04",Gerente Financeiro,54,45-54,Feminino,16/12/2012,Inativo,Financeiro,FL03
+Gabriela Costa,DT44079,"R$ 19.231,41",Gerente de Análise de Dados,36,35-44,Feminino,23/01/2011,Ativo,Análise de Dados,FL03
+Anderson Freitas,DT31805,"R$ 8.135,44",Analista de RH Pleno,36,35-44,Masculino,02/02/2014,Inativo,Recursos Humanos,FL01
+Luana Gomes,DT31135,"R$ 4.602,88",Analista de Dados Júnior,38,35-44,Feminino,20/11/2022,Ativo,Análise de Dados,FL05
+Rodrigo Andrade,DT34182,"R$ 7.996,66",Cientista de Dados Júnior,40,35-44,Masculino,26/04/2013,Ativo,Ciência de Dados,FL01
+Lívia Costa,DT79945,"R$ 6.801,08",Analista de Dados Júnior,43,35-44,Feminino,15/03/2021,Ativo,Análise de Dados,FL05
+Renata Rocha,DT30454,"R$ 16.412,60",Engenheiro de Dados Sênior,36,35-44,Feminino,18/08/2020,Inativo,Engenharia de Dados,FL04
+Leandro Gomes,DT84086,"R$ 18.709,48",Diretor Comercial,25,25-34,Masculino,28/09/2020,Inativo,Vendas e Parcerias,FL01
+Felipe Pereira,DT50380,"R$ 22.513,89",Arquiteto de Dados,32,25-34,Masculino,02/01/2020,Ativo,Engenharia de Dados,FL01
+Gustavo Souza,DT89711,"R$ 7.750,29",Analista de RH Pleno,32,25-34,Masculino,26/03/2016,Ativo,Recursos Humanos,FL03
+Juliana Monteiro,DT68387,"R$ 6.439,60",Analista Financeiro Júnior,43,35-44,Feminino,12/05/2014,Ativo,Financeiro,FL05
+Marcelo Gonçalves,DT17346,"R$ 12.590,23",Analista Financeiro Sênior,45,45-54,Masculino,17/04/2018,Ativo,Financeiro,FL02
+Ana Vieira,DT55209,"R$ 20.876,38",Engenheiro de ML Sênior,53,45-54,Feminino,19/12/2011,Ativo,Machine Learning,FL07
+André Mendes,DT64474,"R$ 11.737,06",Analista de BI Sênior,45,45-54,Masculino,17/04/2019,Ativo,Business Intelligence,FL01
+Isabela Ferreira,DT28827,"R$ 17.110,37",Cientista de Dados Sênior,51,45-54,Feminino,10/07/2017,Ativo,Ciência de Dados,FL07
+Fernando Moreira,DT21593,"R$ 22.652,24",Arquiteto de Dados,35,35-44,Masculino,19/04/2019,Ativo,Engenharia de Dados,FL01
+Renata Lima,DT36117,"R$ 22.381,51",Lead de Ciência de Dados,49,45-54,Feminino,12/12/2010,Inativo,Ciência de Dados,FL04
+Gabriela Barbosa,DT74762,"R$ 22.571,64",Head de Produto,18,18-24,Feminino,15/06/2013,Ativo,Produto,FL05
+Paulo Cardoso,DT26276,"R$ 10.960,05",Analista de RH Sênior,49,45-54,Masculino,18/06/2024,Ativo,Recursos Humanos,FL01
+Rafael Fernandes,DT74625,"R$ 16.114,80",Engenheiro de Dados Sênior,54,45-54,Masculino,13/10/2019,Inativo,Engenharia de Dados,FL01
+Bruna Cardoso,DT25674,"R$ 9.535,84",Engenheiro de ML Júnior,28,25-34,Feminino,17/01/2023,Ativo,Machine Learning,FL09
+Tatiana Freitas,DT27759,"R$ 10.738,00",Engenheiro de ML Pleno,41,35-44,Feminino,30/05/2019,Ativo,Machine Learning,FL05
+Leonardo Souza,DT47992,"R$ 5.784,67",Analista de Dados Júnior,58,55+,Masculino,10/02/2014,Ativo,Análise de Dados,FL01
+Natália Costa,DT81265,"R$ 20.047,52",Engenheiro de ML Sênior,61,55+,Feminino,02/10/2016,Ativo,Machine Learning,FL03
+Cláudia Andrade,DT22561,"R$ 17.116,57",Engenheiro Cloud Sênior,18,18-24,Feminino,26/01/2013,Ativo,Infraestrutura e Cloud,FL03
+Leonardo Ramos,DT64000,"R$ 10.960,88",Engenheiro de ML Pleno,27,25-34,Masculino,16/04/2021,Ativo,Machine Learning,FL01
+Diego Araújo,DT79742,"R$ 5.043,37",Analista Financeiro Júnior,22,18-24,Masculino,12/08/2012,Ativo,Financeiro,FL02
+Cristina Santos,DT72851,"R$ 19.300,78",Engenheiro de ML Sênior,26,25-34,Feminino,30/11/2019,Inativo,Machine Learning,FL06
+Marcelo Araújo,DT54832,"R$ 14.658,18",Cientista de Dados Sênior,25,25-34,Masculino,27/12/2014,Ativo,Ciência de Dados,FL01
+Ricardo Gomes,DT39697,"R$ 11.444,28",Engenheiro de ML Pleno,23,18-24,Masculino,13/07/2019,Ativo,Machine Learning,FL01
+Fábio Pereira,DT20188,"R$ 23.422,67",Arquiteto de Dados,20,18-24,Masculino,28/05/2014,Ativo,Engenharia de Dados,FL01
+Fábio Gonçalves,DT87748,"R$ 19.272,99",Arquiteto de Dados,34,25-34,Masculino,21/12/2010,Ativo,Engenharia de Dados,FL02
+Vitor Silva,DT22648,"R$ 12.144,21",Cientista de Dados Pleno,30,25-34,Masculino,22/02/2014,Ativo,Ciência de Dados,FL03
+Lucas Ferreira,DT29078,"R$ 14.769,56",Gerente de Contas,40,35-44,Masculino,25/11/2017,Ativo,Vendas e Parcerias,FL02
+Priscila Lopes,DT76179,"R$ 6.297,32",Product Manager Júnior,55,55+,Feminino,25/04/2010,Ativo,Produto,FL06
+Cláudia Martins,DT46943,"R$ 8.920,74",Cientista de Dados Júnior,24,18-24,Feminino,20/10/2014,Inativo,Ciência de Dados,FL09
+Monique Cardoso,DT58033,"R$ 8.538,83",Analista Financeiro Pleno,24,18-24,Feminino,21/01/2014,Inativo,Financeiro,FL04
+Patrícia Machado,DT38085,"R$ 10.130,31",Engenheiro Cloud Pleno,38,35-44,Feminino,09/10/2012,Ativo,Infraestrutura e Cloud,FL06
+Daniel Lima,DT74987,"R$ 13.671,29",Gerente de Contas,53,45-54,Masculino,29/11/2010,Ativo,Vendas e Parcerias,FL02
+Carla Pereira,DT60434,"R$ 20.602,34",Gerente de Análise de Dados,37,35-44,Feminino,16/12/2019,Ativo,Análise de Dados,FL05
+Eduardo Vieira,DT66093,"R$ 8.684,26",Cientista de Dados Júnior,48,45-54,Masculino,26/03/2025,Ativo,Ciência de Dados,FL01
+Ana Ramos,DT23785,"R$ 19.135,97",Gerente de BI,61,55+,Feminino,28/11/2011,Ativo,Business Intelligence,FL04
+Patrícia Nunes,DT87405,"R$ 9.258,84",Engenheiro de Dados Pleno,30,25-34,Feminino,06/08/2017,Ativo,Engenharia de Dados,FL08
+Monique Nunes,DT26090,"R$ 21.351,20",Gerente de Análise de Dados,35,35-44,Feminino,20/01/2023,Ativo,Análise de Dados,FL05
+Sabrina Nunes,DT56674,"R$ 25.912,66",Arquiteto Cloud,50,45-54,Feminino,03/04/2016,Ativo,Infraestrutura e Cloud,FL07
+Carlos Alves,DT26015,"R$ 19.983,64",Gerente de Análise de Dados,58,55+,Masculino,07/01/2013,Ativo,Análise de Dados,FL02
+Elisa Souza,DT18942,"R$ 7.916,22",Engenheiro Cloud Júnior,42,35-44,Feminino,24/07/2023,Ativo,Infraestrutura e Cloud,FL04
+Felipe Barbosa,DT91522,"R$ 5.020,34",Analista de RH Júnior,60,55+,Masculino,30/08/2021,Ativo,Recursos Humanos,FL03
+Vitória Freitas,DT36467,"R$ 19.941,50",Gerente de Análise de Dados,34,25-34,Feminino,02/03/2022,Ativo,Análise de Dados,FL07
+Julio Monteiro,DT81646,"R$ 8.472,13",Engenheiro de Dados Júnior,25,25-34,Masculino,09/08/2018,Ativo,Engenharia de Dados,FL01
+Monique Moreira,DT68006,"R$ 4.082,15",Analista de BI Júnior,53,45-54,Feminino,15/10/2024,Ativo,Business Intelligence,FL03
+Anderson Costa,DT74419,"R$ 8.093,61",Analista de BI Pleno,42,35-44,Masculino,07/12/2020,Ativo,Business Intelligence,FL02
+Isabela Ramos,DT96517,"R$ 24.331,38",Head de Produto,28,25-34,Feminino,13/05/2021,Ativo,Produto,FL04
+Rodrigo Ramos,DT87469,"R$ 19.715,59",Engenheiro de ML Sênior,36,35-44,Masculino,10/03/2017,Ativo,Machine Learning,FL01
+Fernando Oliveira,DT26803,"R$ 19.952,54",Engenheiro de ML Sênior,55,55+,Masculino,09/08/2010,Ativo,Machine Learning,FL01
+Paulo Dias,DT59882,"R$ 20.743,43",Arquiteto de Dados,40,35-44,Masculino,29/03/2019,Ativo,Engenharia de Dados,FL03
+Vitor Lopes,DT42455,"R$ 14.166,39",Analista de Dados Sênior,62,55+,Masculino,21/06/2011,Inativo,Análise de Dados,FL01
+Rafael Dias,DT32253,"R$ 13.668,20",Engenheiro de Dados Sênior,60,55+,Masculino,23/06/2019,Ativo,Engenharia de Dados,FL02
+Roberta Marques,DT44946,"R$ 22.321,93",Arquiteto de Dados,38,35-44,Feminino,22/06/2018,Ativo,Engenharia de Dados,FL05
+Gustavo Alves,DT74010,"R$ 10.343,87",Engenheiro de Dados Pleno,50,45-54,Masculino,20/12/2024,Ativo,Engenharia de Dados,FL01
+Natália Barbosa,DT57622,"R$ 8.739,33",Analista de BI Pleno,22,18-24,Feminino,07/01/2022,Ativo,Business Intelligence,FL08
+Letícia Souza,DT48970,"R$ 26.632,22",Head de Produto,57,55+,Feminino,24/01/2012,Ativo,Produto,FL07
+Fernando Alves,DT87576,"R$ 15.869,98",Engenheiro de ML Sênior,51,45-54,Masculino,29/08/2020,Ativo,Machine Learning,FL01
+Leonardo Rodrigues,DT95398,"R$ 13.448,10",Analista de Dados Sênior,52,45-54,Masculino,10/01/2017,Ativo,Análise de Dados,FL01
+Henrique Sousa,DT91915,"R$ 23.700,92",Arquiteto Cloud,53,45-54,Masculino,19/01/2014,Inativo,Infraestrutura e Cloud,FL01
+Paulo Araújo,DT34450,"R$ 22.490,67",Head de Produto,47,45-54,Masculino,04/01/2016,Inativo,Produto,FL02
+Alexandre Machado,DT84202,"R$ 4.948,99",Analista Comercial Júnior,41,35-44,Masculino,16/05/2020,Ativo,Vendas e Parcerias,FL02
+Mariana Barbosa,DT67067,"R$ 14.870,84",Analista de BI Sênior,22,18-24,Feminino,21/03/2024,Ativo,Business Intelligence,FL06
+Eduardo Fernandes,DT47623,"R$ 6.769,34",Analista de RH Pleno,56,55+,Masculino,19/04/2015,Ativo,Recursos Humanos,FL01
+Rafael Gomes,DT35154,"R$ 12.188,18",Engenheiro de Dados Pleno,37,35-44,Masculino,30/05/2020,Ativo,Engenharia de Dados,FL03
+Eduardo Machado,DT94793,"R$ 9.637,43",Engenheiro de Dados Pleno,26,25-34,Masculino,27/08/2010,Ativo,Engenharia de Dados,FL02
+Vitória Fernandes,DT96333,"R$ 12.399,32",Product Manager Pleno,20,18-24,Feminino,24/11/2020,Ativo,Produto,FL04
+Gabriel Ferreira,DT51144,"R$ 19.269,44",Product Manager Sênior,44,35-44,Masculino,25/02/2018,Ativo,Produto,FL01
+André Ferreira,DT62021,"R$ 7.826,14",Analista Financeiro Pleno,54,45-54,Masculino,22/03/2021,Inativo,Financeiro,FL03
+Daniel Araújo,DT43004,"R$ 5.714,23",Engenheiro Cloud Júnior,25,25-34,Masculino,11/01/2017,Ativo,Infraestrutura e Cloud,FL03
+Fernando Moreira,DT40924,"R$ 7.504,97",Analista de BI Pleno,29,25-34,Masculino,20/10/2014,Inativo,Business Intelligence,FL01
+Renata Marques,DT43332,"R$ 7.471,08",Product Manager Júnior,41,35-44,Feminino,14/07/2012,Ativo,Produto,FL06
+Eduardo Cardoso,DT99487,"R$ 15.457,45",Analista de Dados Sênior,27,25-34,Masculino,21/02/2018,Ativo,Análise de Dados,FL02
+Vanessa Barbosa,DT12762,"R$ 5.182,95",Analista de RH Júnior,60,55+,Feminino,24/03/2011,Ativo,Recursos Humanos,FL06
+Vitória Lopes,DT43158,"R$ 23.164,88",Head de Produto,62,55+,Feminino,20/02/2018,Inativo,Produto,FL09
+Daniela Pereira,DT80111,"R$ 19.330,83",Gerente de Análise de Dados,43,35-44,Feminino,25/09/2015,Ativo,Análise de Dados,FL07
+Cristina Lopes,DT48983,"R$ 13.621,51",Cientista de Dados Pleno,58,55+,Feminino,11/02/2017,Inativo,Ciência de Dados,FL06
+Sabrina Marques,DT14440,"R$ 6.557,99",Analista de Dados Júnior,49,45-54,Feminino,26/07/2020,Ativo,Análise de Dados,FL10
+Marcos Dias,DT65360,"R$ 11.793,93",Engenheiro de Dados Pleno,50,45-54,Masculino,28/06/2011,Ativo,Engenharia de Dados,FL02
+Natália Rocha,DT69409,"R$ 5.904,94",Analista Financeiro Júnior,59,55+,Feminino,22/05/2024,Ativo,Financeiro,FL04
+Carlos Lima,DT10403,"R$ 9.199,04",Analista de BI Pleno,38,35-44,Masculino,01/12/2022,Ativo,Business Intelligence,FL01
+Bruno Lopes,DT95089,"R$ 9.464,36",Analista Comercial Pleno,61,55+,Masculino,16/03/2019,Ativo,Vendas e Parcerias,FL03
+Gustavo Mendes,DT72700,"R$ 7.412,38",Analista Comercial Pleno,61,55+,Masculino,21/04/2023,Inativo,Vendas e Parcerias,FL01
+Vitória Vieira,DT36039,"R$ 20.889,40",Arquiteto de Dados,43,35-44,Feminino,19/06/2018,Inativo,Engenharia de Dados,FL05
+André Almeida,DT12717,"R$ 12.627,38",Engenheiro de Dados Pleno,47,45-54,Masculino,13/06/2014,Ativo,Engenharia de Dados,FL03
+Monique Costa,DT16525,"R$ 19.602,36",Gerente de BI,27,25-34,Feminino,31/12/2011,Inativo,Business Intelligence,FL08
+Beatriz Pereira,DT11850,"R$ 20.640,16",Gerente Financeiro,47,45-54,Feminino,09/02/2025,Ativo,Financeiro,FL05
+Amanda Carvalho,DT34975,"R$ 14.858,99",Analista de Dados Sênior,42,35-44,Feminino,02/12/2012,Ativo,Análise de Dados,FL05
+Diego Carvalho,DT47089,"R$ 7.964,16",Analista Comercial Pleno,44,35-44,Masculino,10/04/2013,Ativo,Vendas e Parcerias,FL01
+Letícia Lopes,DT90960,"R$ 8.293,73",Analista de BI Pleno,61,55+,Feminino,08/07/2024,Ativo,Business Intelligence,FL08
+Lucas Cardoso,DT27459,"R$ 27.494,82",Especialista em IA,42,35-44,Masculino,30/06/2019,Ativo,Machine Learning,FL01
+Rodrigo Rodrigues,DT22488,"R$ 6.156,34",Product Manager Júnior,33,25-34,Masculino,24/07/2020,Inativo,Produto,FL02
+Natália Oliveira,DT10702,"R$ 18.815,04",Gerente de Análise de Dados,43,35-44,Feminino,20/01/2025,Ativo,Análise de Dados,FL08
+Roberta Oliveira,DT86085,"R$ 15.434,27",Cientista de Dados Sênior,49,45-54,Feminino,10/08/2017,Inativo,Ciência de Dados,FL10
+Mariana Ferreira,DT51591,"R$ 16.850,77",Gerente Financeiro,25,25-34,Feminino,10/01/2017,Ativo,Financeiro,FL09
+Mariana Ramos,DT46831,"R$ 14.668,07",Gerente de Contas,36,35-44,Feminino,27/11/2015,Ativo,Vendas e Parcerias,FL04
+Sabrina Sousa,DT77760,"R$ 29.141,37",Especialista em IA,38,35-44,Feminino,07/01/2021,Ativo,Machine Learning,FL05
+Mariana Mendes,DT16975,"R$ 9.745,55",Cientista de Dados Pleno,29,25-34,Feminino,21/10/2010,Ativo,Ciência de Dados,FL07
+Beatriz Freitas,DT67203,"R$ 20.765,15",Lead de Ciência de Dados,40,35-44,Feminino,31/07/2022,Ativo,Ciência de Dados,FL05
+Carla Pereira,DT29405,"R$ 15.014,68",Cientista de Dados Sênior,36,35-44,Feminino,19/01/2014,Inativo,Ciência de Dados,FL08
+Elisa Gonçalves,DT45755,"R$ 12.125,96",Product Manager Pleno,18,18-24,Feminino,19/10/2021,Ativo,Produto,FL04
+Bruno Marques,DT20070,"R$ 21.061,45",Gerente de Análise de Dados,39,35-44,Masculino,01/08/2010,Ativo,Análise de Dados,FL01
+Daniela Pereira,DT61664,"R$ 9.510,93",Engenheiro de ML Júnior,27,25-34,Feminino,25/08/2010,Ativo,Machine Learning,FL05
+Luana Cardoso,DT69513,"R$ 11.579,71",Analista de RH Sênior,18,18-24,Feminino,22/05/2017,Inativo,Recursos Humanos,FL06
+Paulo Mendes,DT52587,"R$ 7.239,78",Analista Comercial Pleno,21,18-24,Masculino,08/06/2024,Ativo,Vendas e Parcerias,FL01
+Vitória Souza,DT19269,"R$ 21.647,86",Head de Produto,34,25-34,Feminino,29/12/2013,Ativo,Produto,FL03
+Leandro Nunes,DT21690,"R$ 9.651,76",Engenheiro de Dados Pleno,43,35-44,Masculino,23/05/2016,Ativo,Engenharia de Dados,FL01
+Paulo Gomes,DT25807,"R$ 21.806,60",Gerente de Análise de Dados,37,35-44,Masculino,15/07/2023,Ativo,Análise de Dados,FL03
+Vitor Alves,DT58163,"R$ 10.458,49",Engenheiro Cloud Pleno,42,35-44,Masculino,07/09/2020,Ativo,Infraestrutura e Cloud,FL02
+Natália Machado,DT21825,"R$ 22.487,95",Diretor Comercial,57,55+,Feminino,07/03/2014,Ativo,Vendas e Parcerias,FL09
+Eduardo Ferreira,DT15300,"R$ 17.866,36",Engenheiro Cloud Sênior,61,55+,Masculino,11/01/2015,Ativo,Infraestrutura e Cloud,FL02
+Ricardo Gomes,DT74922,"R$ 5.872,11",Engenheiro Cloud Júnior,45,45-54,Masculino,11/10/2011,Inativo,Infraestrutura e Cloud,FL02
+Pedro Barbosa,DT29478,"R$ 19.128,46",Cientista de Dados Sênior,51,45-54,Masculino,05/08/2019,Ativo,Ciência de Dados,FL01
+Fernanda Rodrigues,DT15910,"R$ 6.531,95",Engenheiro Cloud Júnior,44,35-44,Feminino,14/02/2012,Ativo,Infraestrutura e Cloud,FL04
+Elisa Sousa,DT56590,"R$ 6.421,62",Analista de Dados Júnior,19,18-24,Feminino,22/07/2012,Ativo,Análise de Dados,FL09
+Renata Ribeiro,DT33882,"R$ 4.208,23",Analista de BI Júnior,37,35-44,Feminino,15/01/2017,Ativo,Business Intelligence,FL04
+Renata Mendes,DT91764,"R$ 15.850,24",Analista de Dados Sênior,29,25-34,Feminino,26/09/2014,Ativo,Análise de Dados,FL06
+Elisa Sousa,DT98265,"R$ 21.973,44",Arquiteto de Dados,18,18-24,Feminino,10/11/2018,Ativo,Engenharia de Dados,FL09
+Beatriz Cardoso,DT70314,"R$ 21.212,68",Gerente Financeiro,56,55+,Feminino,01/12/2020,Ativo,Financeiro,FL04
+Caio Andrade,DT98316,"R$ 20.827,84",Gerente Financeiro,23,18-24,Masculino,21/10/2012,Ativo,Financeiro,FL01
+Diego Pereira,DT12082,"R$ 10.006,54",Analista Financeiro Pleno,31,25-34,Masculino,16/10/2020,Ativo,Financeiro,FL01
+Paulo Lopes,DT67119,"R$ 6.258,28",Analista de RH Pleno,47,45-54,Masculino,28/04/2013,Ativo,Recursos Humanos,FL01
+Ana Pereira,DT31771,"R$ 26.765,13",Lead de Ciência de Dados,48,45-54,Feminino,10/06/2010,Inativo,Ciência de Dados,FL05
+Fernando Lopes,DT36389,"R$ 17.305,53",Gerente de Análise de Dados,18,18-24,Masculino,21/04/2012,Ativo,Análise de Dados,FL01
+Ricardo Machado,DT64484,"R$ 13.185,09",Engenheiro Cloud Sênior,43,35-44,Masculino,26/11/2020,Ativo,Infraestrutura e Cloud,FL03
+Renato Ramos,DT40396,"R$ 5.320,77",Analista Financeiro Júnior,45,45-54,Masculino,05/12/2022,Ativo,Financeiro,FL03
+Matheus Fernandes,DT94974,"R$ 16.701,64",Gerente de BI,57,55+,Masculino,29/06/2024,Ativo,Business Intelligence,FL01
+Cláudia Machado,DT12727,"R$ 18.494,15",Cientista de Dados Sênior,48,45-54,Feminino,17/09/2017,Ativo,Ciência de Dados,FL07
+Priscila Almeida,DT87025,"R$ 14.686,94",Analista Financeiro Sênior,60,55+,Feminino,04/07/2020,Ativo,Financeiro,FL08
+Anderson Moreira,DT64638,"R$ 14.183,89",Analista Financeiro Sênior,28,25-34,Masculino,13/12/2023,Ativo,Financeiro,FL02
+Cláudia Ferreira,DT97432,"R$ 9.193,16",Engenheiro Cloud Pleno,28,25-34,Feminino,03/08/2023,Ativo,Infraestrutura e Cloud,FL03
+Fábio Marques,DT74713,"R$ 8.233,02",Analista de Dados Pleno,21,18-24,Masculino,29/05/2010,Ativo,Análise de Dados,FL02
+Letícia Nascimento,DT98726,"R$ 13.225,77",Cientista de Dados Pleno,50,45-54,Feminino,19/09/2010,Ativo,Ciência de Dados,FL03
+Tatiana Machado,DT24938,"R$ 6.362,06",Analista de RH Pleno,32,25-34,Feminino,28/11/2020,Ativo,Recursos Humanos,FL05
+Gustavo Nascimento,DT16117,"R$ 14.533,43",Gerente de Contas,62,55+,Masculino,24/07/2021,Ativo,Vendas e Parcerias,FL01
+Rafael Souza,DT67386,"R$ 6.436,65",Analista de BI Júnior,57,55+,Masculino,04/09/2023,Ativo,Business Intelligence,FL03
+Camila Oliveira,DT76493,"R$ 11.519,70",Engenheiro de Dados Pleno,31,25-34,Feminino,10/02/2018,Ativo,Engenharia de Dados,FL09
+Gabriela Mendes,DT76308,"R$ 5.462,89",Engenheiro Cloud Júnior,41,35-44,Feminino,04/07/2017,Ativo,Infraestrutura e Cloud,FL05
+Rafael Martins,DT67554,"R$ 4.613,29",Analista de BI Júnior,48,45-54,Masculino,28/08/2017,Ativo,Business Intelligence,FL01
+Beatriz Ferreira,DT44867,"R$ 24.885,15",Especialista em IA,60,55+,Feminino,04/07/2015,Ativo,Machine Learning,FL10
+Leandro Araújo,DT65275,"R$ 10.306,19",Analista de Dados Pleno,44,35-44,Masculino,08/03/2019,Inativo,Análise de Dados,FL01
+Julio Araújo,DT99417,"R$ 8.327,74",Engenheiro de ML Júnior,18,18-24,Masculino,09/08/2021,Inativo,Machine Learning,FL01
+Matheus Dias,DT51262,"R$ 8.519,25",Analista de BI Pleno,43,35-44,Masculino,31/10/2010,Ativo,Business Intelligence,FL02
+Bruna Gomes,DT85308,"R$ 15.386,87",Engenheiro de Dados Sênior,61,55+,Feminino,02/06/2022,Inativo,Engenharia de Dados,FL04
+Renato Rocha,DT55109,"R$ 17.550,94",Engenheiro de Dados Sênior,57,55+,Masculino,18/04/2013,Ativo,Engenharia de Dados,FL02
+Carlos Carvalho,DT81358,"R$ 17.487,35",Gerente de RH,59,55+,Masculino,27/01/2019,Ativo,Recursos Humanos,FL03
+Roberta Barbosa,DT21046,"R$ 15.254,97",Engenheiro de Dados Sênior,26,25-34,Feminino,03/09/2021,Inativo,Engenharia de Dados,FL04
+Anderson Carvalho,DT22166,"R$ 15.606,68",Engenheiro Cloud Sênior,58,55+,Masculino,03/08/2013,Ativo,Infraestrutura e Cloud,FL01
+André Monteiro,DT87660,"R$ 10.412,80",Analista de Dados Pleno,37,35-44,Masculino,26/06/2019,Inativo,Análise de Dados,FL02
+Camila Souza,DT58887,"R$ 12.057,16",Analista de Dados Sênior,59,55+,Feminino,18/10/2012,Ativo,Análise de Dados,FL05
+Isabela Silva,DT69394,"R$ 14.124,24",Engenheiro de ML Pleno,55,55+,Feminino,08/09/2022,Ativo,Machine Learning,FL03
+Paulo Monteiro,DT88059,"R$ 12.846,41",Analista de Dados Sênior,60,55+,Masculino,06/11/2022,Ativo,Análise de Dados,FL01
+Ricardo Moreira,DT78113,"R$ 6.868,29",Analista Comercial Pleno,51,45-54,Masculino,23/01/2023,Ativo,Vendas e Parcerias,FL01
+Leandro Andrade,DT69547,"R$ 11.846,56",Engenheiro de Dados Pleno,44,35-44,Masculino,03/11/2011,Ativo,Engenharia de Dados,FL01
+Eduardo Lima,DT72423,"R$ 17.468,44",Gerente de Análise de Dados,61,55+,Masculino,21/10/2021,Ativo,Análise de Dados,FL02
+Alexandre Araújo,DT61744,"R$ 20.818,77",Gerente de Análise de Dados,46,45-54,Masculino,24/12/2020,Ativo,Análise de Dados,FL02
+Aline Costa,DT28919,"R$ 10.439,06",Engenheiro Cloud Pleno,47,45-54,Feminino,25/11/2012,Inativo,Infraestrutura e Cloud,FL06
+Priscila Araújo,DT25474,"R$ 8.594,01",Analista Financeiro Pleno,20,18-24,Feminino,08/07/2013,Inativo,Financeiro,FL10
+Vanessa Pereira,DT88852,"R$ 4.302,17",Analista de BI Júnior,54,45-54,Feminino,30/06/2016,Ativo,Business Intelligence,FL06
+Felipe Pereira,DT58688,"R$ 17.167,93",Engenheiro de ML Sênior,49,45-54,Masculino,18/08/2010,Ativo,Machine Learning,FL01
+Felipe Marques,DT16376,"R$ 16.685,70",Engenheiro de ML Sênior,49,45-54,Masculino,18/01/2010,Ativo,Machine Learning,FL01
+Vanessa Rodrigues,DT15856,"R$ 19.438,35",Gerente de BI,54,45-54,Feminino,23/02/2020,Inativo,Business Intelligence,FL06
+Vitória Moreira,DT72289,"R$ 9.666,83",Analista Financeiro Pleno,50,45-54,Feminino,10/04/2024,Ativo,Financeiro,FL05
+Renata Mendes,DT29527,"R$ 10.901,92",Gerente de Contas,57,55+,Feminino,26/11/2024,Ativo,Vendas e Parcerias,FL07
+Henrique Almeida,DT61825,"R$ 9.874,24",Engenheiro de ML Júnior,46,45-54,Masculino,22/03/2016,Ativo,Machine Learning,FL02
+Monique Costa,DT13251,"R$ 17.585,74",Product Manager Sênior,25,25-34,Feminino,10/06/2024,Ativo,Produto,FL04
+Diego Monteiro,DT16930,"R$ 12.877,51",Product Manager Pleno,50,45-54,Masculino,02/06/2010,Ativo,Produto,FL01
+Cristina Monteiro,DT33559,"R$ 17.040,41",Engenheiro de Dados Sênior,33,25-34,Feminino,31/12/2022,Ativo,Engenharia de Dados,FL03
+Vitória Monteiro,DT89541,"R$ 26.711,14",Especialista em IA,49,45-54,Feminino,10/07/2010,Ativo,Machine Learning,FL04
+Beatriz Marques,DT13153,"R$ 14.910,05",Engenheiro Cloud Sênior,23,18-24,Feminino,28/07/2012,Inativo,Infraestrutura e Cloud,FL04
+Alexandre Costa,DT47401,"R$ 10.650,00",Cientista de Dados Pleno,23,18-24,Masculino,17/06/2013,Ativo,Ciência de Dados,FL01
+Eduardo Costa,DT17721,"R$ 10.135,10",Analista de RH Sênior,21,18-24,Masculino,07/09/2016,Ativo,Recursos Humanos,FL02
+Gustavo Gomes,DT64109,"R$ 17.565,32",Engenheiro de ML Sênior,25,25-34,Masculino,01/03/2011,Ativo,Machine Learning,FL02
+Leandro Lopes,DT74615,"R$ 25.645,50",Arquiteto Cloud,35,35-44,Masculino,12/05/2011,Ativo,Infraestrutura e Cloud,FL01
+Lívia Marques,DT18579,"R$ 6.222,48",Engenheiro Cloud Júnior,32,25-34,Feminino,02/06/2010,Ativo,Infraestrutura e Cloud,FL10
+Isabela Alves,DT42285,"R$ 7.566,14",Analista Comercial Pleno,44,35-44,Feminino,02/01/2020,Ativo,Vendas e Parcerias,FL05
+Paulo Gonçalves,DT36667,"R$ 17.472,42",Cientista de Dados Sênior,28,25-34,Masculino,02/07/2015,Ativo,Ciência de Dados,FL03
+Eduardo Mendes,DT15477,"R$ 24.747,24",Arquiteto de Dados,57,55+,Masculino,27/06/2016,Ativo,Engenharia de Dados,FL01
+Beatriz Silva,DT17887,"R$ 15.989,34",Engenheiro Cloud Sênior,61,55+,Feminino,12/07/2018,Inativo,Infraestrutura e Cloud,FL08
+Luana Carvalho,DT86697,"R$ 13.227,42",Engenheiro Cloud Sênior,52,45-54,Feminino,18/08/2022,Ativo,Infraestrutura e Cloud,FL04
+Matheus Nunes,DT26118,"R$ 19.330,54",Cientista de Dados Sênior,31,25-34,Masculino,10/09/2023,Ativo,Ciência de Dados,FL01
+Vitória Rocha,DT99404,"R$ 20.888,02",Engenheiro de ML Sênior,46,45-54,Feminino,15/02/2016,Ativo,Machine Learning,FL04
+Tatiana Dias,DT37606,"R$ 11.071,44",Analista de BI Sênior,62,55+,Feminino,31/12/2012,Ativo,Business Intelligence,FL04
+Ana Cardoso,DT10560,"R$ 10.652,65",Engenheiro de Dados Pleno,62,55+,Feminino,19/12/2020,Ativo,Engenharia de Dados,FL09
+Alexandre Ferreira,DT95078,"R$ 4.577,30",Analista de RH Júnior,60,55+,Masculino,26/12/2019,Ativo,Recursos Humanos,FL01
+Vanessa Moreira,DT88815,"R$ 23.417,49",Especialista em IA,62,55+,Feminino,11/03/2010,Ativo,Machine Learning,FL04
+Leonardo Martins,DT68271,"R$ 11.972,58",Engenheiro de Dados Pleno,35,35-44,Masculino,10/01/2018,Ativo,Engenharia de Dados,FL01
+Caio Barbosa,DT38986,"R$ 22.803,78",Gerente de Análise de Dados,20,18-24,Masculino,18/04/2016,Ativo,Análise de Dados,FL02
+Ricardo Carvalho,DT10935,"R$ 21.221,15",Lead de Ciência de Dados,35,35-44,Masculino,07/10/2022,Ativo,Ciência de Dados,FL02
+Bruno Martins,DT96486,"R$ 6.728,76",Analista Comercial Pleno,26,25-34,Masculino,17/06/2011,Ativo,Vendas e Parcerias,FL01
+Marcos Almeida,DT78561,"R$ 11.363,33",Gerente de Contas,61,55+,Masculino,09/07/2010,Inativo,Vendas e Parcerias,FL02
+Cláudia Monteiro,DT90538,"R$ 17.011,73",Gerente de Análise de Dados,45,45-54,Feminino,17/05/2024,Ativo,Análise de Dados,FL07
+Bruna Souza,DT52336,"R$ 17.644,21",Gerente de BI,61,55+,Feminino,16/08/2021,Ativo,Business Intelligence,FL04
+Leonardo Araújo,DT15697,"R$ 7.164,38",Analista Financeiro Pleno,44,35-44,Masculino,10/12/2021,Ativo,Financeiro,FL02
+Ana Nunes,DT35507,"R$ 9.640,30",Engenheiro de ML Júnior,19,18-24,Feminino,23/01/2015,Inativo,Machine Learning,FL09
+Aline Rodrigues,DT42765,"R$ 10.981,51",Cientista de Dados Pleno,22,18-24,Feminino,16/01/2024,Ativo,Ciência de Dados,FL09
+Lucas Cardoso,DT66616,"R$ 17.282,28",Engenheiro de Dados Sênior,33,25-34,Masculino,02/06/2012,Ativo,Engenharia de Dados,FL01
+Tatiana Souza,DT53724,"R$ 12.274,19",Engenheiro Cloud Pleno,56,55+,Feminino,24/11/2023,Ativo,Infraestrutura e Cloud,FL07
+Camila Mendes,DT85882,"R$ 8.923,58",Cientista de Dados Júnior,20,18-24,Feminino,19/06/2018,Ativo,Ciência de Dados,FL09
+Monique Rodrigues,DT26716,"R$ 18.856,13",Arquiteto de Dados,57,55+,Feminino,17/01/2024,Ativo,Engenharia de Dados,FL07
+Rafael Souza,DT83303,"R$ 17.324,68",Engenheiro de Dados Sênior,43,35-44,Masculino,25/02/2012,Ativo,Engenharia de Dados,FL01
+Eduardo Almeida,DT88587,"R$ 4.406,82",Analista de RH Júnior,47,45-54,Masculino,09/08/2019,Inativo,Recursos Humanos,FL01
+Natália Alves,DT54514,"R$ 4.408,15",Analista de RH Júnior,39,35-44,Feminino,09/03/2023,Ativo,Recursos Humanos,FL06
+Rafael Silva,DT88010,"R$ 5.482,22",Analista Financeiro Júnior,30,25-34,Masculino,09/11/2022,Ativo,Financeiro,FL01
+Priscila Sousa,DT56581,"R$ 20.347,74",Gerente de BI,46,45-54,Feminino,04/03/2014,Ativo,Business Intelligence,FL04
+Fábio Oliveira,DT17928,"R$ 17.714,87",Cientista de Dados Sênior,50,45-54,Masculino,13/08/2024,Ativo,Ciência de Dados,FL01
+Anderson Monteiro,DT29087,"R$ 22.506,38",Lead de Ciência de Dados,39,35-44,Masculino,12/07/2016,Ativo,Ciência de Dados,FL01
+Ana Araújo,DT86865,"R$ 6.171,95",Analista de RH Pleno,50,45-54,Feminino,20/07/2022,Inativo,Recursos Humanos,FL05
+Eduardo Nascimento,DT35612,"R$ 13.033,69",Cientista de Dados Pleno,39,35-44,Masculino,01/04/2014,Ativo,Ciência de Dados,FL01
+Cláudia Freitas,DT88612,"R$ 14.408,03",Analista Financeiro Sênior,54,45-54,Feminino,12/07/2017,Ativo,Financeiro,FL03
+Eduardo Dias,DT31270,"R$ 24.194,69",Arquiteto de Dados,20,18-24,Masculino,14/02/2021,Ativo,Engenharia de Dados,FL02
+Ana Almeida,DT40182,"R$ 7.836,57",Analista de BI Pleno,39,35-44,Feminino,07/06/2018,Ativo,Business Intelligence,FL07
+Beatriz Silva,DT57555,"R$ 6.573,66",Engenheiro de Dados Júnior,53,45-54,Feminino,01/08/2012,Ativo,Engenharia de Dados,FL08
+Renata Martins,DT92750,"R$ 14.741,48",Product Manager Sênior,19,18-24,Feminino,20/06/2014,Ativo,Produto,FL04
+Beatriz Almeida,DT44340,"R$ 8.189,36",Analista Financeiro Pleno,53,45-54,Feminino,08/07/2015,Ativo,Financeiro,FL04
+Ana Ribeiro,DT44313,"R$ 7.994,34",Engenheiro de Dados Júnior,26,25-34,Feminino,02/07/2018,Ativo,Engenharia de Dados,FL06
+André Pereira,DT54352,"R$ 17.009,12",Cientista de Dados Sênior,41,35-44,Masculino,09/05/2018,Ativo,Ciência de Dados,FL02
+Priscila Machado,DT18569,"R$ 13.472,25",Cientista de Dados Pleno,26,25-34,Feminino,03/04/2014,Ativo,Ciência de Dados,FL03
+Henrique Andrade,DT51674,"R$ 27.838,87",Head de Produto,33,25-34,Masculino,14/01/2011,Ativo,Produto,FL01
+Fernando Martins,DT80184,"R$ 8.646,88",Analista de Dados Pleno,21,18-24,Masculino,13/02/2024,Ativo,Análise de Dados,FL02
+Julio Lima,DT76619,"R$ 22.464,66",Head de Produto,23,18-24,Masculino,22/07/2020,Ativo,Produto,FL01
+Marcelo Rodrigues,DT31945,"R$ 24.259,16",Arquiteto Cloud,59,55+,Masculino,03/06/2021,Ativo,Infraestrutura e Cloud,FL03
+Daniel Freitas,DT33461,"R$ 18.390,12",Engenheiro de ML Sênior,48,45-54,Masculino,05/02/2021,Ativo,Machine Learning,FL02
+Isabela Nunes,DT93637,"R$ 6.621,60",Product Manager Júnior,30,25-34,Feminino,21/02/2020,Inativo,Produto,FL05
+Henrique Carvalho,DT50107,"R$ 19.428,22",Gerente de BI,41,35-44,Masculino,17/09/2015,Ativo,Business Intelligence,FL01
+Mariana Ferreira,DT48672,"R$ 12.035,80",Analista de BI Sênior,20,18-24,Feminino,08/06/2020,Ativo,Business Intelligence,FL06
+Gustavo Machado,DT69133,"R$ 18.453,72",Gerente de BI,49,45-54,Masculino,10/02/2017,Ativo,Business Intelligence,FL01
+Ana Ribeiro,DT67892,"R$ 14.404,10",Analista de Dados Sênior,40,35-44,Feminino,07/11/2011,Ativo,Análise de Dados,FL04
+Daniel Gonçalves,DT81650,"R$ 5.071,75",Analista de RH Júnior,32,25-34,Masculino,17/03/2012,Ativo,Recursos Humanos,FL02
+Vanessa Oliveira,DT81568,"R$ 15.581,55",Cientista de Dados Sênior,39,35-44,Feminino,11/08/2015,Ativo,Ciência de Dados,FL07
+Caio Fernandes,DT34987,"R$ 10.494,42",Analista Financeiro Pleno,52,45-54,Masculino,10/11/2015,Ativo,Financeiro,FL02
+Anderson Vieira,DT55433,"R$ 20.931,17",Gerente de BI,59,55+,Masculino,08/04/2010,Ativo,Business Intelligence,FL01
+Daniel Gomes,DT62101,"R$ 10.031,68",Analista de Dados Pleno,31,25-34,Masculino,22/08/2020,Ativo,Análise de Dados,FL02
+Fernando Freitas,DT70476,"R$ 7.939,22",Engenheiro de ML Júnior,30,25-34,Masculino,14/08/2019,Ativo,Machine Learning,FL01
+Cláudia Marques,DT37470,"R$ 21.117,66",Gerente de BI,19,18-24,Feminino,28/05/2018,Ativo,Business Intelligence,FL10
+Julio Lima,DT50051,"R$ 4.899,56",Analista Comercial Júnior,60,55+,Masculino,15/12/2017,Ativo,Vendas e Parcerias,FL02
+Aline Machado,DT99884,"R$ 22.102,73",Diretor Comercial,62,55+,Feminino,22/01/2022,Ativo,Vendas e Parcerias,FL05
+Fernando Santos,DT84393,"R$ 9.614,76",Engenheiro de Dados Pleno,39,35-44,Masculino,29/09/2022,Ativo,Engenharia de Dados,FL01
+Marcelo Nunes,DT59980,"R$ 20.914,11",Lead de Ciência de Dados,42,35-44,Masculino,23/03/2014,Ativo,Ciência de Dados,FL01
+Tatiana Mendes,DT93755,"R$ 4.928,56",Analista de Dados Júnior,61,55+,Feminino,27/05/2022,Ativo,Análise de Dados,FL09
+Caio Ramos,DT13517,"R$ 9.812,71",Cientista de Dados Pleno,42,35-44,Masculino,14/05/2016,Ativo,Ciência de Dados,FL02
+Gabriela Araújo,DT19172,"R$ 4.921,63",Analista de BI Júnior,18,18-24,Feminino,08/11/2013,Ativo,Business Intelligence,FL10
+Cristina Marques,DT61262,"R$ 6.387,41",Cientista de Dados Júnior,44,35-44,Feminino,22/09/2020,Ativo,Ciência de Dados,FL05
+Henrique Carvalho,DT27030,"R$ 16.877,10",Cientista de Dados Sênior,60,55+,Masculino,25/08/2020,Ativo,Ciência de Dados,FL01
+Isabela Barbosa,DT87003,"R$ 22.290,37",Lead de Ciência de Dados,18,18-24,Feminino,14/03/2013,Ativo,Ciência de Dados,FL06
+Luana Nunes,DT89278,"R$ 15.596,36",Analista de Dados Sênior,49,45-54,Feminino,27/04/2020,Ativo,Análise de Dados,FL05
+Gabriel Ferreira,DT47737,"R$ 15.733,91",Gerente de RH,37,35-44,Masculino,09/10/2018,Ativo,Recursos Humanos,FL01
+Vitória Ribeiro,DT64401,"R$ 10.649,88",Analista de Dados Pleno,45,45-54,Feminino,08/04/2020,Ativo,Análise de Dados,FL07
+Daniela Ribeiro,DT84529,"R$ 23.041,19",Arquiteto de Dados,20,18-24,Feminino,18/05/2015,Inativo,Engenharia de Dados,FL06
+Bruno Fernandes,DT92324,"R$ 16.333,28",Engenheiro Cloud Sênior,22,18-24,Masculino,15/11/2014,Inativo,Infraestrutura e Cloud,FL01
+Aline Pereira,DT58330,"R$ 7.013,18",Engenheiro de Dados Júnior,38,35-44,Feminino,14/03/2019,Ativo,Engenharia de Dados,FL03
+Rodrigo Carvalho,DT76330,"R$ 18.673,67",Arquiteto de Dados,58,55+,Masculino,25/02/2025,Ativo,Engenharia de Dados,FL02
+Henrique Dias,DT62342,"R$ 20.745,54",Lead de Ciência de Dados,34,25-34,Masculino,28/07/2012,Ativo,Ciência de Dados,FL01
+Felipe Rocha,DT97856,"R$ 19.878,07",Diretor Comercial,22,18-24,Masculino,08/11/2011,Ativo,Vendas e Parcerias,FL02
+Amanda Mendes,DT28383,"R$ 17.207,81",Engenheiro Cloud Sênior,28,25-34,Feminino,28/05/2010,Ativo,Infraestrutura e Cloud,FL10
+Beatriz Vieira,DT26272,"R$ 20.179,17",Arquiteto Cloud,60,55+,Feminino,02/04/2010,Ativo,Infraestrutura e Cloud,FL05
+Mariana Mendes,DT56935,"R$ 12.714,86",Cientista de Dados Pleno,61,55+,Feminino,09/12/2021,Ativo,Ciência de Dados,FL04
+Cláudia Souza,DT93203,"R$ 6.171,86",Engenheiro Cloud Júnior,37,35-44,Feminino,17/12/2019,Ativo,Infraestrutura e Cloud,FL05
+Lucas Souza,DT59465,"R$ 9.750,87",Analista Comercial Pleno,41,35-44,Masculino,09/05/2015,Ativo,Vendas e Parcerias,FL01
+Ana Marques,DT13662,"R$ 17.192,37",Engenheiro de Dados Sênior,61,55+,Feminino,02/01/2025,Ativo,Engenharia de Dados,FL03
+André Alves,DT97046,"R$ 9.698,06",Cientista de Dados Pleno,50,45-54,Masculino,01/06/2012,Ativo,Ciência de Dados,FL01
+Tatiana Martins,DT91877,"R$ 26.603,00",Lead de Ciência de Dados,25,25-34,Feminino,19/03/2015,Ativo,Ciência de Dados,FL04
+Leonardo Rocha,DT32756,"R$ 22.750,95",Arquiteto de Dados,18,18-24,Masculino,24/09/2018,Ativo,Engenharia de Dados,FL03
+Thiago Rodrigues,DT96240,"R$ 11.697,73",Analista de Dados Sênior,31,25-34,Masculino,22/03/2019,Ativo,Análise de Dados,FL01
+Marcelo Ramos,DT23344,"R$ 7.881,79",Analista Financeiro Pleno,24,18-24,Masculino,16/06/2023,Ativo,Financeiro,FL01
+Paulo Moreira,DT98853,"R$ 7.662,16",Analista Comercial Pleno,58,55+,Masculino,17/02/2017,Inativo,Vendas e Parcerias,FL01
+Vitor Cardoso,DT18849,"R$ 8.825,60",Engenheiro de ML Júnior,55,55+,Masculino,26/01/2020,Ativo,Machine Learning,FL01
+Paulo Almeida,DT75984,"R$ 6.697,82",Product Manager Júnior,57,55+,Masculino,13/10/2012,Ativo,Produto,FL01
+Renato Machado,DT41922,"R$ 3.619,85",Analista de RH Júnior,41,35-44,Masculino,09/03/2021,Ativo,Recursos Humanos,FL02
+Mariana Moreira,DT36789,"R$ 3.976,13",Analista de RH Júnior,56,55+,Feminino,15/12/2019,Ativo,Recursos Humanos,FL03
+Gustavo Lima,DT46454,"R$ 8.562,62",Engenheiro de ML Júnior,44,35-44,Masculino,14/07/2024,Ativo,Machine Learning,FL01
+Leandro Santos,DT40016,"R$ 12.042,28",Gerente de Contas,31,25-34,Masculino,05/02/2022,Ativo,Vendas e Parcerias,FL03
+Cristina Lopes,DT39156,"R$ 24.650,30",Head de Produto,29,25-34,Feminino,03/12/2019,Ativo,Produto,FL08
+Juliana Ramos,DT19173,"R$ 7.903,10",Cientista de Dados Júnior,27,25-34,Feminino,31/07/2014,Ativo,Ciência de Dados,FL05
+Beatriz Carvalho,DT40973,"R$ 6.278,72",Engenheiro Cloud Júnior,47,45-54,Feminino,26/12/2016,Ativo,Infraestrutura e Cloud,FL04
+Diego Lopes,DT65576,"R$ 10.863,95",Cientista de Dados Pleno,54,45-54,Masculino,21/01/2020,Inativo,Ciência de Dados,FL01
+Larissa Fernandes,DT73068,"R$ 15.292,10",Engenheiro de Dados Sênior,28,25-34,Feminino,23/07/2020,Ativo,Engenharia de Dados,FL05
+Daniel Machado,DT30431,"R$ 7.285,79",Engenheiro Cloud Júnior,45,45-54,Masculino,13/11/2011,Ativo,Infraestrutura e Cloud,FL01
+Marcos Barbosa,DT88011,"R$ 10.711,41",Engenheiro Cloud Pleno,29,25-34,Masculino,09/10/2015,Ativo,Infraestrutura e Cloud,FL01
+Anderson Freitas,DT47122,"R$ 22.575,52",Especialista em IA,26,25-34,Masculino,11/07/2020,Ativo,Machine Learning,FL01
+Marcos Martins,DT10547,"R$ 15.711,54",Engenheiro de Dados Sênior,44,35-44,Masculino,07/11/2018,Inativo,Engenharia de Dados,FL01
+Vanessa Moreira,DT74166,"R$ 8.226,36",Engenheiro de ML Júnior,20,18-24,Feminino,16/10/2012,Ativo,Machine Learning,FL05
+Fernando Costa,DT35457,"R$ 23.656,78",Diretor Comercial,40,35-44,Masculino,06/06/2021,Ativo,Vendas e Parcerias,FL01
+Paulo Andrade,DT17563,"R$ 18.632,59",Gerente de RH,33,25-34,Masculino,09/06/2015,Ativo,Recursos Humanos,FL01
+Cristina Andrade,DT92700,"R$ 5.743,68",Analista Financeiro Júnior,59,55+,Feminino,26/04/2013,Ativo,Financeiro,FL04

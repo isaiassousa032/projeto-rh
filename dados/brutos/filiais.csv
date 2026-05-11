@@ -1,0 +1,11 @@
+﻿ID da Filial,Nome da Filial,Cidade,Estado,Região,Tamanho da Filial
+FL01,Sede São Paulo,São Paulo,SP,Sudeste,Grande
+FL02,Filial Rio de Janeiro,Rio de Janeiro,RJ,Sudeste,Grande
+FL03,Filial Belo Horizonte,Belo Horizonte,MG,Sudeste,Média
+FL04,Filial Curitiba,Curitiba,PR,Sul,Média
+FL05,Filial Porto Alegre,Porto Alegre,RS,Sul,Média
+FL06,Filial Brasília,Brasília,DF,Centro-Oeste,Média
+FL07,Filial Recife,Recife,PE,Nordeste,Pequena
+FL08,Filial Salvador,Salvador,BA,Nordeste,Pequena
+FL09,Filial Fortaleza,Fortaleza,CE,Nordeste,Pequena
+FL10,Filial Manaus,Manaus,AM,Norte,Pequena

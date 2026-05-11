@@ -1,0 +1,1001 @@
+Nome do Funcionário,ID Único,Salário,Cargo,Idade,Faixa de Idade,Gênero,Data de Contratação,Status do Funcionário,Departamento,ID da Filial
+Aline Mendes,DT87832,13163.2,Engenheiro Cloud Sênior,36,35-44,Feminino,05/05/2016,Ativo,Infraestrutura e Cloud,FL05
+Carlos Rodrigues,DT40595,8987.99,Analista de Dados Pleno,52,45-54,Masculino,16/01/2015,Ativo,Análise de Dados,FL03
+Cristina Fernandes,DT28643,5997.77,Engenheiro de Dados Júnior,37,35-44,Feminino,07/05/2023,Ativo,Engenharia de Dados,FL07
+Isabela Vieira,DT67560,24976.41,Lead de Ciência de Dados,62,55+,Feminino,11/01/2019,Inativo,Ciência de Dados,FL08
+Daniel Monteiro,DT74722,5495.09,Analista de BI Júnior,45,45-54,Masculino,25/03/2017,Ativo,Business Intelligence,FL01
+Lucas Ferreira,DT40005,6498.93,Analista Financeiro Júnior,61,55+,Masculino,17/01/2016,Ativo,Financeiro,FL02
+Leandro Ribeiro,DT71669,25412.51,Arquiteto Cloud,29,25-34,Masculino,17/02/2023,Ativo,Infraestrutura e Cloud,FL01
+Luana Ramos,DT21959,15041.74,Engenheiro Cloud Sênior,38,35-44,Feminino,11/01/2025,Ativo,Infraestrutura e Cloud,FL05
+Bruno Dias,DT63955,17729.31,Gerente Financeiro,43,35-44,Masculino,04/05/2022,Ativo,Financeiro,FL02
+Matheus Rocha,DT43082,9910.55,Engenheiro de ML Júnior,43,35-44,Masculino,17/07/2021,Inativo,Machine Learning,FL03
+Lucas Monteiro,DT70552,4468.96,Analista de BI Júnior,41,35-44,Masculino,19/12/2023,Ativo,Business Intelligence,FL01
+Bruna Mendes,DT16764,17520.71,Cientista de Dados Sênior,36,35-44,Feminino,30/10/2019,Inativo,Ciência de Dados,FL06
+Pedro Pereira,DT13783,8129.35,Analista de RH Pleno,37,35-44,Masculino,10/05/2022,Ativo,Recursos Humanos,FL02
+Aline Ferreira,DT39451,26655.89,Lead de Ciência de Dados,59,55+,Feminino,15/06/2013,Ativo,Ciência de Dados,FL04
+Cláudia Vieira,DT76698,12661.96,Analista Financeiro Sênior,48,45-54,Feminino,04/08/2020,Ativo,Financeiro,FL04
+Alexandre Gomes,DT60277,13388.12,Cientista de Dados Pleno,35,35-44,Masculino,23/04/2019,Ativo,Ciência de Dados,FL03
+Vitória Gonçalves,DT45018,16767.23,Engenheiro de Dados Sênior,55,55+,Feminino,03/01/2023,Inativo,Engenharia de Dados,FL05
+Pedro Gomes,DT68529,21415.87,Arquiteto Cloud,53,45-54,Masculino,10/03/2022,Ativo,Infraestrutura e Cloud,FL01
+Cristina Rocha,DT34727,9001.29,Analista Financeiro Pleno,32,25-34,Feminino,20/03/2019,Ativo,Financeiro,FL05
+Renato Cardoso,DT59968,12728.98,Engenheiro de ML Pleno,20,18-24,Masculino,31/10/2012,Ativo,Machine Learning,FL02
+Fernando Dias,DT23154,5314.88,Analista de BI Júnior,47,45-54,Masculino,06/05/2010,Ativo,Business Intelligence,FL02
+Aline Gomes,DT19807,14692.81,Engenheiro Cloud Sênior,62,55+,Feminino,01/12/2018,Ativo,Infraestrutura e Cloud,FL06
+Julio Dias,DT98389,25678.98,Arquiteto Cloud,58,55+,Masculino,11/12/2020,Inativo,Infraestrutura e Cloud,FL02
+Gabriel Rodrigues,DT40771,12990.99,Analista de RH Sênior,23,18-24,Masculino,26/09/2019,Inativo,Recursos Humanos,FL02
+Sabrina Alves,DT68153,19468.83,Cientista de Dados Sênior,20,18-24,Feminino,11/04/2017,Ativo,Ciência de Dados,FL04
+Anderson Nascimento,DT59131,7854.69,Analista de BI Pleno,44,35-44,Masculino,11/09/2022,Ativo,Business Intelligence,FL02
+Beatriz Costa,DT32946,22528.12,Arquiteto de Dados,33,25-34,Feminino,28/02/2021,Inativo,Engenharia de Dados,FL04
+Felipe Almeida,DT70443,11108.5,Analista de RH Sênior,60,55+,Masculino,18/03/2010,Inativo,Recursos Humanos,FL03
+Carlos Vieira,DT98815,8795.45,Engenheiro Cloud Pleno,40,35-44,Masculino,07/03/2023,Ativo,Infraestrutura e Cloud,FL02
+Aline Sousa,DT69878,10997.81,Analista de Dados Pleno,48,45-54,Feminino,23/05/2012,Ativo,Análise de Dados,FL05
+Isabela Nascimento,DT85341,11598.73,Analista de Dados Sênior,60,55+,Feminino,17/11/2018,Ativo,Análise de Dados,FL04
+Isabela Souza,DT89482,22662.71,Diretor Comercial,36,35-44,Feminino,01/03/2015,Ativo,Vendas e Parcerias,FL08
+Vanessa Almeida,DT93442,18227.7,Cientista de Dados Sênior,60,55+,Feminino,25/01/2013,Ativo,Ciência de Dados,FL06
+André Oliveira,DT50492,5448.93,Analista de BI Júnior,26,25-34,Masculino,09/01/2012,Inativo,Business Intelligence,FL02
+Tatiana Marques,DT33021,13039.31,Cientista de Dados Pleno,41,35-44,Feminino,27/11/2021,Ativo,Ciência de Dados,FL08
+Rodrigo Costa,DT43681,16732.8,Engenheiro Cloud Sênior,39,35-44,Masculino,01/08/2012,Ativo,Infraestrutura e Cloud,FL02
+Juliana Gomes,DT39571,21803.62,Gerente Financeiro,53,45-54,Feminino,16/03/2018,Ativo,Financeiro,FL03
+Patrícia Silva,DT44663,6364.36,Engenheiro Cloud Júnior,61,55+,Feminino,29/01/2025,Ativo,Infraestrutura e Cloud,FL05
+Henrique Andrade,DT24201,8650.17,Analista Financeiro Pleno,57,55+,Masculino,05/08/2022,Ativo,Financeiro,FL01
+Marcelo Almeida,DT94889,24411.02,Arquiteto de Dados,37,35-44,Masculino,24/07/2024,Ativo,Engenharia de Dados,FL02
+Felipe Oliveira,DT14877,17696.72,Gerente de Análise de Dados,33,25-34,Masculino,21/01/2022,Ativo,Análise de Dados,FL01
+Carlos Andrade,DT97881,20698.72,Diretor Comercial,27,25-34,Masculino,22/04/2019,Ativo,Vendas e Parcerias,FL01
+Luana Ramos,DT90694,11147.22,Analista de BI Sênior,41,35-44,Feminino,15/11/2014,Ativo,Business Intelligence,FL05
+Thiago Andrade,DT23022,13177.86,Analista Financeiro Sênior,59,55+,Masculino,17/01/2018,Ativo,Financeiro,FL01
+Rodrigo Martins,DT26011,5656.92,Analista de BI Júnior,59,55+,Masculino,05/05/2024,Ativo,Business Intelligence,FL02
+Ana Souza,DT53713,10254.42,Analista de Dados Pleno,31,25-34,Feminino,17/07/2011,Inativo,Análise de Dados,FL05
+Alexandre Carvalho,DT86858,8649.96,Analista de Dados Pleno,27,25-34,Masculino,15/05/2023,Ativo,Análise de Dados,FL01
+Julio Gomes,DT27038,16992.57,Engenheiro Cloud Sênior,25,25-34,Masculino,29/10/2024,Ativo,Infraestrutura e Cloud,FL01
+Mariana Silva,DT56955,11571.01,Analista de Dados Sênior,34,25-34,Feminino,06/03/2011,Ativo,Análise de Dados,FL05
+Eduardo Araújo,DT24896,4847.74,Analista Comercial Júnior,41,35-44,Masculino,06/07/2021,Ativo,Vendas e Parcerias,FL01
+Carlos Gonçalves,DT39038,4954.49,Analista de RH Júnior,60,55+,Masculino,11/09/2021,Ativo,Recursos Humanos,FL02
+Bruna Santos,DT17972,21983.92,Arquiteto Cloud,24,18-24,Feminino,30/12/2020,Ativo,Infraestrutura e Cloud,FL09
+Carlos Rodrigues,DT20589,10795.57,Engenheiro de ML Pleno,35,35-44,Masculino,02/01/2024,Ativo,Machine Learning,FL01
+Alexandre Rocha,DT59925,16995.43,Product Manager Sênior,56,55+,Masculino,26/08/2019,Ativo,Produto,FL01
+Ricardo Pereira,DT95814,7290.21,Analista de RH Pleno,32,25-34,Masculino,13/04/2019,Ativo,Recursos Humanos,FL02
+Renata Nunes,DT64524,4487.61,Analista Comercial Júnior,38,35-44,Feminino,01/12/2024,Ativo,Vendas e Parcerias,FL03
+Mariana Cardoso,DT18799,5779.69,Engenheiro de Dados Júnior,24,18-24,Feminino,11/05/2018,Ativo,Engenharia de Dados,FL04
+Lívia Souza,DT86869,18185.07,Product Manager Sênior,44,35-44,Feminino,06/12/2017,Inativo,Produto,FL05
+Leandro Machado,DT16743,13082.41,Analista de Dados Sênior,54,45-54,Masculino,19/05/2021,Ativo,Análise de Dados,FL01
+Daniela Cardoso,DT39392,17304.18,Engenheiro de Dados Sênior,41,35-44,Feminino,30/07/2012,Ativo,Engenharia de Dados,FL03
+Isabela Almeida,DT66244,7826.98,Product Manager Júnior,60,55+,Feminino,31/12/2015,Ativo,Produto,FL03
+Rodrigo Barbosa,DT54541,7544.22,Engenheiro de ML Júnior,27,25-34,Masculino,14/09/2022,Ativo,Machine Learning,FL01
+Juliana Gomes,DT92991,7738.34,Engenheiro de Dados Júnior,31,25-34,Feminino,09/06/2018,Ativo,Engenharia de Dados,FL04
+Gustavo Costa,DT58503,19772.6,Engenheiro de ML Sênior,54,45-54,Masculino,17/05/2023,Ativo,Machine Learning,FL02
+Gabriel Gomes,DT30632,5282.73,Analista Comercial Júnior,35,35-44,Masculino,09/12/2019,Ativo,Vendas e Parcerias,FL02
+Carla Mendes,DT64287,10142.3,Analista de Dados Pleno,25,25-34,Feminino,28/09/2017,Ativo,Análise de Dados,FL07
+Anderson Ramos,DT79066,11181.67,Analista Financeiro Sênior,43,35-44,Masculino,11/06/2023,Ativo,Financeiro,FL02
+Diego Barbosa,DT37686,9174.56,Analista Comercial Pleno,36,35-44,Masculino,11/05/2017,Ativo,Vendas e Parcerias,FL01
+Pedro Machado,DT33028,23961.79,Lead de Ciência de Dados,32,25-34,Masculino,22/03/2021,Ativo,Ciência de Dados,FL01
+Vitor Nascimento,DT19447,5090.55,Analista de BI Júnior,47,45-54,Masculino,30/09/2011,Inativo,Business Intelligence,FL01
+Fernando Machado,DT85156,17737.09,Gerente de BI,43,35-44,Masculino,20/06/2010,Inativo,Business Intelligence,FL01
+Bruno Freitas,DT57428,23989.15,Arquiteto de Dados,33,25-34,Masculino,10/10/2019,Ativo,Engenharia de Dados,FL01
+Daniel Ferreira,DT61873,16718.65,Engenheiro de ML Sênior,28,25-34,Masculino,18/09/2011,Ativo,Machine Learning,FL02
+Rafael Araújo,DT76840,16431.05,Cientista de Dados Sênior,59,55+,Masculino,24/04/2013,Ativo,Ciência de Dados,FL01
+Felipe Sousa,DT35856,12920.97,Cientista de Dados Pleno,59,55+,Masculino,10/09/2011,Ativo,Ciência de Dados,FL03
+Sabrina Ramos,DT70811,21449.07,Diretor Comercial,54,45-54,Feminino,03/06/2024,Ativo,Vendas e Parcerias,FL07
+Natália Rocha,DT92210,12478.93,Engenheiro de ML Pleno,48,45-54,Feminino,02/12/2019,Ativo,Machine Learning,FL05
+Vitória Fernandes,DT87518,15783.02,Engenheiro de Dados Sênior,37,35-44,Feminino,10/05/2020,Ativo,Engenharia de Dados,FL07
+Gabriel Andrade,DT47627,7345.03,Engenheiro de Dados Júnior,50,45-54,Masculino,16/08/2018,Ativo,Engenharia de Dados,FL01
+Lívia Oliveira,DT68947,10946.87,Product Manager Pleno,48,45-54,Feminino,31/03/2021,Ativo,Produto,FL08
+Fernanda Mendes,DT23566,8513.65,Engenheiro de ML Júnior,29,25-34,Feminino,17/11/2010,Ativo,Machine Learning,FL06
+Carlos Mendes,DT78690,9955.59,Engenheiro Cloud Pleno,36,35-44,Masculino,09/09/2018,Ativo,Infraestrutura e Cloud,FL03
+Gustavo Souza,DT92691,9730.69,Analista de RH Sênior,24,18-24,Masculino,07/07/2022,Ativo,Recursos Humanos,FL01
+Gabriela Sousa,DT96057,11000.13,Product Manager Pleno,55,55+,Feminino,19/11/2024,Ativo,Produto,FL06
+Leonardo Barbosa,DT95990,16773.71,Gerente Financeiro,23,18-24,Masculino,11/12/2016,Ativo,Financeiro,FL01
+Bruna Dias,DT26750,5615.06,Analista Financeiro Júnior,45,45-54,Feminino,28/05/2021,Ativo,Financeiro,FL05
+Vanessa Barbosa,DT33627,15764.51,Analista de Dados Sênior,49,45-54,Feminino,22/04/2014,Ativo,Análise de Dados,FL08
+Felipe Gomes,DT20114,5769.22,Analista de Dados Júnior,52,45-54,Masculino,23/10/2021,Ativo,Análise de Dados,FL01
+Gustavo Lima,DT88282,11230.11,Engenheiro de ML Pleno,62,55+,Masculino,05/01/2024,Ativo,Machine Learning,FL03
+Bruno Mendes,DT15726,14043.63,Analista de BI Sênior,33,25-34,Masculino,18/12/2019,Ativo,Business Intelligence,FL01
+Sabrina Mendes,DT40671,9737.87,Engenheiro Cloud Pleno,48,45-54,Feminino,09/05/2014,Ativo,Infraestrutura e Cloud,FL04
+Fernando Mendes,DT70513,14001.56,Gerente de Contas,50,45-54,Masculino,30/10/2021,Ativo,Vendas e Parcerias,FL01
+Bruno Martins,DT89254,14786.99,Cientista de Dados Sênior,48,45-54,Masculino,29/04/2018,Ativo,Ciência de Dados,FL02
+Rafael Araújo,DT26341,6407.79,Analista de Dados Júnior,35,35-44,Masculino,29/01/2020,Inativo,Análise de Dados,FL03
+Felipe Machado,DT22021,22307.78,Gerente de Análise de Dados,19,18-24,Masculino,22/04/2019,Ativo,Análise de Dados,FL01
+Priscila Andrade,DT40903,8124.74,Engenheiro de ML Júnior,19,18-24,Feminino,23/02/2017,Inativo,Machine Learning,FL08
+Caio Dias,DT29142,6860.64,Cientista de Dados Júnior,48,45-54,Masculino,10/02/2013,Ativo,Ciência de Dados,FL02
+Carla Mendes,DT90654,5557.01,Engenheiro de Dados Júnior,31,25-34,Feminino,09/05/2013,Ativo,Engenharia de Dados,FL03
+Renato Araújo,DT65476,15807.02,Cientista de Dados Sênior,25,25-34,Masculino,27/01/2011,Ativo,Ciência de Dados,FL01
+Bruna Freitas,DT18232,24378.8,Lead de Ciência de Dados,19,18-24,Feminino,04/03/2024,Ativo,Ciência de Dados,FL06
+Amanda Gomes,DT48177,5537.02,Analista de BI Júnior,33,25-34,Feminino,19/10/2022,Ativo,Business Intelligence,FL04
+Vitor Ferreira,DT78614,9860.21,Engenheiro de ML Júnior,52,45-54,Masculino,19/05/2021,Ativo,Machine Learning,FL01
+Priscila Santos,DT61177,6907.01,Engenheiro Cloud Júnior,41,35-44,Feminino,09/09/2015,Ativo,Infraestrutura e Cloud,FL08
+Vanessa Rodrigues,DT55193,6428.75,Analista de Dados Júnior,39,35-44,Feminino,28/12/2012,Ativo,Análise de Dados,FL08
+Lívia Dias,DT94252,26875.32,Lead de Ciência de Dados,48,45-54,Feminino,03/03/2024,Ativo,Ciência de Dados,FL03
+Mariana Rodrigues,DT69988,14407.16,Engenheiro de Dados Sênior,30,25-34,Feminino,10/12/2010,Ativo,Engenharia de Dados,FL09
+Gabriela Gonçalves,DT62196,20773.2,Arquiteto Cloud,59,55+,Feminino,15/04/2014,Ativo,Infraestrutura e Cloud,FL08
+Monique Souza,DT95948,16184.61,Engenheiro de ML Sênior,41,35-44,Feminino,20/10/2019,Inativo,Machine Learning,FL05
+Renato Mendes,DT60678,12732.91,Engenheiro de ML Pleno,49,45-54,Masculino,29/03/2018,Inativo,Machine Learning,FL01
+Daniel Fernandes,DT20828,16631.42,Diretor Comercial,56,55+,Masculino,18/01/2014,Ativo,Vendas e Parcerias,FL03
+Tatiana Alves,DT20494,17185.73,Engenheiro de ML Sênior,56,55+,Feminino,23/07/2019,Ativo,Machine Learning,FL06
+Carlos Nascimento,DT68606,16266.83,Engenheiro de Dados Sênior,45,45-54,Masculino,28/02/2016,Ativo,Engenharia de Dados,FL01
+Fábio Souza,DT19835,18179.87,Gerente Financeiro,61,55+,Masculino,03/08/2013,Inativo,Financeiro,FL02
+Felipe Mendes,DT14561,6707.99,Cientista de Dados Júnior,59,55+,Masculino,20/03/2018,Ativo,Ciência de Dados,FL01
+Fernando Oliveira,DT89310,26667.35,Lead de Ciência de Dados,41,35-44,Masculino,16/12/2019,Ativo,Ciência de Dados,FL02
+Isabela Lima,DT79397,24515.08,Especialista em IA,35,35-44,Feminino,07/08/2015,Inativo,Machine Learning,FL06
+Lucas Ribeiro,DT75410,25394.8,Arquiteto Cloud,25,25-34,Masculino,15/11/2015,Ativo,Infraestrutura e Cloud,FL02
+Cláudia Mendes,DT38124,11928.93,Analista de RH Sênior,49,45-54,Feminino,28/06/2014,Ativo,Recursos Humanos,FL03
+Julio Rodrigues,DT69250,26982.21,Lead de Ciência de Dados,61,55+,Masculino,03/03/2017,Ativo,Ciência de Dados,FL01
+Ricardo Rodrigues,DT82089,17456.66,Engenheiro Cloud Sênior,28,25-34,Masculino,21/04/2024,Ativo,Infraestrutura e Cloud,FL01
+Leonardo Gonçalves,DT39391,13064.3,Cientista de Dados Pleno,33,25-34,Masculino,30/01/2021,Ativo,Ciência de Dados,FL03
+Alexandre Andrade,DT71263,12253.77,Product Manager Pleno,23,18-24,Masculino,23/06/2011,Ativo,Produto,FL02
+Cláudia Cardoso,DT78903,20940.04,Gerente de BI,22,18-24,Feminino,23/10/2012,Inativo,Business Intelligence,FL04
+Paulo Rodrigues,DT68979,11577.51,Analista de BI Sênior,53,45-54,Masculino,08/05/2024,Ativo,Business Intelligence,FL01
+Sabrina Lima,DT66704,7494.17,Engenheiro Cloud Júnior,51,45-54,Feminino,07/06/2013,Ativo,Infraestrutura e Cloud,FL03
+Bruno Rocha,DT39552,20152.64,Engenheiro de ML Sênior,34,25-34,Masculino,28/05/2014,Ativo,Machine Learning,FL02
+Lívia Fernandes,DT26406,11650.5,Analista de RH Sênior,23,18-24,Feminino,10/04/2021,Ativo,Recursos Humanos,FL06
+Isabela Gomes,DT32439,12448.86,Analista de RH Sênior,54,45-54,Feminino,04/12/2010,Inativo,Recursos Humanos,FL04
+Ana Ferreira,DT15958,11778.95,Analista de RH Sênior,54,45-54,Feminino,06/05/2019,Ativo,Recursos Humanos,FL09
+Lucas Ramos,DT92203,16209.54,Engenheiro Cloud Sênior,37,35-44,Masculino,31/10/2020,Ativo,Infraestrutura e Cloud,FL03
+Vitória Nunes,DT48985,5721.53,Analista de BI Júnior,28,25-34,Feminino,11/11/2019,Ativo,Business Intelligence,FL07
+Renata Carvalho,DT54589,10906.62,Product Manager Pleno,38,35-44,Feminino,30/09/2017,Inativo,Produto,FL06
+Mariana Andrade,DT77499,6957.35,Product Manager Júnior,47,45-54,Feminino,30/09/2012,Ativo,Produto,FL07
+Thiago Gomes,DT22689,17754.23,Engenheiro de Dados Sênior,57,55+,Masculino,19/05/2019,Ativo,Engenharia de Dados,FL02
+Monique Costa,DT52917,15544.09,Product Manager Sênior,28,25-34,Feminino,05/03/2021,Inativo,Produto,FL03
+Renata Ramos,DT50441,5270.15,Engenheiro Cloud Júnior,43,35-44,Feminino,03/05/2021,Ativo,Infraestrutura e Cloud,FL05
+Thiago Carvalho,DT86460,7151.62,Engenheiro de ML Júnior,49,45-54,Masculino,27/05/2023,Inativo,Machine Learning,FL01
+Paulo Cardoso,DT47453,7541.52,Engenheiro Cloud Júnior,45,45-54,Masculino,02/01/2013,Inativo,Infraestrutura e Cloud,FL01
+Renato Andrade,DT62855,8201.74,Engenheiro de ML Júnior,54,45-54,Masculino,08/08/2022,Ativo,Machine Learning,FL02
+Lívia Vieira,DT19637,28115.23,Especialista em IA,35,35-44,Feminino,24/12/2023,Ativo,Machine Learning,FL06
+Camila Lima,DT22672,14577.04,Analista de BI Sênior,39,35-44,Feminino,06/07/2022,Inativo,Business Intelligence,FL08
+Sabrina Gomes,DT36090,24500.55,Head de Produto,20,18-24,Feminino,15/11/2010,Ativo,Produto,FL08
+Tatiana Cardoso,DT78069,9121.91,Analista de BI Pleno,50,45-54,Feminino,19/02/2013,Ativo,Business Intelligence,FL08
+Marcelo Rocha,DT31299,13671.76,Analista de BI Sênior,50,45-54,Masculino,07/06/2021,Ativo,Business Intelligence,FL02
+Cláudia Barbosa,DT72245,14990.58,Engenheiro de Dados Sênior,25,25-34,Feminino,06/05/2019,Ativo,Engenharia de Dados,FL05
+Fábio Santos,DT88238,17835.35,Engenheiro Cloud Sênior,55,55+,Masculino,15/12/2022,Ativo,Infraestrutura e Cloud,FL02
+Gabriel Cardoso,DT32349,20034.43,Arquiteto Cloud,61,55+,Masculino,08/06/2015,Ativo,Infraestrutura e Cloud,FL02
+Ricardo Pereira,DT35006,20539.0,Arquiteto de Dados,27,25-34,Masculino,06/04/2019,Ativo,Engenharia de Dados,FL02
+Eduardo Gonçalves,DT90147,7117.33,Engenheiro Cloud Júnior,51,45-54,Masculino,26/08/2014,Ativo,Infraestrutura e Cloud,FL02
+Daniela Cardoso,DT78875,20761.77,Engenheiro de ML Sênior,47,45-54,Feminino,16/12/2021,Ativo,Machine Learning,FL04
+Vanessa Sousa,DT89963,12329.35,Engenheiro Cloud Pleno,35,35-44,Feminino,08/07/2022,Ativo,Infraestrutura e Cloud,FL05
+Gabriela Vieira,DT37168,17902.24,Gerente Financeiro,40,35-44,Feminino,28/07/2022,Inativo,Financeiro,FL08
+Fábio Fernandes,DT47721,26322.44,Lead de Ciência de Dados,43,35-44,Masculino,28/09/2017,Inativo,Ciência de Dados,FL02
+Fábio Gomes,DT48070,17798.91,Engenheiro de Dados Sênior,23,18-24,Masculino,08/10/2017,Inativo,Engenharia de Dados,FL03
+Bruna Sousa,DT72793,10397.83,Analista de Dados Pleno,35,35-44,Feminino,10/08/2022,Ativo,Análise de Dados,FL04
+Felipe Alves,DT90698,7348.6,Analista Comercial Pleno,60,55+,Masculino,29/11/2021,Ativo,Vendas e Parcerias,FL02
+Thiago Souza,DT23133,14228.11,Analista de BI Sênior,24,18-24,Masculino,31/01/2013,Ativo,Business Intelligence,FL01
+Alexandre Costa,DT63334,16387.24,Gerente de RH,30,25-34,Masculino,11/06/2016,Ativo,Recursos Humanos,FL01
+Bruna Souza,DT21725,7605.46,Analista de RH Pleno,20,18-24,Feminino,05/12/2013,Ativo,Recursos Humanos,FL04
+Luana Ribeiro,DT14763,17117.87,Gerente de BI,36,35-44,Feminino,03/11/2010,Ativo,Business Intelligence,FL05
+Isabela Alves,DT53914,22934.6,Gerente de Análise de Dados,52,45-54,Feminino,05/10/2021,Ativo,Análise de Dados,FL03
+Felipe Gonçalves,DT71344,10330.85,Analista de Dados Pleno,39,35-44,Masculino,24/08/2013,Ativo,Análise de Dados,FL01
+Bruna Sousa,DT34405,17058.45,Engenheiro de Dados Sênior,54,45-54,Feminino,15/02/2025,Ativo,Engenharia de Dados,FL04
+Bruno Nunes,DT66059,13433.69,Engenheiro Cloud Sênior,60,55+,Masculino,21/02/2012,Ativo,Infraestrutura e Cloud,FL02
+Mariana Cardoso,DT52415,5151.96,Analista de Dados Júnior,33,25-34,Feminino,08/01/2020,Ativo,Análise de Dados,FL09
+Tatiana Barbosa,DT86344,4653.88,Analista Financeiro Júnior,41,35-44,Feminino,20/04/2015,Ativo,Financeiro,FL04
+Rafael Freitas,DT50213,24959.48,Lead de Ciência de Dados,37,35-44,Masculino,19/08/2012,Ativo,Ciência de Dados,FL02
+Gabriela Andrade,DT90560,10850.76,Analista de Dados Pleno,48,45-54,Feminino,08/06/2013,Ativo,Análise de Dados,FL06
+Marcelo Andrade,DT64505,20544.1,Gerente Financeiro,60,55+,Masculino,25/11/2014,Ativo,Financeiro,FL02
+Vitor Ferreira,DT78879,11351.46,Analista de BI Sênior,54,45-54,Masculino,08/07/2012,Ativo,Business Intelligence,FL01
+Lívia Gonçalves,DT36497,10240.42,Product Manager Pleno,51,45-54,Feminino,29/11/2019,Ativo,Produto,FL08
+Diego Ramos,DT21919,24660.84,Arquiteto Cloud,47,45-54,Masculino,16/12/2012,Ativo,Infraestrutura e Cloud,FL02
+Carlos Souza,DT83242,14254.76,Analista de BI Sênior,43,35-44,Masculino,16/09/2015,Ativo,Business Intelligence,FL02
+Renato Carvalho,DT85800,6771.09,Engenheiro de Dados Júnior,62,55+,Masculino,07/06/2011,Ativo,Engenharia de Dados,FL01
+Fernanda Rodrigues,DT71875,15339.9,Engenheiro de Dados Sênior,26,25-34,Feminino,22/05/2024,Inativo,Engenharia de Dados,FL04
+Bruna Marques,DT59081,28956.96,Especialista em IA,42,35-44,Feminino,05/06/2018,Ativo,Machine Learning,FL05
+Daniela Monteiro,DT27431,9915.22,Analista de RH Sênior,52,45-54,Feminino,25/10/2018,Ativo,Recursos Humanos,FL04
+Renato Almeida,DT10455,5952.68,Analista Comercial Júnior,47,45-54,Masculino,08/02/2025,Ativo,Vendas e Parcerias,FL01
+Aline Monteiro,DT59712,9112.19,Analista de Dados Pleno,27,25-34,Feminino,08/03/2016,Ativo,Análise de Dados,FL04
+Roberta Pereira,DT14222,17074.62,Gerente de RH,19,18-24,Feminino,26/05/2015,Ativo,Recursos Humanos,FL10
+Rafael Oliveira,DT68515,6734.2,Product Manager Júnior,20,18-24,Masculino,09/01/2019,Ativo,Produto,FL02
+Alexandre Carvalho,DT17398,15787.89,Cientista de Dados Sênior,54,45-54,Masculino,25/02/2017,Ativo,Ciência de Dados,FL02
+Leandro Rocha,DT41051,10949.93,Analista de Dados Pleno,51,45-54,Masculino,16/12/2014,Ativo,Análise de Dados,FL01
+Rodrigo Souza,DT82970,12316.97,Product Manager Pleno,45,45-54,Masculino,20/06/2022,Ativo,Produto,FL01
+Leonardo Moreira,DT78742,25266.07,Especialista em IA,37,35-44,Masculino,11/06/2018,Ativo,Machine Learning,FL02
+Alexandre Cardoso,DT41584,15358.94,Analista de Dados Sênior,27,25-34,Masculino,21/05/2020,Inativo,Análise de Dados,FL02
+Lívia Marques,DT64592,11247.89,Product Manager Pleno,34,25-34,Feminino,24/07/2014,Ativo,Produto,FL10
+Juliana Mendes,DT58637,9206.15,Engenheiro de Dados Pleno,42,35-44,Feminino,09/02/2025,Ativo,Engenharia de Dados,FL07
+Fernanda Rodrigues,DT34662,8177.88,Analista Comercial Pleno,39,35-44,Feminino,19/10/2016,Inativo,Vendas e Parcerias,FL07
+Lucas Carvalho,DT34906,5443.13,Analista Comercial Júnior,48,45-54,Masculino,11/06/2015,Ativo,Vendas e Parcerias,FL02
+Ricardo Carvalho,DT61987,14989.81,Analista de Dados Sênior,42,35-44,Masculino,16/06/2020,Ativo,Análise de Dados,FL01
+Leonardo Barbosa,DT44283,25728.03,Especialista em IA,48,45-54,Masculino,08/03/2017,Inativo,Machine Learning,FL01
+Leonardo Rocha,DT64254,11965.01,Engenheiro de Dados Pleno,19,18-24,Masculino,07/11/2015,Ativo,Engenharia de Dados,FL02
+Fernando Marques,DT48691,10984.39,Cientista de Dados Pleno,42,35-44,Masculino,12/10/2022,Inativo,Ciência de Dados,FL02
+Pedro Dias,DT43728,23732.07,Diretor Comercial,59,55+,Masculino,01/01/2021,Ativo,Vendas e Parcerias,FL02
+Elisa Nascimento,DT32185,21696.31,Lead de Ciência de Dados,52,45-54,Feminino,24/05/2024,Ativo,Ciência de Dados,FL04
+Priscila Oliveira,DT19742,5910.85,Analista Financeiro Júnior,44,35-44,Feminino,31/01/2013,Inativo,Financeiro,FL04
+Thiago Rodrigues,DT29795,11022.93,Engenheiro de Dados Pleno,41,35-44,Masculino,11/05/2011,Ativo,Engenharia de Dados,FL01
+Vitor Cardoso,DT96413,5019.84,Engenheiro Cloud Júnior,53,45-54,Masculino,24/03/2019,Ativo,Infraestrutura e Cloud,FL01
+Daniel Fernandes,DT80220,5755.54,Analista de Dados Júnior,62,55+,Masculino,12/02/2025,Ativo,Análise de Dados,FL02
+Cristina Ribeiro,DT24026,9963.88,Engenheiro de Dados Pleno,57,55+,Feminino,22/10/2021,Ativo,Engenharia de Dados,FL07
+Leonardo Fernandes,DT62022,17816.84,Engenheiro de Dados Sênior,47,45-54,Masculino,03/09/2022,Ativo,Engenharia de Dados,FL01
+Ricardo Almeida,DT49318,5634.34,Analista Financeiro Júnior,59,55+,Masculino,17/09/2010,Ativo,Financeiro,FL01
+Henrique Moreira,DT82443,6910.24,Engenheiro Cloud Júnior,62,55+,Masculino,04/11/2013,Ativo,Infraestrutura e Cloud,FL02
+Monique Machado,DT94529,9684.37,Engenheiro de ML Júnior,20,18-24,Feminino,26/02/2015,Ativo,Machine Learning,FL09
+Julio Cardoso,DT45532,7553.29,Engenheiro de Dados Júnior,35,35-44,Masculino,07/03/2022,Ativo,Engenharia de Dados,FL01
+Fernanda Ribeiro,DT51220,11348.14,Engenheiro de Dados Pleno,43,35-44,Feminino,23/09/2011,Ativo,Engenharia de Dados,FL09
+Fernando Lopes,DT84277,17611.15,Engenheiro de ML Sênior,26,25-34,Masculino,05/10/2011,Ativo,Machine Learning,FL01
+Vanessa Souza,DT22803,9935.36,Analista de BI Pleno,39,35-44,Feminino,29/07/2023,Ativo,Business Intelligence,FL05
+Marcelo Nunes,DT52778,17025.97,Engenheiro de Dados Sênior,46,45-54,Masculino,02/01/2021,Ativo,Engenharia de Dados,FL02
+Lívia Moreira,DT66603,21057.01,Lead de Ciência de Dados,57,55+,Feminino,16/08/2016,Ativo,Ciência de Dados,FL10
+Ricardo Rodrigues,DT20752,8830.0,Analista de Dados Pleno,58,55+,Masculino,17/06/2013,Ativo,Análise de Dados,FL03
+Tatiana Andrade,DT23965,8328.88,Engenheiro de Dados Júnior,46,45-54,Feminino,27/01/2018,Ativo,Engenharia de Dados,FL05
+Rafael Lima,DT21442,23417.48,Lead de Ciência de Dados,53,45-54,Masculino,29/06/2021,Ativo,Ciência de Dados,FL01
+Ana Ferreira,DT56388,7790.77,Product Manager Júnior,38,35-44,Feminino,22/08/2018,Ativo,Produto,FL04
+Aline Moreira,DT21101,9001.86,Analista Financeiro Pleno,28,25-34,Feminino,16/07/2018,Ativo,Financeiro,FL06
+Letícia Barbosa,DT45180,8753.07,Engenheiro Cloud Pleno,45,45-54,Feminino,10/03/2016,Ativo,Infraestrutura e Cloud,FL03
+Pedro Rodrigues,DT57333,10023.15,Analista de Dados Pleno,49,45-54,Masculino,27/04/2023,Ativo,Análise de Dados,FL03
+Renata Alves,DT27758,6872.06,Analista de Dados Júnior,39,35-44,Feminino,29/11/2023,Ativo,Análise de Dados,FL06
+Julio Dias,DT67700,28523.8,Especialista em IA,59,55+,Masculino,02/05/2023,Ativo,Machine Learning,FL02
+Gustavo Martins,DT72784,14840.59,Engenheiro de ML Pleno,38,35-44,Masculino,15/07/2016,Ativo,Machine Learning,FL01
+Paulo Ramos,DT85481,13192.25,Analista de Dados Sênior,43,35-44,Masculino,10/03/2018,Ativo,Análise de Dados,FL02
+Fernando Martins,DT87624,11226.85,Engenheiro Cloud Pleno,53,45-54,Masculino,09/08/2010,Inativo,Infraestrutura e Cloud,FL01
+Carlos Carvalho,DT67469,6547.41,Analista de Dados Júnior,44,35-44,Masculino,04/02/2025,Ativo,Análise de Dados,FL01
+Bruna Barbosa,DT41722,10003.33,Analista de Dados Pleno,42,35-44,Feminino,29/08/2011,Ativo,Análise de Dados,FL08
+Marcelo Cardoso,DT86315,19261.87,Gerente de BI,41,35-44,Masculino,16/01/2022,Ativo,Business Intelligence,FL01
+Cristina Ferreira,DT24335,8801.61,Analista Comercial Pleno,40,35-44,Feminino,24/09/2013,Ativo,Vendas e Parcerias,FL03
+Gabriel Nunes,DT53463,4026.37,Analista de BI Júnior,34,25-34,Masculino,24/12/2014,Ativo,Business Intelligence,FL01
+Priscila Almeida,DT68429,25704.51,Especialista em IA,61,55+,Feminino,15/03/2023,Ativo,Machine Learning,FL07
+Mariana Nascimento,DT13219,5886.3,Engenheiro Cloud Júnior,23,18-24,Feminino,08/08/2012,Inativo,Infraestrutura e Cloud,FL03
+Renato Gomes,DT55656,18004.33,Engenheiro de ML Sênior,31,25-34,Masculino,08/09/2021,Ativo,Machine Learning,FL01
+Carla Alves,DT67431,17913.46,Gerente Financeiro,37,35-44,Feminino,02/01/2011,Ativo,Financeiro,FL08
+Camila Santos,DT54967,4854.28,Analista de RH Júnior,28,25-34,Feminino,22/06/2015,Ativo,Recursos Humanos,FL04
+Alexandre Costa,DT53383,27709.24,Head de Produto,32,25-34,Masculino,01/02/2019,Ativo,Produto,FL02
+Beatriz Machado,DT61849,10798.3,Engenheiro de Dados Pleno,45,45-54,Feminino,21/09/2018,Ativo,Engenharia de Dados,FL05
+Diego Carvalho,DT46483,5070.17,Analista Comercial Júnior,52,45-54,Masculino,12/03/2014,Ativo,Vendas e Parcerias,FL01
+Larissa Freitas,DT24936,20166.29,Gerente de Análise de Dados,58,55+,Feminino,11/01/2017,Ativo,Análise de Dados,FL05
+Natália Nunes,DT86939,16435.92,Cientista de Dados Sênior,47,45-54,Feminino,06/11/2023,Ativo,Ciência de Dados,FL04
+Daniela Barbosa,DT90541,8016.33,Product Manager Júnior,38,35-44,Feminino,23/08/2012,Ativo,Produto,FL03
+Rafael Ribeiro,DT58929,8787.89,Analista Financeiro Pleno,44,35-44,Masculino,18/05/2023,Ativo,Financeiro,FL01
+Patrícia Machado,DT34347,10719.65,Engenheiro Cloud Pleno,49,45-54,Feminino,24/06/2016,Ativo,Infraestrutura e Cloud,FL05
+Tatiana Mendes,DT91187,17783.29,Engenheiro de Dados Sênior,49,45-54,Feminino,23/01/2013,Ativo,Engenharia de Dados,FL08
+Henrique Gonçalves,DT95599,23792.88,Arquiteto Cloud,44,35-44,Masculino,16/12/2019,Ativo,Infraestrutura e Cloud,FL03
+Juliana Santos,DT38905,5187.13,Analista de Dados Júnior,52,45-54,Feminino,22/06/2016,Ativo,Análise de Dados,FL03
+Carlos Ramos,DT82053,6718.14,Engenheiro Cloud Júnior,35,35-44,Masculino,08/03/2022,Inativo,Infraestrutura e Cloud,FL01
+Leonardo Monteiro,DT15453,20370.83,Diretor Comercial,45,45-54,Masculino,18/04/2012,Ativo,Vendas e Parcerias,FL01
+Paulo Lopes,DT49021,20208.3,Arquiteto de Dados,23,18-24,Masculino,06/11/2019,Inativo,Engenharia de Dados,FL01
+Rafael Lopes,DT37509,14374.72,Gerente de Contas,57,55+,Masculino,11/03/2024,Ativo,Vendas e Parcerias,FL02
+Marcelo Lima,DT37082,7710.22,Cientista de Dados Júnior,52,45-54,Masculino,21/04/2016,Ativo,Ciência de Dados,FL01
+Bruno Rocha,DT48356,15785.79,Analista de Dados Sênior,50,45-54,Masculino,27/03/2025,Ativo,Análise de Dados,FL01
+Felipe Marques,DT17770,9954.99,Analista de Dados Pleno,26,25-34,Masculino,08/08/2015,Ativo,Análise de Dados,FL01
+Gustavo Lopes,DT98635,16853.03,Gerente de BI,58,55+,Masculino,11/01/2016,Ativo,Business Intelligence,FL02
+Henrique Mendes,DT19898,4305.7,Analista de RH Júnior,35,35-44,Masculino,12/04/2018,Ativo,Recursos Humanos,FL02
+Pedro Rocha,DT86278,7692.8,Engenheiro de Dados Júnior,47,45-54,Masculino,28/03/2024,Ativo,Engenharia de Dados,FL02
+Leonardo Rodrigues,DT80048,10388.45,Analista de BI Pleno,31,25-34,Masculino,04/02/2021,Ativo,Business Intelligence,FL01
+Luana Vieira,DT54270,12047.64,Product Manager Pleno,49,45-54,Feminino,16/09/2017,Inativo,Produto,FL04
+Leandro Souza,DT16021,18605.83,Arquiteto de Dados,28,25-34,Masculino,25/11/2019,Ativo,Engenharia de Dados,FL01
+Aline Martins,DT27290,10056.42,Analista de RH Sênior,35,35-44,Feminino,04/02/2012,Ativo,Recursos Humanos,FL04
+Letícia Ferreira,DT58738,7181.26,Analista Financeiro Pleno,58,55+,Feminino,07/11/2016,Ativo,Financeiro,FL06
+Leandro Almeida,DT66260,4907.4,Analista de RH Júnior,18,18-24,Masculino,15/10/2014,Ativo,Recursos Humanos,FL01
+Mariana Almeida,DT78084,16055.72,Gerente Financeiro,62,55+,Feminino,15/09/2017,Ativo,Financeiro,FL06
+Monique Machado,DT27324,5686.84,Engenheiro Cloud Júnior,23,18-24,Feminino,19/04/2012,Ativo,Infraestrutura e Cloud,FL04
+Vanessa Barbosa,DT27973,13387.09,Engenheiro de ML Pleno,61,55+,Feminino,16/03/2013,Ativo,Machine Learning,FL06
+Fernando Silva,DT89995,7320.3,Analista de RH Pleno,31,25-34,Masculino,02/02/2024,Ativo,Recursos Humanos,FL02
+Marcos Marques,DT90750,21159.78,Gerente Financeiro,23,18-24,Masculino,03/04/2012,Ativo,Financeiro,FL02
+Camila Moreira,DT56076,14559.84,Analista de BI Sênior,33,25-34,Feminino,18/03/2016,Ativo,Business Intelligence,FL06
+Thiago Vieira,DT13515,10219.06,Analista de RH Sênior,56,55+,Masculino,06/06/2021,Ativo,Recursos Humanos,FL01
+Patrícia Vieira,DT94694,10979.55,Engenheiro de Dados Pleno,25,25-34,Feminino,29/05/2015,Ativo,Engenharia de Dados,FL04
+Natália Rodrigues,DT79243,17702.66,Engenheiro de Dados Sênior,26,25-34,Feminino,04/09/2018,Inativo,Engenharia de Dados,FL09
+Isabela Marques,DT57895,11550.9,Engenheiro Cloud Pleno,22,18-24,Feminino,17/05/2010,Ativo,Infraestrutura e Cloud,FL03
+Lucas Sousa,DT38277,8346.04,Engenheiro de Dados Júnior,43,35-44,Masculino,13/05/2021,Ativo,Engenharia de Dados,FL01
+Ricardo Gonçalves,DT64451,16494.57,Gerente de BI,52,45-54,Masculino,22/01/2022,Ativo,Business Intelligence,FL01
+Rodrigo Ferreira,DT50620,12897.25,Engenheiro de Dados Pleno,27,25-34,Masculino,12/01/2022,Ativo,Engenharia de Dados,FL01
+Fernando Rodrigues,DT50654,20379.75,Gerente Financeiro,33,25-34,Masculino,20/04/2011,Ativo,Financeiro,FL02
+Marcos Machado,DT25202,4773.23,Analista de BI Júnior,60,55+,Masculino,09/12/2013,Ativo,Business Intelligence,FL01
+Ricardo Lima,DT11487,26694.61,Lead de Ciência de Dados,51,45-54,Masculino,08/08/2021,Ativo,Ciência de Dados,FL01
+Renato Sousa,DT31884,13873.99,Engenheiro de ML Pleno,35,35-44,Masculino,25/08/2012,Ativo,Machine Learning,FL03
+Lucas Dias,DT66272,5157.37,Analista de Dados Júnior,54,45-54,Masculino,28/01/2024,Ativo,Análise de Dados,FL01
+Carlos Gonçalves,DT57202,24085.84,Arquiteto de Dados,28,25-34,Masculino,01/04/2018,Ativo,Engenharia de Dados,FL01
+Leandro Alves,DT85223,4571.01,Analista Financeiro Júnior,50,45-54,Masculino,22/01/2010,Ativo,Financeiro,FL02
+Julio Silva,DT42053,20865.85,Arquiteto de Dados,27,25-34,Masculino,06/01/2014,Inativo,Engenharia de Dados,FL02
+Monique Oliveira,DT82465,17347.09,Gerente Financeiro,33,25-34,Feminino,03/05/2019,Inativo,Financeiro,FL04
+Gustavo Fernandes,DT20208,15156.71,Product Manager Sênior,61,55+,Masculino,08/03/2011,Ativo,Produto,FL02
+Fábio Araújo,DT16019,6192.48,Analista de BI Júnior,36,35-44,Masculino,20/12/2016,Ativo,Business Intelligence,FL02
+Alexandre Freitas,DT11044,11812.18,Engenheiro de ML Pleno,37,35-44,Masculino,20/12/2023,Ativo,Machine Learning,FL01
+Vanessa Ramos,DT35614,7026.98,Analista Comercial Pleno,44,35-44,Feminino,15/07/2010,Ativo,Vendas e Parcerias,FL06
+Leonardo Silva,DT53911,24018.54,Arquiteto de Dados,37,35-44,Masculino,01/05/2012,Ativo,Engenharia de Dados,FL01
+Thiago Marques,DT74491,11846.61,Engenheiro de Dados Pleno,23,18-24,Masculino,26/12/2010,Inativo,Engenharia de Dados,FL02
+Roberta Araújo,DT64140,12833.83,Analista Financeiro Sênior,23,18-24,Feminino,10/01/2023,Ativo,Financeiro,FL08
+Mariana Nunes,DT19808,7304.95,Product Manager Júnior,26,25-34,Feminino,24/04/2015,Ativo,Produto,FL05
+Julio Rocha,DT61505,12272.23,Analista Financeiro Sênior,35,35-44,Masculino,29/03/2015,Ativo,Financeiro,FL03
+Diego Lima,DT86638,9422.63,Engenheiro de Dados Pleno,46,45-54,Masculino,14/06/2020,Ativo,Engenharia de Dados,FL01
+Rafael Monteiro,DT56961,8081.71,Analista Comercial Pleno,47,45-54,Masculino,11/12/2015,Inativo,Vendas e Parcerias,FL03
+Juliana Costa,DT99922,5037.55,Analista de Dados Júnior,38,35-44,Feminino,30/04/2013,Ativo,Análise de Dados,FL04
+Thiago Nascimento,DT61936,7031.55,Engenheiro Cloud Júnior,34,25-34,Masculino,25/11/2013,Ativo,Infraestrutura e Cloud,FL02
+Patrícia Mendes,DT82869,6831.54,Analista Comercial Pleno,24,18-24,Feminino,19/02/2013,Ativo,Vendas e Parcerias,FL06
+Gabriel Almeida,DT27133,22919.56,Lead de Ciência de Dados,58,55+,Masculino,17/06/2024,Ativo,Ciência de Dados,FL01
+Fernando Sousa,DT19828,6093.25,Engenheiro de Dados Júnior,59,55+,Masculino,12/12/2019,Ativo,Engenharia de Dados,FL01
+Matheus Dias,DT26059,18829.15,Arquiteto de Dados,54,45-54,Masculino,19/09/2019,Inativo,Engenharia de Dados,FL02
+Henrique Ramos,DT13864,23382.46,Especialista em IA,31,25-34,Masculino,14/03/2014,Ativo,Machine Learning,FL03
+Carlos Gomes,DT14541,7941.84,Analista de RH Pleno,49,45-54,Masculino,30/03/2019,Inativo,Recursos Humanos,FL01
+Carla Souza,DT21497,17823.42,Gerente de Análise de Dados,30,25-34,Feminino,31/05/2024,Ativo,Análise de Dados,FL03
+Daniel Lopes,DT92674,7968.21,Engenheiro Cloud Júnior,40,35-44,Masculino,04/10/2020,Ativo,Infraestrutura e Cloud,FL02
+Pedro Nascimento,DT84141,14941.91,Engenheiro Cloud Sênior,29,25-34,Masculino,02/08/2010,Ativo,Infraestrutura e Cloud,FL01
+Thiago Santos,DT46822,21941.31,Arquiteto de Dados,55,55+,Masculino,22/03/2015,Inativo,Engenharia de Dados,FL02
+Camila Lopes,DT96096,13901.6,Analista de Dados Sênior,21,18-24,Feminino,03/12/2014,Ativo,Análise de Dados,FL05
+Fábio Moreira,DT56504,10564.48,Cientista de Dados Pleno,38,35-44,Masculino,18/01/2018,Inativo,Ciência de Dados,FL02
+Ana Nascimento,DT84403,12033.99,Product Manager Pleno,30,25-34,Feminino,15/01/2021,Ativo,Produto,FL05
+Bruno Ramos,DT14975,6197.87,Engenheiro de Dados Júnior,32,25-34,Masculino,13/06/2010,Ativo,Engenharia de Dados,FL02
+Lucas Dias,DT90495,11033.42,Cientista de Dados Pleno,29,25-34,Masculino,04/04/2017,Ativo,Ciência de Dados,FL01
+Felipe Gomes,DT24538,17802.79,Engenheiro Cloud Sênior,41,35-44,Masculino,07/11/2024,Ativo,Infraestrutura e Cloud,FL03
+Camila Dias,DT49552,14891.37,Engenheiro de ML Pleno,45,45-54,Feminino,03/05/2024,Ativo,Machine Learning,FL03
+Paulo Rocha,DT32833,11892.95,Analista Financeiro Sênior,55,55+,Masculino,07/12/2013,Ativo,Financeiro,FL03
+Elisa Vieira,DT26691,8846.36,Cientista de Dados Júnior,54,45-54,Feminino,13/10/2018,Inativo,Ciência de Dados,FL05
+Leandro Oliveira,DT33865,19565.71,Product Manager Sênior,57,55+,Masculino,15/12/2014,Ativo,Produto,FL01
+Camila Ramos,DT28434,7713.99,Engenheiro de ML Júnior,38,35-44,Feminino,07/10/2013,Ativo,Machine Learning,FL07
+Juliana Dias,DT68540,14443.58,Engenheiro de Dados Sênior,62,55+,Feminino,10/07/2011,Ativo,Engenharia de Dados,FL04
+Vitória Alves,DT10167,21348.43,Arquiteto de Dados,44,35-44,Feminino,24/09/2013,Inativo,Engenharia de Dados,FL07
+Pedro Moreira,DT56036,19710.0,Arquiteto Cloud,48,45-54,Masculino,19/12/2022,Ativo,Infraestrutura e Cloud,FL01
+Vitor Almeida,DT31319,5997.99,Analista de BI Júnior,20,18-24,Masculino,12/08/2016,Ativo,Business Intelligence,FL02
+Rodrigo Alves,DT19725,14495.69,Engenheiro de ML Pleno,28,25-34,Masculino,07/09/2011,Ativo,Machine Learning,FL02
+Roberta Ferreira,DT54295,25931.53,Head de Produto,45,45-54,Feminino,29/08/2024,Ativo,Produto,FL08
+Roberta Machado,DT30591,6493.28,Engenheiro de Dados Júnior,30,25-34,Feminino,07/03/2019,Ativo,Engenharia de Dados,FL06
+Renato Monteiro,DT44768,10540.9,Analista de RH Sênior,24,18-24,Masculino,11/02/2011,Ativo,Recursos Humanos,FL01
+Lívia Ramos,DT30131,13517.17,Engenheiro de Dados Sênior,23,18-24,Feminino,09/08/2016,Inativo,Engenharia de Dados,FL04
+Paulo Cardoso,DT36171,6120.86,Engenheiro de Dados Júnior,58,55+,Masculino,18/07/2016,Inativo,Engenharia de Dados,FL02
+Carla Pereira,DT50416,18934.58,Gerente de BI,60,55+,Feminino,11/12/2015,Ativo,Business Intelligence,FL04
+Alexandre Moreira,DT34232,24955.21,Especialista em IA,46,45-54,Masculino,01/01/2011,Ativo,Machine Learning,FL02
+Renata Sousa,DT39654,4877.83,Analista de Dados Júnior,62,55+,Feminino,20/12/2024,Ativo,Análise de Dados,FL07
+Vitor Nascimento,DT80968,8937.61,Analista de BI Pleno,42,35-44,Masculino,20/09/2021,Ativo,Business Intelligence,FL02
+Alexandre Cardoso,DT85066,18793.11,Gerente de Análise de Dados,43,35-44,Masculino,12/10/2010,Ativo,Análise de Dados,FL01
+André Araújo,DT84905,7420.99,Analista Financeiro Pleno,46,45-54,Masculino,17/11/2013,Inativo,Financeiro,FL01
+Beatriz Carvalho,DT35260,7270.12,Cientista de Dados Júnior,61,55+,Feminino,07/10/2019,Ativo,Ciência de Dados,FL06
+Caio Gomes,DT87994,15598.62,Analista de Dados Sênior,22,18-24,Masculino,14/12/2011,Ativo,Análise de Dados,FL02
+Patrícia Rocha,DT46202,25420.13,Arquiteto Cloud,18,18-24,Feminino,23/12/2023,Ativo,Infraestrutura e Cloud,FL08
+Vitória Marques,DT24748,7518.7,Analista de BI Pleno,55,55+,Feminino,26/01/2023,Ativo,Business Intelligence,FL10
+Rafael Alves,DT83752,5528.64,Analista Comercial Júnior,52,45-54,Masculino,17/09/2017,Inativo,Vendas e Parcerias,FL02
+Letícia Moreira,DT95824,19262.26,Arquiteto Cloud,35,35-44,Feminino,15/01/2019,Ativo,Infraestrutura e Cloud,FL03
+Marcelo Nunes,DT15083,14107.31,Analista de BI Sênior,21,18-24,Masculino,28/08/2020,Inativo,Business Intelligence,FL01
+André Andrade,DT12651,17210.22,Engenheiro de ML Sênior,49,45-54,Masculino,15/03/2012,Inativo,Machine Learning,FL02
+Thiago Lima,DT49384,22192.25,Diretor Comercial,38,35-44,Masculino,17/01/2016,Ativo,Vendas e Parcerias,FL02
+Marcelo Ferreira,DT34633,10197.01,Analista de BI Pleno,44,35-44,Masculino,12/11/2020,Ativo,Business Intelligence,FL01
+Julio Andrade,DT17367,8762.47,Engenheiro Cloud Pleno,50,45-54,Masculino,18/01/2019,Ativo,Infraestrutura e Cloud,FL02
+Julio Araújo,DT84537,9771.05,Engenheiro de Dados Pleno,30,25-34,Masculino,18/04/2011,Ativo,Engenharia de Dados,FL01
+Renata Souza,DT57235,7958.92,Analista Financeiro Pleno,47,45-54,Feminino,30/04/2021,Ativo,Financeiro,FL04
+Cristina Pereira,DT99282,10489.87,Engenheiro de Dados Pleno,56,55+,Feminino,03/01/2020,Ativo,Engenharia de Dados,FL04
+Julio Cardoso,DT86923,16393.37,Product Manager Sênior,34,25-34,Masculino,11/01/2012,Ativo,Produto,FL02
+Henrique Souza,DT31352,13357.0,Product Manager Pleno,59,55+,Masculino,19/01/2015,Ativo,Produto,FL01
+Letícia Marques,DT77276,6922.29,Engenheiro de Dados Júnior,26,25-34,Feminino,09/07/2024,Ativo,Engenharia de Dados,FL04
+Vitória Silva,DT39329,14707.33,Analista de Dados Sênior,59,55+,Feminino,05/03/2016,Ativo,Análise de Dados,FL06
+Patrícia Nascimento,DT70161,9133.44,Analista de Dados Pleno,61,55+,Feminino,05/09/2021,Inativo,Análise de Dados,FL08
+Patrícia Alves,DT10963,15807.29,Engenheiro Cloud Sênior,56,55+,Feminino,30/08/2023,Ativo,Infraestrutura e Cloud,FL04
+Daniela Alves,DT73142,17947.62,Engenheiro de Dados Sênior,58,55+,Feminino,17/04/2017,Inativo,Engenharia de Dados,FL05
+Rodrigo Barbosa,DT34688,13548.59,Cientista de Dados Pleno,56,55+,Masculino,24/01/2019,Ativo,Ciência de Dados,FL01
+Vitor Lima,DT13336,18987.35,Gerente de RH,34,25-34,Masculino,22/05/2019,Ativo,Recursos Humanos,FL01
+Renato Oliveira,DT86418,8201.08,Analista Financeiro Pleno,32,25-34,Masculino,28/12/2021,Ativo,Financeiro,FL01
+Carla Nascimento,DT76494,10442.24,Analista de Dados Pleno,53,45-54,Feminino,23/01/2014,Ativo,Análise de Dados,FL06
+Carla Lima,DT43902,10314.23,Analista Financeiro Pleno,39,35-44,Feminino,05/09/2024,Ativo,Financeiro,FL07
+Leonardo Almeida,DT50250,12672.57,Analista de BI Sênior,55,55+,Masculino,05/08/2016,Ativo,Business Intelligence,FL01
+Camila Cardoso,DT17035,4444.44,Analista de RH Júnior,30,25-34,Feminino,23/03/2021,Ativo,Recursos Humanos,FL04
+Daniela Moreira,DT79446,17324.37,Gerente de Análise de Dados,27,25-34,Feminino,30/01/2013,Inativo,Análise de Dados,FL08
+Gustavo Marques,DT84632,8107.34,Analista de BI Pleno,29,25-34,Masculino,25/10/2011,Ativo,Business Intelligence,FL02
+Paulo Ribeiro,DT51079,3509.43,Analista de RH Júnior,35,35-44,Masculino,12/09/2014,Ativo,Recursos Humanos,FL02
+Bruno Costa,DT74169,4084.69,Analista Comercial Júnior,45,45-54,Masculino,17/03/2024,Ativo,Vendas e Parcerias,FL01
+Eduardo Cardoso,DT60242,7101.35,Engenheiro de Dados Júnior,41,35-44,Masculino,26/04/2010,Inativo,Engenharia de Dados,FL02
+Sabrina Araújo,DT34979,7380.06,Engenheiro de Dados Júnior,33,25-34,Feminino,28/01/2015,Ativo,Engenharia de Dados,FL06
+Vanessa Barbosa,DT26899,21771.69,Arquiteto de Dados,37,35-44,Feminino,30/09/2013,Ativo,Engenharia de Dados,FL08
+Gabriel Barbosa,DT48119,12951.49,Analista de BI Sênior,61,55+,Masculino,01/01/2013,Ativo,Business Intelligence,FL02
+Roberta Ramos,DT57087,7077.09,Analista Comercial Pleno,43,35-44,Feminino,06/06/2010,Ativo,Vendas e Parcerias,FL09
+Elisa Lima,DT37681,5097.32,Analista Comercial Júnior,28,25-34,Feminino,05/10/2012,Ativo,Vendas e Parcerias,FL04
+Paulo Oliveira,DT59177,12199.37,Analista de RH Sênior,57,55+,Masculino,03/02/2011,Ativo,Recursos Humanos,FL01
+Fernanda Alves,DT95664,7569.25,Engenheiro de Dados Júnior,44,35-44,Feminino,19/12/2019,Ativo,Engenharia de Dados,FL07
+Alexandre Sousa,DT72180,7719.23,Analista Financeiro Pleno,61,55+,Masculino,20/02/2024,Ativo,Financeiro,FL01
+Aline Alves,DT96832,16113.99,Engenheiro Cloud Sênior,62,55+,Feminino,28/01/2013,Ativo,Infraestrutura e Cloud,FL08
+André Alves,DT77054,4706.77,Analista Financeiro Júnior,24,18-24,Masculino,01/03/2021,Ativo,Financeiro,FL01
+Larissa Sousa,DT78569,18368.9,Cientista de Dados Sênior,36,35-44,Feminino,06/08/2013,Ativo,Ciência de Dados,FL07
+Carla Carvalho,DT73001,10512.32,Engenheiro de ML Pleno,60,55+,Feminino,31/12/2011,Inativo,Machine Learning,FL07
+Caio Ramos,DT29548,7670.69,Engenheiro de Dados Júnior,24,18-24,Masculino,28/09/2015,Ativo,Engenharia de Dados,FL01
+Carlos Vieira,DT44619,4249.52,Analista de BI Júnior,29,25-34,Masculino,20/11/2010,Inativo,Business Intelligence,FL01
+Vanessa Rocha,DT65836,4009.0,Analista Comercial Júnior,20,18-24,Feminino,21/03/2010,Inativo,Vendas e Parcerias,FL06
+Daniela Costa,DT53078,29640.71,Especialista em IA,35,35-44,Feminino,01/02/2012,Ativo,Machine Learning,FL09
+Gustavo Ribeiro,DT24920,21773.86,Gerente de BI,35,35-44,Masculino,26/08/2018,Ativo,Business Intelligence,FL01
+Pedro Marques,DT95045,6397.53,Cientista de Dados Júnior,21,18-24,Masculino,29/07/2013,Ativo,Ciência de Dados,FL01
+Marcos Cardoso,DT84572,17087.56,Gerente Financeiro,42,35-44,Masculino,16/01/2018,Ativo,Financeiro,FL02
+Monique Lima,DT73318,7662.78,Engenheiro Cloud Júnior,46,45-54,Feminino,12/01/2011,Ativo,Infraestrutura e Cloud,FL09
+Paulo Rocha,DT11620,10422.63,Analista Financeiro Pleno,60,55+,Masculino,03/08/2017,Ativo,Financeiro,FL01
+Ricardo Alves,DT66734,7445.79,Analista de RH Pleno,60,55+,Masculino,03/03/2025,Ativo,Recursos Humanos,FL02
+Felipe Souza,DT11526,7516.7,Analista de RH Pleno,48,45-54,Masculino,13/02/2021,Inativo,Recursos Humanos,FL01
+Matheus Ramos,DT52026,15865.65,Analista de Dados Sênior,21,18-24,Masculino,15/05/2021,Ativo,Análise de Dados,FL01
+Paulo Moreira,DT62858,5647.74,Analista de Dados Júnior,54,45-54,Masculino,19/01/2020,Ativo,Análise de Dados,FL02
+Pedro Mendes,DT51426,25344.05,Lead de Ciência de Dados,19,18-24,Masculino,20/04/2012,Ativo,Ciência de Dados,FL02
+Fernanda Silva,DT21913,19395.61,Product Manager Sênior,53,45-54,Feminino,22/08/2014,Ativo,Produto,FL07
+Carlos Dias,DT57624,12377.27,Engenheiro de Dados Pleno,39,35-44,Masculino,25/07/2022,Ativo,Engenharia de Dados,FL01
+Marcelo Cardoso,DT96136,22912.19,Especialista em IA,60,55+,Masculino,22/12/2014,Ativo,Machine Learning,FL01
+Leonardo Vieira,DT81786,16510.48,Engenheiro Cloud Sênior,20,18-24,Masculino,06/09/2013,Ativo,Infraestrutura e Cloud,FL01
+Caio Marques,DT24019,8156.4,Analista de Dados Pleno,43,35-44,Masculino,02/11/2014,Ativo,Análise de Dados,FL03
+Fábio Martins,DT54293,18802.25,Arquiteto de Dados,58,55+,Masculino,28/01/2025,Ativo,Engenharia de Dados,FL01
+Leandro Mendes,DT69950,8891.56,Analista de RH Pleno,18,18-24,Masculino,23/11/2021,Ativo,Recursos Humanos,FL02
+Alexandre Machado,DT86692,11267.27,Engenheiro Cloud Pleno,29,25-34,Masculino,17/11/2012,Ativo,Infraestrutura e Cloud,FL03
+Daniela Rocha,DT76074,29836.01,Especialista em IA,62,55+,Feminino,27/07/2015,Ativo,Machine Learning,FL10
+Tatiana Vieira,DT69355,11357.35,Cientista de Dados Pleno,62,55+,Feminino,28/06/2021,Ativo,Ciência de Dados,FL07
+Ricardo Rocha,DT82559,6602.67,Analista de RH Pleno,57,55+,Masculino,08/07/2016,Ativo,Recursos Humanos,FL02
+Marcos Lima,DT95208,18406.94,Cientista de Dados Sênior,40,35-44,Masculino,12/08/2022,Ativo,Ciência de Dados,FL02
+Fernando Marques,DT98374,14448.65,Gerente de Contas,45,45-54,Masculino,15/04/2010,Ativo,Vendas e Parcerias,FL01
+Ana Moreira,DT29048,6099.71,Engenheiro de Dados Júnior,28,25-34,Feminino,05/06/2016,Ativo,Engenharia de Dados,FL10
+Felipe Souza,DT48684,7076.05,Cientista de Dados Júnior,46,45-54,Masculino,19/04/2012,Ativo,Ciência de Dados,FL01
+Vitor Almeida,DT94819,22663.17,Head de Produto,62,55+,Masculino,14/06/2016,Ativo,Produto,FL02
+Fernanda Moreira,DT60797,15346.25,Analista de BI Sênior,21,18-24,Feminino,17/04/2010,Ativo,Business Intelligence,FL03
+Larissa Mendes,DT39563,12142.88,Analista de RH Sênior,52,45-54,Feminino,14/07/2023,Ativo,Recursos Humanos,FL08
+Renato Martins,DT48558,10442.09,Analista de BI Pleno,22,18-24,Masculino,12/03/2014,Inativo,Business Intelligence,FL02
+Renato Gonçalves,DT25643,8285.52,Engenheiro de ML Júnior,53,45-54,Masculino,05/12/2015,Ativo,Machine Learning,FL02
+Fernando Sousa,DT10739,27677.51,Especialista em IA,27,25-34,Masculino,24/11/2010,Ativo,Machine Learning,FL01
+Tatiana Souza,DT91968,11216.93,Analista de RH Sênior,54,45-54,Feminino,04/05/2022,Ativo,Recursos Humanos,FL07
+Fábio Rocha,DT78864,9322.12,Analista de Dados Pleno,50,45-54,Masculino,29/07/2013,Ativo,Análise de Dados,FL01
+Alexandre Nunes,DT22051,14475.29,Engenheiro de ML Pleno,60,55+,Masculino,11/06/2017,Ativo,Machine Learning,FL02
+Anderson Carvalho,DT91039,25976.42,Arquiteto Cloud,59,55+,Masculino,14/03/2010,Ativo,Infraestrutura e Cloud,FL01
+Leonardo Mendes,DT41502,8876.69,Analista de RH Pleno,61,55+,Masculino,14/03/2017,Ativo,Recursos Humanos,FL01
+Fábio Pereira,DT60577,11611.18,Analista de Dados Sênior,51,45-54,Masculino,30/05/2018,Ativo,Análise de Dados,FL01
+Priscila Mendes,DT73806,17542.27,Engenheiro de Dados Sênior,30,25-34,Feminino,09/03/2017,Ativo,Engenharia de Dados,FL03
+Camila Costa,DT80513,6880.8,Engenheiro Cloud Júnior,31,25-34,Feminino,13/01/2025,Ativo,Infraestrutura e Cloud,FL05
+Larissa Machado,DT23621,24702.65,Lead de Ciência de Dados,22,18-24,Feminino,13/06/2013,Ativo,Ciência de Dados,FL10
+Ricardo Dias,DT14965,5662.8,Engenheiro de Dados Júnior,34,25-34,Masculino,08/07/2022,Ativo,Engenharia de Dados,FL02
+Luana Almeida,DT43901,18706.75,Gerente de BI,43,35-44,Feminino,18/09/2019,Ativo,Business Intelligence,FL06
+Patrícia Pereira,DT80101,7767.88,Engenheiro de Dados Júnior,55,55+,Feminino,08/01/2011,Ativo,Engenharia de Dados,FL04
+Juliana Nascimento,DT75907,17041.01,Engenheiro de Dados Sênior,37,35-44,Feminino,09/08/2023,Ativo,Engenharia de Dados,FL06
+Leandro Mendes,DT59992,5184.97,Analista de BI Júnior,52,45-54,Masculino,07/12/2014,Ativo,Business Intelligence,FL03
+Henrique Monteiro,DT48663,6894.17,Analista de RH Pleno,59,55+,Masculino,15/05/2018,Inativo,Recursos Humanos,FL03
+Ana Gomes,DT26152,7218.16,Engenheiro de Dados Júnior,43,35-44,Feminino,18/01/2022,Ativo,Engenharia de Dados,FL05
+Matheus Barbosa,DT37532,11452.82,Gerente de Contas,59,55+,Masculino,30/06/2021,Ativo,Vendas e Parcerias,FL03
+Bruno Almeida,DT90856,7901.18,Analista de Dados Pleno,60,55+,Masculino,22/09/2022,Inativo,Análise de Dados,FL03
+Julio Freitas,DT94498,6871.96,Product Manager Júnior,22,18-24,Masculino,16/08/2015,Ativo,Produto,FL02
+Renato Ramos,DT53365,13520.83,Engenheiro de ML Pleno,33,25-34,Masculino,30/03/2012,Ativo,Machine Learning,FL01
+Juliana Martins,DT51652,21298.42,Arquiteto Cloud,60,55+,Feminino,09/11/2016,Ativo,Infraestrutura e Cloud,FL07
+Mariana Andrade,DT51462,7016.91,Analista de BI Pleno,33,25-34,Feminino,20/12/2014,Ativo,Business Intelligence,FL04
+Bruna Machado,DT46264,13558.11,Engenheiro de ML Pleno,39,35-44,Feminino,06/10/2020,Ativo,Machine Learning,FL05
+Leonardo Barbosa,DT73828,6527.31,Product Manager Júnior,56,55+,Masculino,03/11/2011,Inativo,Produto,FL03
+Julio Lima,DT80597,18534.5,Cientista de Dados Sênior,58,55+,Masculino,19/09/2011,Ativo,Ciência de Dados,FL01
+André Santos,DT76476,5125.28,Analista de RH Júnior,55,55+,Masculino,01/02/2019,Ativo,Recursos Humanos,FL01
+Larissa Oliveira,DT82298,20923.45,Gerente de Análise de Dados,27,25-34,Feminino,16/03/2018,Ativo,Análise de Dados,FL07
+André Vieira,DT27548,4991.96,Analista de BI Júnior,50,45-54,Masculino,28/03/2010,Ativo,Business Intelligence,FL01
+Julio Costa,DT77388,21534.95,Lead de Ciência de Dados,54,45-54,Masculino,10/09/2022,Ativo,Ciência de Dados,FL02
+Felipe Cardoso,DT57028,12045.89,Engenheiro de Dados Pleno,32,25-34,Masculino,30/05/2011,Ativo,Engenharia de Dados,FL02
+Thiago Oliveira,DT97632,16634.51,Cientista de Dados Sênior,47,45-54,Masculino,16/01/2011,Ativo,Ciência de Dados,FL03
+Bruna Rocha,DT23529,14339.49,Analista Financeiro Sênior,34,25-34,Feminino,24/12/2022,Ativo,Financeiro,FL05
+Bruno Moreira,DT95678,18732.23,Engenheiro de ML Sênior,22,18-24,Masculino,03/08/2021,Ativo,Machine Learning,FL02
+Marcos Almeida,DT77681,14677.57,Analista de BI Sênior,40,35-44,Masculino,02/12/2020,Ativo,Business Intelligence,FL03
+Roberta Silva,DT75776,21576.44,Lead de Ciência de Dados,22,18-24,Feminino,17/07/2021,Ativo,Ciência de Dados,FL07
+Larissa Gomes,DT34498,17811.11,Cientista de Dados Sênior,25,25-34,Feminino,29/10/2024,Ativo,Ciência de Dados,FL09
+Fábio Dias,DT24855,22353.15,Arquiteto Cloud,55,55+,Masculino,13/08/2013,Ativo,Infraestrutura e Cloud,FL01
+Aline Santos,DT41938,11293.95,Engenheiro de Dados Pleno,28,25-34,Feminino,08/01/2013,Ativo,Engenharia de Dados,FL04
+Gabriel Gomes,DT17328,19573.46,Cientista de Dados Sênior,51,45-54,Masculino,04/02/2019,Ativo,Ciência de Dados,FL02
+Fernando Santos,DT96736,5041.48,Analista de Dados Júnior,56,55+,Masculino,28/07/2020,Inativo,Análise de Dados,FL02
+Beatriz Almeida,DT63840,13075.77,Product Manager Pleno,29,25-34,Feminino,24/12/2023,Ativo,Produto,FL08
+Rodrigo Costa,DT99861,26772.27,Especialista em IA,22,18-24,Masculino,26/02/2015,Ativo,Machine Learning,FL02
+Mariana Alves,DT12170,25872.34,Lead de Ciência de Dados,56,55+,Feminino,28/02/2012,Ativo,Ciência de Dados,FL03
+André Oliveira,DT79655,5279.57,Engenheiro Cloud Júnior,60,55+,Masculino,03/12/2012,Inativo,Infraestrutura e Cloud,FL01
+Lívia Silva,DT98940,16610.22,Gerente de RH,41,35-44,Feminino,22/12/2010,Ativo,Recursos Humanos,FL04
+Eduardo Almeida,DT73192,18804.14,Diretor Comercial,62,55+,Masculino,03/12/2022,Ativo,Vendas e Parcerias,FL01
+Mariana Sousa,DT72539,9685.3,Analista Comercial Pleno,23,18-24,Feminino,09/05/2016,Ativo,Vendas e Parcerias,FL05
+Lívia Marques,DT43791,8127.45,Cientista de Dados Júnior,18,18-24,Feminino,18/12/2022,Ativo,Ciência de Dados,FL08
+Daniel Silva,DT59155,8063.3,Analista de RH Pleno,38,35-44,Masculino,04/03/2019,Ativo,Recursos Humanos,FL03
+Felipe Machado,DT95403,15937.17,Product Manager Sênior,52,45-54,Masculino,02/07/2019,Ativo,Produto,FL01
+Marcelo Fernandes,DT99208,8446.3,Analista de BI Pleno,53,45-54,Masculino,27/10/2020,Ativo,Business Intelligence,FL03
+Alexandre Cardoso,DT43263,19758.07,Engenheiro de ML Sênior,43,35-44,Masculino,05/02/2013,Inativo,Machine Learning,FL01
+Vitor Pereira,DT40116,7350.98,Analista de BI Pleno,50,45-54,Masculino,26/12/2018,Ativo,Business Intelligence,FL01
+Fábio Souza,DT31068,9413.11,Engenheiro de ML Júnior,27,25-34,Masculino,30/07/2020,Inativo,Machine Learning,FL02
+Eduardo Ferreira,DT18399,8797.92,Analista de Dados Pleno,56,55+,Masculino,06/11/2010,Ativo,Análise de Dados,FL01
+Cristina Nunes,DT90473,11990.62,Analista de RH Sênior,56,55+,Feminino,16/04/2011,Inativo,Recursos Humanos,FL04
+Caio Ribeiro,DT93924,19074.97,Arquiteto Cloud,60,55+,Masculino,15/08/2021,Ativo,Infraestrutura e Cloud,FL01
+Gabriel Gonçalves,DT77608,9153.16,Analista Financeiro Pleno,61,55+,Masculino,23/10/2010,Ativo,Financeiro,FL02
+Bruna Silva,DT30636,17008.53,Engenheiro de Dados Sênior,40,35-44,Feminino,07/01/2025,Ativo,Engenharia de Dados,FL09
+Fernando Martins,DT77861,8257.53,Engenheiro de Dados Júnior,53,45-54,Masculino,19/05/2016,Ativo,Engenharia de Dados,FL01
+Alexandre Nascimento,DT55544,9622.27,Analista de Dados Pleno,30,25-34,Masculino,14/03/2020,Inativo,Análise de Dados,FL02
+Fernando Silva,DT44223,23790.55,Lead de Ciência de Dados,53,45-54,Masculino,16/08/2011,Ativo,Ciência de Dados,FL03
+Gustavo Pereira,DT77277,14623.86,Analista de Dados Sênior,42,35-44,Masculino,19/08/2022,Ativo,Análise de Dados,FL01
+Amanda Dias,DT70142,21379.14,Gerente Financeiro,19,18-24,Feminino,23/10/2020,Ativo,Financeiro,FL05
+Juliana Moreira,DT93055,10300.56,Analista de Dados Pleno,44,35-44,Feminino,02/12/2017,Ativo,Análise de Dados,FL06
+Ana Sousa,DT42539,5497.33,Analista de Dados Júnior,39,35-44,Feminino,15/09/2011,Ativo,Análise de Dados,FL06
+Beatriz Cardoso,DT51139,14524.42,Engenheiro de ML Pleno,35,35-44,Feminino,06/02/2014,Inativo,Machine Learning,FL05
+Daniela Martins,DT75404,7322.01,Analista Comercial Pleno,33,25-34,Feminino,15/12/2015,Ativo,Vendas e Parcerias,FL05
+Diego Lopes,DT91080,14005.22,Engenheiro de ML Pleno,25,25-34,Masculino,05/10/2011,Ativo,Machine Learning,FL01
+Vitor Ramos,DT90455,8044.03,Engenheiro de Dados Júnior,41,35-44,Masculino,03/12/2023,Ativo,Engenharia de Dados,FL01
+Roberta Fernandes,DT74330,16688.34,Cientista de Dados Sênior,54,45-54,Feminino,16/11/2012,Ativo,Ciência de Dados,FL08
+Fábio Machado,DT72694,6507.43,Engenheiro Cloud Júnior,43,35-44,Masculino,02/12/2013,Ativo,Infraestrutura e Cloud,FL02
+Camila Araújo,DT70302,7035.46,Engenheiro de ML Júnior,31,25-34,Feminino,06/07/2018,Ativo,Machine Learning,FL04
+Gustavo Andrade,DT90318,9419.97,Analista de Dados Pleno,33,25-34,Masculino,16/01/2016,Ativo,Análise de Dados,FL01
+Marcelo Dias,DT57962,23255.63,Lead de Ciência de Dados,44,35-44,Masculino,08/05/2018,Ativo,Ciência de Dados,FL02
+Patrícia Fernandes,DT69077,13906.73,Cientista de Dados Pleno,61,55+,Feminino,16/02/2015,Ativo,Ciência de Dados,FL10
+Elisa Fernandes,DT40907,26994.16,Head de Produto,30,25-34,Feminino,09/04/2013,Ativo,Produto,FL07
+Renato Gomes,DT71995,10686.08,Engenheiro de Dados Pleno,26,25-34,Masculino,23/02/2024,Ativo,Engenharia de Dados,FL02
+Elisa Rocha,DT73782,14029.62,Analista de Dados Sênior,54,45-54,Feminino,26/01/2011,Ativo,Análise de Dados,FL04
+Ricardo Costa,DT17869,13644.43,Analista de Dados Sênior,58,55+,Masculino,28/02/2012,Ativo,Análise de Dados,FL03
+Gustavo Sousa,DT57312,17392.77,Engenheiro de ML Sênior,44,35-44,Masculino,20/09/2012,Ativo,Machine Learning,FL01
+Vitor Martins,DT85609,13907.18,Product Manager Pleno,36,35-44,Masculino,19/12/2017,Ativo,Produto,FL02
+Daniel Ramos,DT68580,22488.81,Arquiteto de Dados,47,45-54,Masculino,02/03/2024,Inativo,Engenharia de Dados,FL01
+Monique Costa,DT93962,27050.19,Especialista em IA,54,45-54,Feminino,29/01/2019,Inativo,Machine Learning,FL03
+Matheus Ferreira,DT31233,11910.67,Engenheiro de ML Pleno,59,55+,Masculino,14/07/2016,Ativo,Machine Learning,FL02
+Marcelo Nunes,DT45553,14365.53,Analista de BI Sênior,51,45-54,Masculino,06/02/2020,Ativo,Business Intelligence,FL02
+Bruno Santos,DT26389,8817.08,Analista Comercial Pleno,62,55+,Masculino,18/10/2011,Ativo,Vendas e Parcerias,FL01
+Henrique Alves,DT22524,22064.82,Arquiteto de Dados,19,18-24,Masculino,27/11/2018,Ativo,Engenharia de Dados,FL02
+Juliana Alves,DT44400,6252.93,Analista de RH Pleno,42,35-44,Feminino,09/12/2016,Ativo,Recursos Humanos,FL08
+Elisa Vieira,DT68085,6393.83,Analista de RH Pleno,28,25-34,Feminino,23/08/2010,Ativo,Recursos Humanos,FL04
+Vanessa Rocha,DT72410,13468.45,Analista de BI Sênior,26,25-34,Feminino,04/02/2022,Ativo,Business Intelligence,FL04
+Marcelo Freitas,DT92712,20187.68,Diretor Comercial,58,55+,Masculino,21/12/2021,Ativo,Vendas e Parcerias,FL01
+Leonardo Cardoso,DT80735,5604.65,Analista de Dados Júnior,41,35-44,Masculino,31/03/2019,Ativo,Análise de Dados,FL02
+Anderson Silva,DT10012,9875.54,Engenheiro Cloud Pleno,48,45-54,Masculino,01/01/2022,Ativo,Infraestrutura e Cloud,FL01
+Cristina Ramos,DT72530,6414.67,Analista de Dados Júnior,36,35-44,Feminino,23/05/2023,Ativo,Análise de Dados,FL04
+Lucas Andrade,DT34716,18368.51,Gerente de BI,28,25-34,Masculino,27/06/2024,Ativo,Business Intelligence,FL01
+Henrique Almeida,DT44469,22564.6,Arquiteto de Dados,51,45-54,Masculino,03/10/2023,Ativo,Engenharia de Dados,FL02
+Vitor Fernandes,DT47313,10945.16,Analista de RH Sênior,22,18-24,Masculino,03/02/2014,Ativo,Recursos Humanos,FL02
+Camila Freitas,DT90967,14152.13,Analista de BI Sênior,49,45-54,Feminino,19/03/2014,Ativo,Business Intelligence,FL06
+Felipe Souza,DT80119,12889.33,Engenheiro de Dados Pleno,36,35-44,Masculino,15/01/2016,Ativo,Engenharia de Dados,FL02
+Carlos Silva,DT40514,9058.9,Engenheiro de Dados Pleno,31,25-34,Masculino,01/09/2017,Ativo,Engenharia de Dados,FL02
+Fábio Ramos,DT58679,4825.62,Analista de BI Júnior,27,25-34,Masculino,05/04/2011,Ativo,Business Intelligence,FL02
+Henrique Rodrigues,DT81197,9268.77,Engenheiro Cloud Pleno,34,25-34,Masculino,23/07/2018,Inativo,Infraestrutura e Cloud,FL01
+Rafael Lopes,DT60436,17977.3,Diretor Comercial,20,18-24,Masculino,20/06/2014,Ativo,Vendas e Parcerias,FL01
+Leandro Alves,DT78306,8654.89,Analista Financeiro Pleno,61,55+,Masculino,31/12/2016,Inativo,Financeiro,FL02
+Bruno Oliveira,DT82034,5759.94,Engenheiro Cloud Júnior,58,55+,Masculino,13/09/2016,Ativo,Infraestrutura e Cloud,FL01
+André Souza,DT97385,5089.91,Analista de Dados Júnior,45,45-54,Masculino,12/04/2017,Ativo,Análise de Dados,FL02
+Fábio Fernandes,DT86637,25629.43,Lead de Ciência de Dados,18,18-24,Masculino,11/12/2010,Ativo,Ciência de Dados,FL01
+Cláudia Cardoso,DT88146,18739.38,Cientista de Dados Sênior,33,25-34,Feminino,15/07/2013,Ativo,Ciência de Dados,FL06
+Daniela Dias,DT91937,6566.55,Engenheiro de Dados Júnior,27,25-34,Feminino,11/01/2022,Ativo,Engenharia de Dados,FL06
+Mariana Ramos,DT40497,19930.39,Engenheiro de ML Sênior,46,45-54,Feminino,30/04/2014,Ativo,Machine Learning,FL09
+Henrique Nascimento,DT27659,5713.26,Analista de Dados Júnior,46,45-54,Masculino,16/07/2022,Ativo,Análise de Dados,FL02
+Ricardo Ramos,DT34874,11946.29,Product Manager Pleno,38,35-44,Masculino,04/07/2020,Ativo,Produto,FL02
+Caio Costa,DT19027,10297.54,Engenheiro Cloud Pleno,34,25-34,Masculino,23/02/2022,Ativo,Infraestrutura e Cloud,FL01
+Ana Gonçalves,DT59681,9590.26,Analista Comercial Pleno,57,55+,Feminino,02/03/2018,Ativo,Vendas e Parcerias,FL10
+Thiago Rocha,DT18302,14949.35,Gerente de RH,61,55+,Masculino,27/02/2021,Ativo,Recursos Humanos,FL02
+Felipe Vieira,DT52283,11497.09,Analista de BI Sênior,51,45-54,Masculino,11/10/2024,Ativo,Business Intelligence,FL01
+Luana Lima,DT33414,9428.22,Engenheiro de Dados Pleno,30,25-34,Feminino,19/03/2012,Ativo,Engenharia de Dados,FL08
+Bruna Moreira,DT96235,13245.43,Engenheiro Cloud Sênior,32,25-34,Feminino,04/08/2023,Ativo,Infraestrutura e Cloud,FL07
+Ana Carvalho,DT95950,6404.18,Engenheiro Cloud Júnior,58,55+,Feminino,13/05/2011,Ativo,Infraestrutura e Cloud,FL04
+Elisa Marques,DT58374,6059.11,Analista Financeiro Júnior,35,35-44,Feminino,12/11/2021,Ativo,Financeiro,FL05
+Juliana Barbosa,DT20215,4753.06,Analista de Dados Júnior,32,25-34,Feminino,04/12/2021,Ativo,Análise de Dados,FL04
+Diego Araújo,DT96098,9454.48,Analista de Dados Pleno,53,45-54,Masculino,25/04/2019,Ativo,Análise de Dados,FL01
+Sabrina Nascimento,DT98407,21296.94,Gerente de BI,28,25-34,Feminino,17/01/2014,Ativo,Business Intelligence,FL08
+Priscila Dias,DT96184,26567.88,Lead de Ciência de Dados,38,35-44,Feminino,04/05/2022,Inativo,Ciência de Dados,FL04
+Gustavo Andrade,DT64046,22609.24,Diretor Comercial,38,35-44,Masculino,25/08/2023,Ativo,Vendas e Parcerias,FL02
+Lívia Carvalho,DT59160,12120.04,Gerente de Contas,46,45-54,Feminino,14/01/2020,Inativo,Vendas e Parcerias,FL04
+Ana Oliveira,DT47287,7552.83,Product Manager Júnior,37,35-44,Feminino,23/02/2010,Ativo,Produto,FL08
+Thiago Carvalho,DT51275,17636.0,Engenheiro de Dados Sênior,50,45-54,Masculino,24/06/2022,Ativo,Engenharia de Dados,FL02
+Fernando Gomes,DT22358,20811.76,Arquiteto de Dados,26,25-34,Masculino,11/12/2015,Ativo,Engenharia de Dados,FL01
+Fernando Lopes,DT40539,11913.57,Analista de Dados Sênior,43,35-44,Masculino,06/10/2022,Inativo,Análise de Dados,FL01
+Renato Rodrigues,DT52558,10453.11,Engenheiro Cloud Pleno,62,55+,Masculino,04/12/2022,Ativo,Infraestrutura e Cloud,FL02
+Rafael Barbosa,DT14898,16627.82,Diretor Comercial,21,18-24,Masculino,02/07/2017,Ativo,Vendas e Parcerias,FL01
+Luana Machado,DT64594,12864.55,Cientista de Dados Pleno,56,55+,Feminino,04/04/2010,Ativo,Ciência de Dados,FL03
+Paulo Moreira,DT17094,7957.95,Engenheiro de ML Júnior,54,45-54,Masculino,10/05/2013,Ativo,Machine Learning,FL01
+Ricardo Almeida,DT30079,24811.76,Arquiteto de Dados,56,55+,Masculino,26/11/2022,Ativo,Engenharia de Dados,FL01
+Amanda Machado,DT47982,7462.66,Analista de BI Pleno,23,18-24,Feminino,03/09/2020,Ativo,Business Intelligence,FL04
+Fernanda Nunes,DT44413,21761.85,Arquiteto de Dados,62,55+,Feminino,04/12/2012,Ativo,Engenharia de Dados,FL09
+Carla Martins,DT73944,8964.09,Analista de BI Pleno,51,45-54,Feminino,11/07/2015,Ativo,Business Intelligence,FL03
+Rodrigo Machado,DT52390,4281.32,Analista Financeiro Júnior,44,35-44,Masculino,02/07/2019,Ativo,Financeiro,FL02
+Diego Rocha,DT55157,8309.04,Product Manager Júnior,28,25-34,Masculino,04/11/2017,Ativo,Produto,FL02
+Vitória Mendes,DT91681,20791.7,Lead de Ciência de Dados,32,25-34,Feminino,24/06/2014,Ativo,Ciência de Dados,FL05
+Felipe Ferreira,DT24728,4334.71,Analista Comercial Júnior,57,55+,Masculino,24/04/2013,Inativo,Vendas e Parcerias,FL01
+Caio Vieira,DT11800,7915.35,Engenheiro de ML Júnior,48,45-54,Masculino,06/07/2010,Ativo,Machine Learning,FL01
+Renato Monteiro,DT37770,17518.4,Cientista de Dados Sênior,57,55+,Masculino,03/03/2013,Ativo,Ciência de Dados,FL02
+Daniela Santos,DT59362,6766.37,Product Manager Júnior,21,18-24,Feminino,15/05/2016,Ativo,Produto,FL06
+Ricardo Fernandes,DT16957,4166.49,Analista de BI Júnior,60,55+,Masculino,01/02/2016,Ativo,Business Intelligence,FL01
+Marcos Andrade,DT24141,17403.35,Engenheiro de Dados Sênior,59,55+,Masculino,02/09/2018,Ativo,Engenharia de Dados,FL01
+Patrícia Gonçalves,DT23055,28934.18,Especialista em IA,52,45-54,Feminino,23/12/2011,Ativo,Machine Learning,FL04
+Priscila Freitas,DT83490,4099.38,Analista Financeiro Júnior,51,45-54,Feminino,02/11/2016,Ativo,Financeiro,FL09
+Henrique Costa,DT12408,17454.58,Engenheiro de ML Sênior,37,35-44,Masculino,19/04/2015,Inativo,Machine Learning,FL01
+Priscila Fernandes,DT18127,12575.37,Analista de RH Sênior,19,18-24,Feminino,13/06/2022,Inativo,Recursos Humanos,FL06
+Amanda Gomes,DT54798,7307.28,Analista de BI Pleno,42,35-44,Feminino,05/09/2021,Inativo,Business Intelligence,FL05
+Natália Almeida,DT64700,8992.63,Analista de Dados Pleno,37,35-44,Feminino,31/07/2023,Ativo,Análise de Dados,FL09
+Lívia Lima,DT37100,7743.09,Analista de RH Pleno,61,55+,Feminino,16/07/2014,Inativo,Recursos Humanos,FL03
+Anderson Araújo,DT27727,9296.81,Analista de BI Pleno,54,45-54,Masculino,18/07/2013,Ativo,Business Intelligence,FL01
+Alexandre Monteiro,DT25517,19117.37,Cientista de Dados Sênior,27,25-34,Masculino,30/08/2010,Ativo,Ciência de Dados,FL02
+André Marques,DT63903,21473.66,Gerente de Análise de Dados,58,55+,Masculino,21/02/2016,Ativo,Análise de Dados,FL01
+Diego Alves,DT27241,8287.34,Cientista de Dados Júnior,57,55+,Masculino,03/11/2023,Ativo,Ciência de Dados,FL01
+Fernando Almeida,DT88166,9905.82,Analista de Dados Pleno,40,35-44,Masculino,14/10/2011,Ativo,Análise de Dados,FL01
+Carla Lima,DT75840,25984.13,Head de Produto,41,35-44,Feminino,16/02/2014,Inativo,Produto,FL09
+Carla Cardoso,DT28024,10518.23,Cientista de Dados Pleno,44,35-44,Feminino,03/05/2010,Inativo,Ciência de Dados,FL06
+Eduardo Almeida,DT97993,9797.61,Cientista de Dados Pleno,46,45-54,Masculino,03/11/2023,Ativo,Ciência de Dados,FL01
+Gustavo Freitas,DT42346,20657.29,Gerente de BI,56,55+,Masculino,14/07/2018,Ativo,Business Intelligence,FL01
+Patrícia Monteiro,DT78843,4541.3,Analista de RH Júnior,46,45-54,Feminino,31/03/2020,Inativo,Recursos Humanos,FL08
+Gabriel Lopes,DT77987,25886.81,Arquiteto Cloud,20,18-24,Masculino,05/07/2022,Ativo,Infraestrutura e Cloud,FL01
+Leandro Souza,DT34884,19388.24,Gerente de Análise de Dados,37,35-44,Masculino,31/05/2016,Ativo,Análise de Dados,FL01
+Eduardo Vieira,DT90364,10854.32,Engenheiro de Dados Pleno,59,55+,Masculino,18/02/2020,Ativo,Engenharia de Dados,FL02
+Priscila Pereira,DT33562,7875.73,Analista Comercial Pleno,38,35-44,Feminino,11/02/2020,Ativo,Vendas e Parcerias,FL09
+Carlos Martins,DT69596,14958.34,Engenheiro de Dados Sênior,59,55+,Masculino,05/09/2013,Ativo,Engenharia de Dados,FL01
+Camila Ferreira,DT24963,19804.43,Gerente Financeiro,23,18-24,Feminino,01/10/2021,Ativo,Financeiro,FL06
+Renato Gonçalves,DT90225,24077.25,Lead de Ciência de Dados,20,18-24,Masculino,31/10/2013,Inativo,Ciência de Dados,FL02
+Fernando Gomes,DT31249,12961.21,Cientista de Dados Pleno,21,18-24,Masculino,31/05/2019,Ativo,Ciência de Dados,FL03
+Elisa Mendes,DT47851,6352.66,Analista de RH Pleno,26,25-34,Feminino,20/07/2014,Ativo,Recursos Humanos,FL05
+Sabrina Sousa,DT11600,21132.47,Gerente de BI,52,45-54,Feminino,17/02/2010,Ativo,Business Intelligence,FL04
+Pedro Lopes,DT38426,24176.17,Head de Produto,46,45-54,Masculino,13/10/2011,Ativo,Produto,FL01
+Lucas Lopes,DT81741,7671.22,Analista de Dados Pleno,27,25-34,Masculino,28/03/2011,Ativo,Análise de Dados,FL02
+Fernanda Gomes,DT14250,12324.44,Analista Financeiro Sênior,23,18-24,Feminino,06/02/2011,Ativo,Financeiro,FL07
+Beatriz Costa,DT98092,10882.03,Analista de Dados Pleno,55,55+,Feminino,29/01/2018,Inativo,Análise de Dados,FL04
+Matheus Barbosa,DT52312,28562.12,Especialista em IA,45,45-54,Masculino,07/05/2022,Ativo,Machine Learning,FL02
+Carla Lima,DT25993,12316.83,Analista Financeiro Sênior,44,35-44,Feminino,07/10/2021,Ativo,Financeiro,FL05
+Larissa Souza,DT24326,7450.99,Product Manager Júnior,62,55+,Feminino,26/07/2023,Inativo,Produto,FL04
+Ricardo Vieira,DT65974,15928.13,Product Manager Sênior,54,45-54,Masculino,24/12/2023,Ativo,Produto,FL03
+Mariana Ramos,DT78118,19940.04,Diretor Comercial,29,25-34,Feminino,02/09/2023,Ativo,Vendas e Parcerias,FL04
+Anderson Martins,DT10207,7394.66,Cientista de Dados Júnior,25,25-34,Masculino,26/08/2014,Ativo,Ciência de Dados,FL03
+Eduardo Marques,DT15962,18582.29,Engenheiro de ML Sênior,58,55+,Masculino,06/10/2014,Ativo,Machine Learning,FL01
+Diego Vieira,DT43347,14851.28,Engenheiro de Dados Sênior,53,45-54,Masculino,07/04/2017,Ativo,Engenharia de Dados,FL01
+Camila Dias,DT54742,6080.11,Analista de BI Júnior,30,25-34,Feminino,31/05/2017,Inativo,Business Intelligence,FL03
+Cristina Cardoso,DT72193,10925.98,Engenheiro de Dados Pleno,58,55+,Feminino,01/05/2020,Inativo,Engenharia de Dados,FL07
+Alexandre Dias,DT70616,6087.76,Analista de BI Júnior,37,35-44,Masculino,03/09/2022,Ativo,Business Intelligence,FL01
+Gustavo Monteiro,DT12453,18897.44,Cientista de Dados Sênior,40,35-44,Masculino,27/06/2011,Inativo,Ciência de Dados,FL01
+Letícia Santos,DT54453,13069.42,Engenheiro de ML Pleno,42,35-44,Feminino,16/03/2014,Ativo,Machine Learning,FL09
+Julio Barbosa,DT51222,4678.74,Analista Financeiro Júnior,23,18-24,Masculino,23/02/2021,Inativo,Financeiro,FL02
+Leonardo Mendes,DT49666,12287.56,Analista de Dados Sênior,41,35-44,Masculino,03/11/2010,Ativo,Análise de Dados,FL02
+Marcos Ferreira,DT68166,7397.08,Engenheiro Cloud Júnior,50,45-54,Masculino,16/06/2013,Ativo,Infraestrutura e Cloud,FL01
+Cristina Cardoso,DT78632,16288.12,Engenheiro de ML Sênior,24,18-24,Feminino,30/07/2021,Ativo,Machine Learning,FL07
+Mariana Carvalho,DT14791,20282.06,Gerente de BI,51,45-54,Feminino,06/08/2012,Ativo,Business Intelligence,FL07
+Marcos Oliveira,DT87894,15600.94,Engenheiro de Dados Sênior,20,18-24,Masculino,24/04/2012,Ativo,Engenharia de Dados,FL01
+Daniela Barbosa,DT12946,18013.68,Product Manager Sênior,31,25-34,Feminino,13/03/2017,Ativo,Produto,FL04
+Anderson Fernandes,DT79766,27368.99,Especialista em IA,35,35-44,Masculino,08/05/2013,Ativo,Machine Learning,FL01
+Rafael Silva,DT91650,6619.73,Product Manager Júnior,40,35-44,Masculino,28/04/2022,Ativo,Produto,FL01
+Mariana Vieira,DT85246,7749.35,Analista de Dados Pleno,57,55+,Feminino,06/08/2017,Ativo,Análise de Dados,FL07
+Gabriel Lima,DT13800,5317.78,Engenheiro Cloud Júnior,21,18-24,Masculino,07/12/2011,Ativo,Infraestrutura e Cloud,FL03
+Beatriz Mendes,DT90781,17327.83,Engenheiro de ML Sênior,30,25-34,Feminino,17/01/2025,Ativo,Machine Learning,FL03
+Juliana Freitas,DT84421,8438.55,Cientista de Dados Júnior,62,55+,Feminino,03/07/2020,Ativo,Ciência de Dados,FL06
+Gabriela Freitas,DT71675,8003.03,Analista de Dados Pleno,57,55+,Feminino,15/10/2015,Inativo,Análise de Dados,FL09
+Henrique Ribeiro,DT97186,17993.06,Engenheiro de ML Sênior,19,18-24,Masculino,20/06/2011,Ativo,Machine Learning,FL01
+Leonardo Cardoso,DT70455,18723.68,Cientista de Dados Sênior,56,55+,Masculino,21/11/2022,Ativo,Ciência de Dados,FL01
+Camila Nunes,DT24022,9377.29,Engenheiro de ML Júnior,52,45-54,Feminino,04/05/2020,Ativo,Machine Learning,FL03
+Aline Lopes,DT91379,10908.62,Analista de Dados Pleno,42,35-44,Feminino,26/06/2011,Ativo,Análise de Dados,FL03
+Luana Machado,DT67062,17494.9,Product Manager Sênior,33,25-34,Feminino,18/11/2013,Ativo,Produto,FL07
+Juliana Ramos,DT24984,23277.65,Head de Produto,24,18-24,Feminino,27/12/2019,Ativo,Produto,FL03
+Henrique Rodrigues,DT88415,20628.15,Arquiteto de Dados,59,55+,Masculino,22/10/2024,Ativo,Engenharia de Dados,FL01
+Diego Lima,DT86122,5465.57,Analista Comercial Júnior,60,55+,Masculino,07/05/2013,Ativo,Vendas e Parcerias,FL02
+Anderson Moreira,DT90684,22369.67,Head de Produto,61,55+,Masculino,06/02/2017,Ativo,Produto,FL01
+Vitória Barbosa,DT66980,14961.16,Analista Financeiro Sênior,55,55+,Feminino,08/03/2010,Ativo,Financeiro,FL05
+Priscila Nunes,DT26718,5423.06,Analista de Dados Júnior,53,45-54,Feminino,12/03/2011,Ativo,Análise de Dados,FL03
+Lívia Nascimento,DT24378,5088.1,Analista de Dados Júnior,62,55+,Feminino,28/03/2023,Ativo,Análise de Dados,FL05
+Gustavo Moreira,DT63219,26360.95,Especialista em IA,60,55+,Masculino,21/11/2013,Ativo,Machine Learning,FL01
+Diego Moreira,DT57223,8009.65,Analista de BI Pleno,60,55+,Masculino,25/10/2012,Ativo,Business Intelligence,FL01
+Matheus Santos,DT28873,19947.56,Gerente Financeiro,26,25-34,Masculino,25/11/2011,Ativo,Financeiro,FL03
+Vitória Marques,DT69772,19739.49,Gerente Financeiro,47,45-54,Feminino,05/06/2021,Ativo,Financeiro,FL07
+Luana Mendes,DT60425,11336.06,Engenheiro de ML Pleno,56,55+,Feminino,02/03/2010,Ativo,Machine Learning,FL06
+Monique Lopes,DT75762,22559.39,Gerente de Análise de Dados,54,45-54,Feminino,26/03/2018,Ativo,Análise de Dados,FL05
+Gabriel Cardoso,DT58310,26751.3,Lead de Ciência de Dados,23,18-24,Masculino,09/03/2013,Ativo,Ciência de Dados,FL03
+Daniel Fernandes,DT70940,6570.07,Engenheiro Cloud Júnior,57,55+,Masculino,26/12/2011,Ativo,Infraestrutura e Cloud,FL02
+Bruna Rodrigues,DT99662,11645.64,Analista de RH Sênior,39,35-44,Feminino,31/12/2021,Ativo,Recursos Humanos,FL06
+Carla Freitas,DT77195,15105.08,Engenheiro Cloud Sênior,36,35-44,Feminino,27/06/2016,Ativo,Infraestrutura e Cloud,FL04
+Ricardo Barbosa,DT83886,6073.25,Analista de Dados Júnior,55,55+,Masculino,17/10/2013,Ativo,Análise de Dados,FL01
+Vitor Vieira,DT91830,15681.42,Engenheiro de Dados Sênior,26,25-34,Masculino,04/05/2021,Ativo,Engenharia de Dados,FL02
+Vitória Fernandes,DT43036,16013.69,Cientista de Dados Sênior,34,25-34,Feminino,27/04/2010,Ativo,Ciência de Dados,FL04
+Marcelo Ribeiro,DT87564,8807.04,Analista Comercial Pleno,41,35-44,Masculino,07/12/2013,Ativo,Vendas e Parcerias,FL03
+Cláudia Lopes,DT73559,7028.54,Cientista de Dados Júnior,23,18-24,Feminino,03/04/2013,Ativo,Ciência de Dados,FL03
+Luana Gomes,DT75004,22162.94,Diretor Comercial,33,25-34,Feminino,26/10/2024,Ativo,Vendas e Parcerias,FL06
+Paulo Costa,DT37637,14798.79,Product Manager Sênior,34,25-34,Masculino,08/08/2012,Ativo,Produto,FL01
+Carlos Nunes,DT72420,21476.9,Gerente de Análise de Dados,52,45-54,Masculino,30/03/2015,Ativo,Análise de Dados,FL02
+Cláudia Moreira,DT72205,9356.55,Analista de Dados Pleno,45,45-54,Feminino,08/04/2010,Ativo,Análise de Dados,FL05
+Fábio Mendes,DT60070,14847.05,Analista Financeiro Sênior,61,55+,Masculino,03/12/2010,Ativo,Financeiro,FL01
+Alexandre Nascimento,DT66595,10672.39,Analista de RH Sênior,35,35-44,Masculino,16/03/2012,Ativo,Recursos Humanos,FL02
+Isabela Nunes,DT70438,9070.1,Analista Comercial Pleno,55,55+,Feminino,16/05/2014,Ativo,Vendas e Parcerias,FL03
+Daniela Ribeiro,DT51060,8018.41,Product Manager Júnior,22,18-24,Feminino,08/04/2010,Ativo,Produto,FL07
+Daniel Alves,DT99849,11987.37,Analista de BI Sênior,36,35-44,Masculino,26/08/2015,Ativo,Business Intelligence,FL01
+Lucas Ferreira,DT17455,13777.2,Product Manager Pleno,58,55+,Masculino,24/09/2012,Ativo,Produto,FL02
+Camila Ferreira,DT89257,24766.57,Lead de Ciência de Dados,59,55+,Feminino,12/09/2022,Ativo,Ciência de Dados,FL10
+Bruno Pereira,DT34151,13601.3,Analista de Dados Sênior,22,18-24,Masculino,29/04/2024,Ativo,Análise de Dados,FL02
+Rodrigo Machado,DT97500,11658.01,Gerente de Contas,22,18-24,Masculino,21/03/2016,Ativo,Vendas e Parcerias,FL01
+Patrícia Moreira,DT53601,17800.23,Engenheiro de Dados Sênior,34,25-34,Feminino,28/12/2013,Ativo,Engenharia de Dados,FL07
+Pedro Martins,DT89993,9259.19,Analista de BI Pleno,24,18-24,Masculino,24/03/2013,Ativo,Business Intelligence,FL01
+Aline Carvalho,DT94323,23150.1,Arquiteto de Dados,24,18-24,Feminino,13/10/2010,Ativo,Engenharia de Dados,FL05
+Isabela Sousa,DT68442,19467.55,Arquiteto de Dados,58,55+,Feminino,08/01/2010,Inativo,Engenharia de Dados,FL07
+Vitor Moreira,DT44922,19475.4,Cientista de Dados Sênior,54,45-54,Masculino,31/01/2010,Ativo,Ciência de Dados,FL01
+Leandro Ramos,DT72670,21064.29,Gerente de BI,22,18-24,Masculino,11/02/2022,Ativo,Business Intelligence,FL02
+Patrícia Cardoso,DT25886,16333.92,Product Manager Sênior,37,35-44,Feminino,26/12/2018,Ativo,Produto,FL05
+Bruna Ferreira,DT57887,13402.28,Engenheiro Cloud Sênior,47,45-54,Feminino,03/07/2016,Ativo,Infraestrutura e Cloud,FL05
+Bruno Oliveira,DT60353,6896.61,Analista de RH Pleno,42,35-44,Masculino,24/05/2012,Ativo,Recursos Humanos,FL01
+Leonardo Ramos,DT21123,17676.62,Gerente de RH,26,25-34,Masculino,20/10/2010,Ativo,Recursos Humanos,FL01
+Elisa Lopes,DT74124,9378.22,Engenheiro de ML Júnior,59,55+,Feminino,25/11/2016,Ativo,Machine Learning,FL10
+Caio Mendes,DT12151,13752.25,Engenheiro de Dados Sênior,20,18-24,Masculino,04/02/2019,Ativo,Engenharia de Dados,FL01
+Fábio Araújo,DT70079,9593.68,Analista Financeiro Pleno,32,25-34,Masculino,14/08/2011,Ativo,Financeiro,FL03
+Mariana Ramos,DT95699,24396.66,Arquiteto de Dados,57,55+,Feminino,11/01/2011,Ativo,Engenharia de Dados,FL04
+Paulo Lima,DT11882,8713.99,Cientista de Dados Júnior,24,18-24,Masculino,26/03/2020,Ativo,Ciência de Dados,FL01
+Luana Rodrigues,DT23937,24367.35,Lead de Ciência de Dados,57,55+,Feminino,12/12/2014,Ativo,Ciência de Dados,FL10
+Larissa Machado,DT54216,18593.88,Diretor Comercial,61,55+,Feminino,02/12/2022,Ativo,Vendas e Parcerias,FL03
+Gustavo Carvalho,DT15975,11009.77,Product Manager Pleno,25,25-34,Masculino,22/02/2016,Ativo,Produto,FL02
+Eduardo Costa,DT58487,11473.98,Product Manager Pleno,55,55+,Masculino,30/11/2010,Ativo,Produto,FL01
+Fábio Moreira,DT30677,19024.7,Arquiteto de Dados,18,18-24,Masculino,09/01/2014,Inativo,Engenharia de Dados,FL01
+Cláudia Vieira,DT64555,20154.15,Gerente Financeiro,31,25-34,Feminino,18/03/2013,Ativo,Financeiro,FL08
+Priscila Mendes,DT64005,9636.88,Analista de Dados Pleno,20,18-24,Feminino,17/05/2023,Ativo,Análise de Dados,FL05
+Pedro Ferreira,DT92207,13384.54,Analista de Dados Sênior,53,45-54,Masculino,15/04/2015,Ativo,Análise de Dados,FL01
+Priscila Alves,DT91123,12588.97,Engenheiro de ML Pleno,58,55+,Feminino,15/10/2024,Ativo,Machine Learning,FL06
+Gabriel Martins,DT24769,23733.85,Lead de Ciência de Dados,28,25-34,Masculino,11/01/2025,Ativo,Ciência de Dados,FL01
+Fernanda Andrade,DT47363,22133.98,Lead de Ciência de Dados,57,55+,Feminino,01/03/2020,Ativo,Ciência de Dados,FL09
+Elisa Souza,DT80432,13034.71,Cientista de Dados Pleno,49,45-54,Feminino,20/07/2021,Ativo,Ciência de Dados,FL06
+Roberta Lopes,DT68303,16804.86,Product Manager Sênior,61,55+,Feminino,22/04/2017,Ativo,Produto,FL04
+Camila Rocha,DT39855,11950.99,Engenheiro de Dados Pleno,30,25-34,Feminino,04/06/2018,Inativo,Engenharia de Dados,FL08
+Matheus Cardoso,DT86689,7671.47,Engenheiro Cloud Júnior,27,25-34,Masculino,06/11/2014,Inativo,Infraestrutura e Cloud,FL01
+Carlos Ribeiro,DT60768,12559.83,Engenheiro de ML Pleno,30,25-34,Masculino,05/03/2024,Ativo,Machine Learning,FL01
+Rodrigo Martins,DT54025,8076.63,Cientista de Dados Júnior,21,18-24,Masculino,17/04/2016,Ativo,Ciência de Dados,FL02
+Julio Freitas,DT70106,9661.19,Analista de BI Pleno,32,25-34,Masculino,14/08/2016,Ativo,Business Intelligence,FL02
+Fábio Costa,DT85775,9889.13,Product Manager Pleno,51,45-54,Masculino,21/12/2020,Inativo,Produto,FL01
+Diego Cardoso,DT70655,6325.04,Analista de Dados Júnior,33,25-34,Masculino,24/07/2015,Ativo,Análise de Dados,FL01
+Isabela Almeida,DT29525,7253.32,Product Manager Júnior,20,18-24,Feminino,25/11/2010,Inativo,Produto,FL04
+Elisa Gonçalves,DT14406,18875.62,Gerente de BI,62,55+,Feminino,13/03/2012,Ativo,Business Intelligence,FL04
+Amanda Ferreira,DT83202,5324.95,Analista Comercial Júnior,44,35-44,Feminino,21/11/2014,Ativo,Vendas e Parcerias,FL04
+Anderson Lopes,DT94887,6939.35,Engenheiro de Dados Júnior,37,35-44,Masculino,18/08/2013,Ativo,Engenharia de Dados,FL01
+Julio Santos,DT69616,10059.7,Analista de BI Pleno,43,35-44,Masculino,24/02/2014,Ativo,Business Intelligence,FL02
+Leonardo Freitas,DT93021,6654.64,Engenheiro de Dados Júnior,62,55+,Masculino,20/06/2017,Ativo,Engenharia de Dados,FL02
+Gabriela Machado,DT45361,9756.92,Analista Financeiro Pleno,23,18-24,Feminino,01/12/2023,Inativo,Financeiro,FL05
+Renato Souza,DT77467,14551.91,Analista Financeiro Sênior,25,25-34,Masculino,04/08/2018,Ativo,Financeiro,FL02
+Marcelo Oliveira,DT57916,13416.78,Engenheiro de ML Pleno,22,18-24,Masculino,30/07/2022,Ativo,Machine Learning,FL02
+Larissa Lima,DT53899,6122.6,Analista de Dados Júnior,55,55+,Feminino,15/09/2014,Ativo,Análise de Dados,FL04
+Sabrina Almeida,DT52003,18269.61,Engenheiro de ML Sênior,45,45-54,Feminino,20/03/2016,Ativo,Machine Learning,FL09
+Leonardo Nascimento,DT69298,6410.49,Engenheiro Cloud Júnior,52,45-54,Masculino,19/03/2025,Ativo,Infraestrutura e Cloud,FL01
+André Vieira,DT69241,12299.66,Analista de RH Sênior,62,55+,Masculino,22/06/2011,Ativo,Recursos Humanos,FL01
+André Freitas,DT21443,24336.65,Arquiteto de Dados,36,35-44,Masculino,23/09/2011,Ativo,Engenharia de Dados,FL02
+Letícia Pereira,DT29392,11999.97,Engenheiro Cloud Pleno,51,45-54,Feminino,26/01/2024,Ativo,Infraestrutura e Cloud,FL04
+Eduardo Monteiro,DT27305,15100.65,Engenheiro Cloud Sênior,59,55+,Masculino,25/06/2010,Ativo,Infraestrutura e Cloud,FL01
+Matheus Santos,DT40451,15058.46,Engenheiro Cloud Sênior,39,35-44,Masculino,15/09/2024,Ativo,Infraestrutura e Cloud,FL02
+Tatiana Ramos,DT87772,18748.04,Gerente Financeiro,54,45-54,Feminino,16/12/2012,Inativo,Financeiro,FL03
+Gabriela Costa,DT44079,19231.41,Gerente de Análise de Dados,36,35-44,Feminino,23/01/2011,Ativo,Análise de Dados,FL03
+Anderson Freitas,DT31805,8135.44,Analista de RH Pleno,36,35-44,Masculino,02/02/2014,Inativo,Recursos Humanos,FL01
+Luana Gomes,DT31135,4602.88,Analista de Dados Júnior,38,35-44,Feminino,20/11/2022,Ativo,Análise de Dados,FL05
+Rodrigo Andrade,DT34182,7996.66,Cientista de Dados Júnior,40,35-44,Masculino,26/04/2013,Ativo,Ciência de Dados,FL01
+Lívia Costa,DT79945,6801.08,Analista de Dados Júnior,43,35-44,Feminino,15/03/2021,Ativo,Análise de Dados,FL05
+Renata Rocha,DT30454,16412.6,Engenheiro de Dados Sênior,36,35-44,Feminino,18/08/2020,Inativo,Engenharia de Dados,FL04
+Leandro Gomes,DT84086,18709.48,Diretor Comercial,25,25-34,Masculino,28/09/2020,Inativo,Vendas e Parcerias,FL01
+Felipe Pereira,DT50380,22513.89,Arquiteto de Dados,32,25-34,Masculino,02/01/2020,Ativo,Engenharia de Dados,FL01
+Gustavo Souza,DT89711,7750.29,Analista de RH Pleno,32,25-34,Masculino,26/03/2016,Ativo,Recursos Humanos,FL03
+Juliana Monteiro,DT68387,6439.6,Analista Financeiro Júnior,43,35-44,Feminino,12/05/2014,Ativo,Financeiro,FL05
+Marcelo Gonçalves,DT17346,12590.23,Analista Financeiro Sênior,45,45-54,Masculino,17/04/2018,Ativo,Financeiro,FL02
+Ana Vieira,DT55209,20876.38,Engenheiro de ML Sênior,53,45-54,Feminino,19/12/2011,Ativo,Machine Learning,FL07
+André Mendes,DT64474,11737.06,Analista de BI Sênior,45,45-54,Masculino,17/04/2019,Ativo,Business Intelligence,FL01
+Isabela Ferreira,DT28827,17110.37,Cientista de Dados Sênior,51,45-54,Feminino,10/07/2017,Ativo,Ciência de Dados,FL07
+Fernando Moreira,DT21593,22652.24,Arquiteto de Dados,35,35-44,Masculino,19/04/2019,Ativo,Engenharia de Dados,FL01
+Renata Lima,DT36117,22381.51,Lead de Ciência de Dados,49,45-54,Feminino,12/12/2010,Inativo,Ciência de Dados,FL04
+Gabriela Barbosa,DT74762,22571.64,Head de Produto,18,18-24,Feminino,15/06/2013,Ativo,Produto,FL05
+Paulo Cardoso,DT26276,10960.05,Analista de RH Sênior,49,45-54,Masculino,18/06/2024,Ativo,Recursos Humanos,FL01
+Rafael Fernandes,DT74625,16114.8,Engenheiro de Dados Sênior,54,45-54,Masculino,13/10/2019,Inativo,Engenharia de Dados,FL01
+Bruna Cardoso,DT25674,9535.84,Engenheiro de ML Júnior,28,25-34,Feminino,17/01/2023,Ativo,Machine Learning,FL09
+Tatiana Freitas,DT27759,10738.0,Engenheiro de ML Pleno,41,35-44,Feminino,30/05/2019,Ativo,Machine Learning,FL05
+Leonardo Souza,DT47992,5784.67,Analista de Dados Júnior,58,55+,Masculino,10/02/2014,Ativo,Análise de Dados,FL01
+Natália Costa,DT81265,20047.52,Engenheiro de ML Sênior,61,55+,Feminino,02/10/2016,Ativo,Machine Learning,FL03
+Cláudia Andrade,DT22561,17116.57,Engenheiro Cloud Sênior,18,18-24,Feminino,26/01/2013,Ativo,Infraestrutura e Cloud,FL03
+Leonardo Ramos,DT64000,10960.88,Engenheiro de ML Pleno,27,25-34,Masculino,16/04/2021,Ativo,Machine Learning,FL01
+Diego Araújo,DT79742,5043.37,Analista Financeiro Júnior,22,18-24,Masculino,12/08/2012,Ativo,Financeiro,FL02
+Cristina Santos,DT72851,19300.78,Engenheiro de ML Sênior,26,25-34,Feminino,30/11/2019,Inativo,Machine Learning,FL06
+Marcelo Araújo,DT54832,14658.18,Cientista de Dados Sênior,25,25-34,Masculino,27/12/2014,Ativo,Ciência de Dados,FL01
+Ricardo Gomes,DT39697,11444.28,Engenheiro de ML Pleno,23,18-24,Masculino,13/07/2019,Ativo,Machine Learning,FL01
+Fábio Pereira,DT20188,23422.67,Arquiteto de Dados,20,18-24,Masculino,28/05/2014,Ativo,Engenharia de Dados,FL01
+Fábio Gonçalves,DT87748,19272.99,Arquiteto de Dados,34,25-34,Masculino,21/12/2010,Ativo,Engenharia de Dados,FL02
+Vitor Silva,DT22648,12144.21,Cientista de Dados Pleno,30,25-34,Masculino,22/02/2014,Ativo,Ciência de Dados,FL03
+Lucas Ferreira,DT29078,14769.56,Gerente de Contas,40,35-44,Masculino,25/11/2017,Ativo,Vendas e Parcerias,FL02
+Priscila Lopes,DT76179,6297.32,Product Manager Júnior,55,55+,Feminino,25/04/2010,Ativo,Produto,FL06
+Cláudia Martins,DT46943,8920.74,Cientista de Dados Júnior,24,18-24,Feminino,20/10/2014,Inativo,Ciência de Dados,FL09
+Monique Cardoso,DT58033,8538.83,Analista Financeiro Pleno,24,18-24,Feminino,21/01/2014,Inativo,Financeiro,FL04
+Patrícia Machado,DT38085,10130.31,Engenheiro Cloud Pleno,38,35-44,Feminino,09/10/2012,Ativo,Infraestrutura e Cloud,FL06
+Daniel Lima,DT74987,13671.29,Gerente de Contas,53,45-54,Masculino,29/11/2010,Ativo,Vendas e Parcerias,FL02
+Carla Pereira,DT60434,20602.34,Gerente de Análise de Dados,37,35-44,Feminino,16/12/2019,Ativo,Análise de Dados,FL05
+Eduardo Vieira,DT66093,8684.26,Cientista de Dados Júnior,48,45-54,Masculino,26/03/2025,Ativo,Ciência de Dados,FL01
+Ana Ramos,DT23785,19135.97,Gerente de BI,61,55+,Feminino,28/11/2011,Ativo,Business Intelligence,FL04
+Patrícia Nunes,DT87405,9258.84,Engenheiro de Dados Pleno,30,25-34,Feminino,06/08/2017,Ativo,Engenharia de Dados,FL08
+Monique Nunes,DT26090,21351.2,Gerente de Análise de Dados,35,35-44,Feminino,20/01/2023,Ativo,Análise de Dados,FL05
+Sabrina Nunes,DT56674,25912.66,Arquiteto Cloud,50,45-54,Feminino,03/04/2016,Ativo,Infraestrutura e Cloud,FL07
+Carlos Alves,DT26015,19983.64,Gerente de Análise de Dados,58,55+,Masculino,07/01/2013,Ativo,Análise de Dados,FL02
+Elisa Souza,DT18942,7916.22,Engenheiro Cloud Júnior,42,35-44,Feminino,24/07/2023,Ativo,Infraestrutura e Cloud,FL04
+Felipe Barbosa,DT91522,5020.34,Analista de RH Júnior,60,55+,Masculino,30/08/2021,Ativo,Recursos Humanos,FL03
+Vitória Freitas,DT36467,19941.5,Gerente de Análise de Dados,34,25-34,Feminino,02/03/2022,Ativo,Análise de Dados,FL07
+Julio Monteiro,DT81646,8472.13,Engenheiro de Dados Júnior,25,25-34,Masculino,09/08/2018,Ativo,Engenharia de Dados,FL01
+Monique Moreira,DT68006,4082.15,Analista de BI Júnior,53,45-54,Feminino,15/10/2024,Ativo,Business Intelligence,FL03
+Anderson Costa,DT74419,8093.61,Analista de BI Pleno,42,35-44,Masculino,07/12/2020,Ativo,Business Intelligence,FL02
+Isabela Ramos,DT96517,24331.38,Head de Produto,28,25-34,Feminino,13/05/2021,Ativo,Produto,FL04
+Rodrigo Ramos,DT87469,19715.59,Engenheiro de ML Sênior,36,35-44,Masculino,10/03/2017,Ativo,Machine Learning,FL01
+Fernando Oliveira,DT26803,19952.54,Engenheiro de ML Sênior,55,55+,Masculino,09/08/2010,Ativo,Machine Learning,FL01
+Paulo Dias,DT59882,20743.43,Arquiteto de Dados,40,35-44,Masculino,29/03/2019,Ativo,Engenharia de Dados,FL03
+Vitor Lopes,DT42455,14166.39,Analista de Dados Sênior,62,55+,Masculino,21/06/2011,Inativo,Análise de Dados,FL01
+Rafael Dias,DT32253,13668.2,Engenheiro de Dados Sênior,60,55+,Masculino,23/06/2019,Ativo,Engenharia de Dados,FL02
+Roberta Marques,DT44946,22321.93,Arquiteto de Dados,38,35-44,Feminino,22/06/2018,Ativo,Engenharia de Dados,FL05
+Gustavo Alves,DT74010,10343.87,Engenheiro de Dados Pleno,50,45-54,Masculino,20/12/2024,Ativo,Engenharia de Dados,FL01
+Natália Barbosa,DT57622,8739.33,Analista de BI Pleno,22,18-24,Feminino,07/01/2022,Ativo,Business Intelligence,FL08
+Letícia Souza,DT48970,26632.22,Head de Produto,57,55+,Feminino,24/01/2012,Ativo,Produto,FL07
+Fernando Alves,DT87576,15869.98,Engenheiro de ML Sênior,51,45-54,Masculino,29/08/2020,Ativo,Machine Learning,FL01
+Leonardo Rodrigues,DT95398,13448.1,Analista de Dados Sênior,52,45-54,Masculino,10/01/2017,Ativo,Análise de Dados,FL01
+Henrique Sousa,DT91915,23700.92,Arquiteto Cloud,53,45-54,Masculino,19/01/2014,Inativo,Infraestrutura e Cloud,FL01
+Paulo Araújo,DT34450,22490.67,Head de Produto,47,45-54,Masculino,04/01/2016,Inativo,Produto,FL02
+Alexandre Machado,DT84202,4948.99,Analista Comercial Júnior,41,35-44,Masculino,16/05/2020,Ativo,Vendas e Parcerias,FL02
+Mariana Barbosa,DT67067,14870.84,Analista de BI Sênior,22,18-24,Feminino,21/03/2024,Ativo,Business Intelligence,FL06
+Eduardo Fernandes,DT47623,6769.34,Analista de RH Pleno,56,55+,Masculino,19/04/2015,Ativo,Recursos Humanos,FL01
+Rafael Gomes,DT35154,12188.18,Engenheiro de Dados Pleno,37,35-44,Masculino,30/05/2020,Ativo,Engenharia de Dados,FL03
+Eduardo Machado,DT94793,9637.43,Engenheiro de Dados Pleno,26,25-34,Masculino,27/08/2010,Ativo,Engenharia de Dados,FL02
+Vitória Fernandes,DT96333,12399.32,Product Manager Pleno,20,18-24,Feminino,24/11/2020,Ativo,Produto,FL04
+Gabriel Ferreira,DT51144,19269.44,Product Manager Sênior,44,35-44,Masculino,25/02/2018,Ativo,Produto,FL01
+André Ferreira,DT62021,7826.14,Analista Financeiro Pleno,54,45-54,Masculino,22/03/2021,Inativo,Financeiro,FL03
+Daniel Araújo,DT43004,5714.23,Engenheiro Cloud Júnior,25,25-34,Masculino,11/01/2017,Ativo,Infraestrutura e Cloud,FL03
+Fernando Moreira,DT40924,7504.97,Analista de BI Pleno,29,25-34,Masculino,20/10/2014,Inativo,Business Intelligence,FL01
+Renata Marques,DT43332,7471.08,Product Manager Júnior,41,35-44,Feminino,14/07/2012,Ativo,Produto,FL06
+Eduardo Cardoso,DT99487,15457.45,Analista de Dados Sênior,27,25-34,Masculino,21/02/2018,Ativo,Análise de Dados,FL02
+Vanessa Barbosa,DT12762,5182.95,Analista de RH Júnior,60,55+,Feminino,24/03/2011,Ativo,Recursos Humanos,FL06
+Vitória Lopes,DT43158,23164.88,Head de Produto,62,55+,Feminino,20/02/2018,Inativo,Produto,FL09
+Daniela Pereira,DT80111,19330.83,Gerente de Análise de Dados,43,35-44,Feminino,25/09/2015,Ativo,Análise de Dados,FL07
+Cristina Lopes,DT48983,13621.51,Cientista de Dados Pleno,58,55+,Feminino,11/02/2017,Inativo,Ciência de Dados,FL06
+Sabrina Marques,DT14440,6557.99,Analista de Dados Júnior,49,45-54,Feminino,26/07/2020,Ativo,Análise de Dados,FL10
+Marcos Dias,DT65360,11793.93,Engenheiro de Dados Pleno,50,45-54,Masculino,28/06/2011,Ativo,Engenharia de Dados,FL02
+Natália Rocha,DT69409,5904.94,Analista Financeiro Júnior,59,55+,Feminino,22/05/2024,Ativo,Financeiro,FL04
+Carlos Lima,DT10403,9199.04,Analista de BI Pleno,38,35-44,Masculino,01/12/2022,Ativo,Business Intelligence,FL01
+Bruno Lopes,DT95089,9464.36,Analista Comercial Pleno,61,55+,Masculino,16/03/2019,Ativo,Vendas e Parcerias,FL03
+Gustavo Mendes,DT72700,7412.38,Analista Comercial Pleno,61,55+,Masculino,21/04/2023,Inativo,Vendas e Parcerias,FL01
+Vitória Vieira,DT36039,20889.4,Arquiteto de Dados,43,35-44,Feminino,19/06/2018,Inativo,Engenharia de Dados,FL05
+André Almeida,DT12717,12627.38,Engenheiro de Dados Pleno,47,45-54,Masculino,13/06/2014,Ativo,Engenharia de Dados,FL03
+Monique Costa,DT16525,19602.36,Gerente de BI,27,25-34,Feminino,31/12/2011,Inativo,Business Intelligence,FL08
+Beatriz Pereira,DT11850,20640.16,Gerente Financeiro,47,45-54,Feminino,09/02/2025,Ativo,Financeiro,FL05
+Amanda Carvalho,DT34975,14858.99,Analista de Dados Sênior,42,35-44,Feminino,02/12/2012,Ativo,Análise de Dados,FL05
+Diego Carvalho,DT47089,7964.16,Analista Comercial Pleno,44,35-44,Masculino,10/04/2013,Ativo,Vendas e Parcerias,FL01
+Letícia Lopes,DT90960,8293.73,Analista de BI Pleno,61,55+,Feminino,08/07/2024,Ativo,Business Intelligence,FL08
+Lucas Cardoso,DT27459,27494.82,Especialista em IA,42,35-44,Masculino,30/06/2019,Ativo,Machine Learning,FL01
+Rodrigo Rodrigues,DT22488,6156.34,Product Manager Júnior,33,25-34,Masculino,24/07/2020,Inativo,Produto,FL02
+Natália Oliveira,DT10702,18815.04,Gerente de Análise de Dados,43,35-44,Feminino,20/01/2025,Ativo,Análise de Dados,FL08
+Roberta Oliveira,DT86085,15434.27,Cientista de Dados Sênior,49,45-54,Feminino,10/08/2017,Inativo,Ciência de Dados,FL10
+Mariana Ferreira,DT51591,16850.77,Gerente Financeiro,25,25-34,Feminino,10/01/2017,Ativo,Financeiro,FL09
+Mariana Ramos,DT46831,14668.07,Gerente de Contas,36,35-44,Feminino,27/11/2015,Ativo,Vendas e Parcerias,FL04
+Sabrina Sousa,DT77760,29141.37,Especialista em IA,38,35-44,Feminino,07/01/2021,Ativo,Machine Learning,FL05
+Mariana Mendes,DT16975,9745.55,Cientista de Dados Pleno,29,25-34,Feminino,21/10/2010,Ativo,Ciência de Dados,FL07
+Beatriz Freitas,DT67203,20765.15,Lead de Ciência de Dados,40,35-44,Feminino,31/07/2022,Ativo,Ciência de Dados,FL05
+Carla Pereira,DT29405,15014.68,Cientista de Dados Sênior,36,35-44,Feminino,19/01/2014,Inativo,Ciência de Dados,FL08
+Elisa Gonçalves,DT45755,12125.96,Product Manager Pleno,18,18-24,Feminino,19/10/2021,Ativo,Produto,FL04
+Bruno Marques,DT20070,21061.45,Gerente de Análise de Dados,39,35-44,Masculino,01/08/2010,Ativo,Análise de Dados,FL01
+Daniela Pereira,DT61664,9510.93,Engenheiro de ML Júnior,27,25-34,Feminino,25/08/2010,Ativo,Machine Learning,FL05
+Luana Cardoso,DT69513,11579.71,Analista de RH Sênior,18,18-24,Feminino,22/05/2017,Inativo,Recursos Humanos,FL06
+Paulo Mendes,DT52587,7239.78,Analista Comercial Pleno,21,18-24,Masculino,08/06/2024,Ativo,Vendas e Parcerias,FL01
+Vitória Souza,DT19269,21647.86,Head de Produto,34,25-34,Feminino,29/12/2013,Ativo,Produto,FL03
+Leandro Nunes,DT21690,9651.76,Engenheiro de Dados Pleno,43,35-44,Masculino,23/05/2016,Ativo,Engenharia de Dados,FL01
+Paulo Gomes,DT25807,21806.6,Gerente de Análise de Dados,37,35-44,Masculino,15/07/2023,Ativo,Análise de Dados,FL03
+Vitor Alves,DT58163,10458.49,Engenheiro Cloud Pleno,42,35-44,Masculino,07/09/2020,Ativo,Infraestrutura e Cloud,FL02
+Natália Machado,DT21825,22487.95,Diretor Comercial,57,55+,Feminino,07/03/2014,Ativo,Vendas e Parcerias,FL09
+Eduardo Ferreira,DT15300,17866.36,Engenheiro Cloud Sênior,61,55+,Masculino,11/01/2015,Ativo,Infraestrutura e Cloud,FL02
+Ricardo Gomes,DT74922,5872.11,Engenheiro Cloud Júnior,45,45-54,Masculino,11/10/2011,Inativo,Infraestrutura e Cloud,FL02
+Pedro Barbosa,DT29478,19128.46,Cientista de Dados Sênior,51,45-54,Masculino,05/08/2019,Ativo,Ciência de Dados,FL01
+Fernanda Rodrigues,DT15910,6531.95,Engenheiro Cloud Júnior,44,35-44,Feminino,14/02/2012,Ativo,Infraestrutura e Cloud,FL04
+Elisa Sousa,DT56590,6421.62,Analista de Dados Júnior,19,18-24,Feminino,22/07/2012,Ativo,Análise de Dados,FL09
+Renata Ribeiro,DT33882,4208.23,Analista de BI Júnior,37,35-44,Feminino,15/01/2017,Ativo,Business Intelligence,FL04
+Renata Mendes,DT91764,15850.24,Analista de Dados Sênior,29,25-34,Feminino,26/09/2014,Ativo,Análise de Dados,FL06
+Elisa Sousa,DT98265,21973.44,Arquiteto de Dados,18,18-24,Feminino,10/11/2018,Ativo,Engenharia de Dados,FL09
+Beatriz Cardoso,DT70314,21212.68,Gerente Financeiro,56,55+,Feminino,01/12/2020,Ativo,Financeiro,FL04
+Caio Andrade,DT98316,20827.84,Gerente Financeiro,23,18-24,Masculino,21/10/2012,Ativo,Financeiro,FL01
+Diego Pereira,DT12082,10006.54,Analista Financeiro Pleno,31,25-34,Masculino,16/10/2020,Ativo,Financeiro,FL01
+Paulo Lopes,DT67119,6258.28,Analista de RH Pleno,47,45-54,Masculino,28/04/2013,Ativo,Recursos Humanos,FL01
+Ana Pereira,DT31771,26765.13,Lead de Ciência de Dados,48,45-54,Feminino,10/06/2010,Inativo,Ciência de Dados,FL05
+Fernando Lopes,DT36389,17305.53,Gerente de Análise de Dados,18,18-24,Masculino,21/04/2012,Ativo,Análise de Dados,FL01
+Ricardo Machado,DT64484,13185.09,Engenheiro Cloud Sênior,43,35-44,Masculino,26/11/2020,Ativo,Infraestrutura e Cloud,FL03
+Renato Ramos,DT40396,5320.77,Analista Financeiro Júnior,45,45-54,Masculino,05/12/2022,Ativo,Financeiro,FL03
+Matheus Fernandes,DT94974,16701.64,Gerente de BI,57,55+,Masculino,29/06/2024,Ativo,Business Intelligence,FL01
+Cláudia Machado,DT12727,18494.15,Cientista de Dados Sênior,48,45-54,Feminino,17/09/2017,Ativo,Ciência de Dados,FL07
+Priscila Almeida,DT87025,14686.94,Analista Financeiro Sênior,60,55+,Feminino,04/07/2020,Ativo,Financeiro,FL08
+Anderson Moreira,DT64638,14183.89,Analista Financeiro Sênior,28,25-34,Masculino,13/12/2023,Ativo,Financeiro,FL02
+Cláudia Ferreira,DT97432,9193.16,Engenheiro Cloud Pleno,28,25-34,Feminino,03/08/2023,Ativo,Infraestrutura e Cloud,FL03
+Fábio Marques,DT74713,8233.02,Analista de Dados Pleno,21,18-24,Masculino,29/05/2010,Ativo,Análise de Dados,FL02
+Letícia Nascimento,DT98726,13225.77,Cientista de Dados Pleno,50,45-54,Feminino,19/09/2010,Ativo,Ciência de Dados,FL03
+Tatiana Machado,DT24938,6362.06,Analista de RH Pleno,32,25-34,Feminino,28/11/2020,Ativo,Recursos Humanos,FL05
+Gustavo Nascimento,DT16117,14533.43,Gerente de Contas,62,55+,Masculino,24/07/2021,Ativo,Vendas e Parcerias,FL01
+Rafael Souza,DT67386,6436.65,Analista de BI Júnior,57,55+,Masculino,04/09/2023,Ativo,Business Intelligence,FL03
+Camila Oliveira,DT76493,11519.7,Engenheiro de Dados Pleno,31,25-34,Feminino,10/02/2018,Ativo,Engenharia de Dados,FL09
+Gabriela Mendes,DT76308,5462.89,Engenheiro Cloud Júnior,41,35-44,Feminino,04/07/2017,Ativo,Infraestrutura e Cloud,FL05
+Rafael Martins,DT67554,4613.29,Analista de BI Júnior,48,45-54,Masculino,28/08/2017,Ativo,Business Intelligence,FL01
+Beatriz Ferreira,DT44867,24885.15,Especialista em IA,60,55+,Feminino,04/07/2015,Ativo,Machine Learning,FL10
+Leandro Araújo,DT65275,10306.19,Analista de Dados Pleno,44,35-44,Masculino,08/03/2019,Inativo,Análise de Dados,FL01
+Julio Araújo,DT99417,8327.74,Engenheiro de ML Júnior,18,18-24,Masculino,09/08/2021,Inativo,Machine Learning,FL01
+Matheus Dias,DT51262,8519.25,Analista de BI Pleno,43,35-44,Masculino,31/10/2010,Ativo,Business Intelligence,FL02
+Bruna Gomes,DT85308,15386.87,Engenheiro de Dados Sênior,61,55+,Feminino,02/06/2022,Inativo,Engenharia de Dados,FL04
+Renato Rocha,DT55109,17550.94,Engenheiro de Dados Sênior,57,55+,Masculino,18/04/2013,Ativo,Engenharia de Dados,FL02
+Carlos Carvalho,DT81358,17487.35,Gerente de RH,59,55+,Masculino,27/01/2019,Ativo,Recursos Humanos,FL03
+Roberta Barbosa,DT21046,15254.97,Engenheiro de Dados Sênior,26,25-34,Feminino,03/09/2021,Inativo,Engenharia de Dados,FL04
+Anderson Carvalho,DT22166,15606.68,Engenheiro Cloud Sênior,58,55+,Masculino,03/08/2013,Ativo,Infraestrutura e Cloud,FL01
+André Monteiro,DT87660,10412.8,Analista de Dados Pleno,37,35-44,Masculino,26/06/2019,Inativo,Análise de Dados,FL02
+Camila Souza,DT58887,12057.16,Analista de Dados Sênior,59,55+,Feminino,18/10/2012,Ativo,Análise de Dados,FL05
+Isabela Silva,DT69394,14124.24,Engenheiro de ML Pleno,55,55+,Feminino,08/09/2022,Ativo,Machine Learning,FL03
+Paulo Monteiro,DT88059,12846.41,Analista de Dados Sênior,60,55+,Masculino,06/11/2022,Ativo,Análise de Dados,FL01
+Ricardo Moreira,DT78113,6868.29,Analista Comercial Pleno,51,45-54,Masculino,23/01/2023,Ativo,Vendas e Parcerias,FL01
+Leandro Andrade,DT69547,11846.56,Engenheiro de Dados Pleno,44,35-44,Masculino,03/11/2011,Ativo,Engenharia de Dados,FL01
+Eduardo Lima,DT72423,17468.44,Gerente de Análise de Dados,61,55+,Masculino,21/10/2021,Ativo,Análise de Dados,FL02
+Alexandre Araújo,DT61744,20818.77,Gerente de Análise de Dados,46,45-54,Masculino,24/12/2020,Ativo,Análise de Dados,FL02
+Aline Costa,DT28919,10439.06,Engenheiro Cloud Pleno,47,45-54,Feminino,25/11/2012,Inativo,Infraestrutura e Cloud,FL06
+Priscila Araújo,DT25474,8594.01,Analista Financeiro Pleno,20,18-24,Feminino,08/07/2013,Inativo,Financeiro,FL10
+Vanessa Pereira,DT88852,4302.17,Analista de BI Júnior,54,45-54,Feminino,30/06/2016,Ativo,Business Intelligence,FL06
+Felipe Pereira,DT58688,17167.93,Engenheiro de ML Sênior,49,45-54,Masculino,18/08/2010,Ativo,Machine Learning,FL01
+Felipe Marques,DT16376,16685.7,Engenheiro de ML Sênior,49,45-54,Masculino,18/01/2010,Ativo,Machine Learning,FL01
+Vanessa Rodrigues,DT15856,19438.35,Gerente de BI,54,45-54,Feminino,23/02/2020,Inativo,Business Intelligence,FL06
+Vitória Moreira,DT72289,9666.83,Analista Financeiro Pleno,50,45-54,Feminino,10/04/2024,Ativo,Financeiro,FL05
+Renata Mendes,DT29527,10901.92,Gerente de Contas,57,55+,Feminino,26/11/2024,Ativo,Vendas e Parcerias,FL07
+Henrique Almeida,DT61825,9874.24,Engenheiro de ML Júnior,46,45-54,Masculino,22/03/2016,Ativo,Machine Learning,FL02
+Monique Costa,DT13251,17585.74,Product Manager Sênior,25,25-34,Feminino,10/06/2024,Ativo,Produto,FL04
+Diego Monteiro,DT16930,12877.51,Product Manager Pleno,50,45-54,Masculino,02/06/2010,Ativo,Produto,FL01
+Cristina Monteiro,DT33559,17040.41,Engenheiro de Dados Sênior,33,25-34,Feminino,31/12/2022,Ativo,Engenharia de Dados,FL03
+Vitória Monteiro,DT89541,26711.14,Especialista em IA,49,45-54,Feminino,10/07/2010,Ativo,Machine Learning,FL04
+Beatriz Marques,DT13153,14910.05,Engenheiro Cloud Sênior,23,18-24,Feminino,28/07/2012,Inativo,Infraestrutura e Cloud,FL04
+Alexandre Costa,DT47401,10650.0,Cientista de Dados Pleno,23,18-24,Masculino,17/06/2013,Ativo,Ciência de Dados,FL01
+Eduardo Costa,DT17721,10135.1,Analista de RH Sênior,21,18-24,Masculino,07/09/2016,Ativo,Recursos Humanos,FL02
+Gustavo Gomes,DT64109,17565.32,Engenheiro de ML Sênior,25,25-34,Masculino,01/03/2011,Ativo,Machine Learning,FL02
+Leandro Lopes,DT74615,25645.5,Arquiteto Cloud,35,35-44,Masculino,12/05/2011,Ativo,Infraestrutura e Cloud,FL01
+Lívia Marques,DT18579,6222.48,Engenheiro Cloud Júnior,32,25-34,Feminino,02/06/2010,Ativo,Infraestrutura e Cloud,FL10
+Isabela Alves,DT42285,7566.14,Analista Comercial Pleno,44,35-44,Feminino,02/01/2020,Ativo,Vendas e Parcerias,FL05
+Paulo Gonçalves,DT36667,17472.42,Cientista de Dados Sênior,28,25-34,Masculino,02/07/2015,Ativo,Ciência de Dados,FL03
+Eduardo Mendes,DT15477,24747.24,Arquiteto de Dados,57,55+,Masculino,27/06/2016,Ativo,Engenharia de Dados,FL01
+Beatriz Silva,DT17887,15989.34,Engenheiro Cloud Sênior,61,55+,Feminino,12/07/2018,Inativo,Infraestrutura e Cloud,FL08
+Luana Carvalho,DT86697,13227.42,Engenheiro Cloud Sênior,52,45-54,Feminino,18/08/2022,Ativo,Infraestrutura e Cloud,FL04
+Matheus Nunes,DT26118,19330.54,Cientista de Dados Sênior,31,25-34,Masculino,10/09/2023,Ativo,Ciência de Dados,FL01
+Vitória Rocha,DT99404,20888.02,Engenheiro de ML Sênior,46,45-54,Feminino,15/02/2016,Ativo,Machine Learning,FL04
+Tatiana Dias,DT37606,11071.44,Analista de BI Sênior,62,55+,Feminino,31/12/2012,Ativo,Business Intelligence,FL04
+Ana Cardoso,DT10560,10652.65,Engenheiro de Dados Pleno,62,55+,Feminino,19/12/2020,Ativo,Engenharia de Dados,FL09
+Alexandre Ferreira,DT95078,4577.3,Analista de RH Júnior,60,55+,Masculino,26/12/2019,Ativo,Recursos Humanos,FL01
+Vanessa Moreira,DT88815,23417.49,Especialista em IA,62,55+,Feminino,11/03/2010,Ativo,Machine Learning,FL04
+Leonardo Martins,DT68271,11972.58,Engenheiro de Dados Pleno,35,35-44,Masculino,10/01/2018,Ativo,Engenharia de Dados,FL01
+Caio Barbosa,DT38986,22803.78,Gerente de Análise de Dados,20,18-24,Masculino,18/04/2016,Ativo,Análise de Dados,FL02
+Ricardo Carvalho,DT10935,21221.15,Lead de Ciência de Dados,35,35-44,Masculino,07/10/2022,Ativo,Ciência de Dados,FL02
+Bruno Martins,DT96486,6728.76,Analista Comercial Pleno,26,25-34,Masculino,17/06/2011,Ativo,Vendas e Parcerias,FL01
+Marcos Almeida,DT78561,11363.33,Gerente de Contas,61,55+,Masculino,09/07/2010,Inativo,Vendas e Parcerias,FL02
+Cláudia Monteiro,DT90538,17011.73,Gerente de Análise de Dados,45,45-54,Feminino,17/05/2024,Ativo,Análise de Dados,FL07
+Bruna Souza,DT52336,17644.21,Gerente de BI,61,55+,Feminino,16/08/2021,Ativo,Business Intelligence,FL04
+Leonardo Araújo,DT15697,7164.38,Analista Financeiro Pleno,44,35-44,Masculino,10/12/2021,Ativo,Financeiro,FL02
+Ana Nunes,DT35507,9640.3,Engenheiro de ML Júnior,19,18-24,Feminino,23/01/2015,Inativo,Machine Learning,FL09
+Aline Rodrigues,DT42765,10981.51,Cientista de Dados Pleno,22,18-24,Feminino,16/01/2024,Ativo,Ciência de Dados,FL09
+Lucas Cardoso,DT66616,17282.28,Engenheiro de Dados Sênior,33,25-34,Masculino,02/06/2012,Ativo,Engenharia de Dados,FL01
+Tatiana Souza,DT53724,12274.19,Engenheiro Cloud Pleno,56,55+,Feminino,24/11/2023,Ativo,Infraestrutura e Cloud,FL07
+Camila Mendes,DT85882,8923.58,Cientista de Dados Júnior,20,18-24,Feminino,19/06/2018,Ativo,Ciência de Dados,FL09
+Monique Rodrigues,DT26716,18856.13,Arquiteto de Dados,57,55+,Feminino,17/01/2024,Ativo,Engenharia de Dados,FL07
+Rafael Souza,DT83303,17324.68,Engenheiro de Dados Sênior,43,35-44,Masculino,25/02/2012,Ativo,Engenharia de Dados,FL01
+Eduardo Almeida,DT88587,4406.82,Analista de RH Júnior,47,45-54,Masculino,09/08/2019,Inativo,Recursos Humanos,FL01
+Natália Alves,DT54514,4408.15,Analista de RH Júnior,39,35-44,Feminino,09/03/2023,Ativo,Recursos Humanos,FL06
+Rafael Silva,DT88010,5482.22,Analista Financeiro Júnior,30,25-34,Masculino,09/11/2022,Ativo,Financeiro,FL01
+Priscila Sousa,DT56581,20347.74,Gerente de BI,46,45-54,Feminino,04/03/2014,Ativo,Business Intelligence,FL04
+Fábio Oliveira,DT17928,17714.87,Cientista de Dados Sênior,50,45-54,Masculino,13/08/2024,Ativo,Ciência de Dados,FL01
+Anderson Monteiro,DT29087,22506.38,Lead de Ciência de Dados,39,35-44,Masculino,12/07/2016,Ativo,Ciência de Dados,FL01
+Ana Araújo,DT86865,6171.95,Analista de RH Pleno,50,45-54,Feminino,20/07/2022,Inativo,Recursos Humanos,FL05
+Eduardo Nascimento,DT35612,13033.69,Cientista de Dados Pleno,39,35-44,Masculino,01/04/2014,Ativo,Ciência de Dados,FL01
+Cláudia Freitas,DT88612,14408.03,Analista Financeiro Sênior,54,45-54,Feminino,12/07/2017,Ativo,Financeiro,FL03
+Eduardo Dias,DT31270,24194.69,Arquiteto de Dados,20,18-24,Masculino,14/02/2021,Ativo,Engenharia de Dados,FL02
+Ana Almeida,DT40182,7836.57,Analista de BI Pleno,39,35-44,Feminino,07/06/2018,Ativo,Business Intelligence,FL07
+Beatriz Silva,DT57555,6573.66,Engenheiro de Dados Júnior,53,45-54,Feminino,01/08/2012,Ativo,Engenharia de Dados,FL08
+Renata Martins,DT92750,14741.48,Product Manager Sênior,19,18-24,Feminino,20/06/2014,Ativo,Produto,FL04
+Beatriz Almeida,DT44340,8189.36,Analista Financeiro Pleno,53,45-54,Feminino,08/07/2015,Ativo,Financeiro,FL04
+Ana Ribeiro,DT44313,7994.34,Engenheiro de Dados Júnior,26,25-34,Feminino,02/07/2018,Ativo,Engenharia de Dados,FL06
+André Pereira,DT54352,17009.12,Cientista de Dados Sênior,41,35-44,Masculino,09/05/2018,Ativo,Ciência de Dados,FL02
+Priscila Machado,DT18569,13472.25,Cientista de Dados Pleno,26,25-34,Feminino,03/04/2014,Ativo,Ciência de Dados,FL03
+Henrique Andrade,DT51674,27838.87,Head de Produto,33,25-34,Masculino,14/01/2011,Ativo,Produto,FL01
+Fernando Martins,DT80184,8646.88,Analista de Dados Pleno,21,18-24,Masculino,13/02/2024,Ativo,Análise de Dados,FL02
+Julio Lima,DT76619,22464.66,Head de Produto,23,18-24,Masculino,22/07/2020,Ativo,Produto,FL01
+Marcelo Rodrigues,DT31945,24259.16,Arquiteto Cloud,59,55+,Masculino,03/06/2021,Ativo,Infraestrutura e Cloud,FL03
+Daniel Freitas,DT33461,18390.12,Engenheiro de ML Sênior,48,45-54,Masculino,05/02/2021,Ativo,Machine Learning,FL02
+Isabela Nunes,DT93637,6621.6,Product Manager Júnior,30,25-34,Feminino,21/02/2020,Inativo,Produto,FL05
+Henrique Carvalho,DT50107,19428.22,Gerente de BI,41,35-44,Masculino,17/09/2015,Ativo,Business Intelligence,FL01
+Mariana Ferreira,DT48672,12035.8,Analista de BI Sênior,20,18-24,Feminino,08/06/2020,Ativo,Business Intelligence,FL06
+Gustavo Machado,DT69133,18453.72,Gerente de BI,49,45-54,Masculino,10/02/2017,Ativo,Business Intelligence,FL01
+Ana Ribeiro,DT67892,14404.1,Analista de Dados Sênior,40,35-44,Feminino,07/11/2011,Ativo,Análise de Dados,FL04
+Daniel Gonçalves,DT81650,5071.75,Analista de RH Júnior,32,25-34,Masculino,17/03/2012,Ativo,Recursos Humanos,FL02
+Vanessa Oliveira,DT81568,15581.55,Cientista de Dados Sênior,39,35-44,Feminino,11/08/2015,Ativo,Ciência de Dados,FL07
+Caio Fernandes,DT34987,10494.42,Analista Financeiro Pleno,52,45-54,Masculino,10/11/2015,Ativo,Financeiro,FL02
+Anderson Vieira,DT55433,20931.17,Gerente de BI,59,55+,Masculino,08/04/2010,Ativo,Business Intelligence,FL01
+Daniel Gomes,DT62101,10031.68,Analista de Dados Pleno,31,25-34,Masculino,22/08/2020,Ativo,Análise de Dados,FL02
+Fernando Freitas,DT70476,7939.22,Engenheiro de ML Júnior,30,25-34,Masculino,14/08/2019,Ativo,Machine Learning,FL01
+Cláudia Marques,DT37470,21117.66,Gerente de BI,19,18-24,Feminino,28/05/2018,Ativo,Business Intelligence,FL10
+Julio Lima,DT50051,4899.56,Analista Comercial Júnior,60,55+,Masculino,15/12/2017,Ativo,Vendas e Parcerias,FL02
+Aline Machado,DT99884,22102.73,Diretor Comercial,62,55+,Feminino,22/01/2022,Ativo,Vendas e Parcerias,FL05
+Fernando Santos,DT84393,9614.76,Engenheiro de Dados Pleno,39,35-44,Masculino,29/09/2022,Ativo,Engenharia de Dados,FL01
+Marcelo Nunes,DT59980,20914.11,Lead de Ciência de Dados,42,35-44,Masculino,23/03/2014,Ativo,Ciência de Dados,FL01
+Tatiana Mendes,DT93755,4928.56,Analista de Dados Júnior,61,55+,Feminino,27/05/2022,Ativo,Análise de Dados,FL09
+Caio Ramos,DT13517,9812.71,Cientista de Dados Pleno,42,35-44,Masculino,14/05/2016,Ativo,Ciência de Dados,FL02
+Gabriela Araújo,DT19172,4921.63,Analista de BI Júnior,18,18-24,Feminino,08/11/2013,Ativo,Business Intelligence,FL10
+Cristina Marques,DT61262,6387.41,Cientista de Dados Júnior,44,35-44,Feminino,22/09/2020,Ativo,Ciência de Dados,FL05
+Henrique Carvalho,DT27030,16877.1,Cientista de Dados Sênior,60,55+,Masculino,25/08/2020,Ativo,Ciência de Dados,FL01
+Isabela Barbosa,DT87003,22290.37,Lead de Ciência de Dados,18,18-24,Feminino,14/03/2013,Ativo,Ciência de Dados,FL06
+Luana Nunes,DT89278,15596.36,Analista de Dados Sênior,49,45-54,Feminino,27/04/2020,Ativo,Análise de Dados,FL05
+Gabriel Ferreira,DT47737,15733.91,Gerente de RH,37,35-44,Masculino,09/10/2018,Ativo,Recursos Humanos,FL01
+Vitória Ribeiro,DT64401,10649.88,Analista de Dados Pleno,45,45-54,Feminino,08/04/2020,Ativo,Análise de Dados,FL07
+Daniela Ribeiro,DT84529,23041.19,Arquiteto de Dados,20,18-24,Feminino,18/05/2015,Inativo,Engenharia de Dados,FL06
+Bruno Fernandes,DT92324,16333.28,Engenheiro Cloud Sênior,22,18-24,Masculino,15/11/2014,Inativo,Infraestrutura e Cloud,FL01
+Aline Pereira,DT58330,7013.18,Engenheiro de Dados Júnior,38,35-44,Feminino,14/03/2019,Ativo,Engenharia de Dados,FL03
+Rodrigo Carvalho,DT76330,18673.67,Arquiteto de Dados,58,55+,Masculino,25/02/2025,Ativo,Engenharia de Dados,FL02
+Henrique Dias,DT62342,20745.54,Lead de Ciência de Dados,34,25-34,Masculino,28/07/2012,Ativo,Ciência de Dados,FL01
+Felipe Rocha,DT97856,19878.07,Diretor Comercial,22,18-24,Masculino,08/11/2011,Ativo,Vendas e Parcerias,FL02
+Amanda Mendes,DT28383,17207.81,Engenheiro Cloud Sênior,28,25-34,Feminino,28/05/2010,Ativo,Infraestrutura e Cloud,FL10
+Beatriz Vieira,DT26272,20179.17,Arquiteto Cloud,60,55+,Feminino,02/04/2010,Ativo,Infraestrutura e Cloud,FL05
+Mariana Mendes,DT56935,12714.86,Cientista de Dados Pleno,61,55+,Feminino,09/12/2021,Ativo,Ciência de Dados,FL04
+Cláudia Souza,DT93203,6171.86,Engenheiro Cloud Júnior,37,35-44,Feminino,17/12/2019,Ativo,Infraestrutura e Cloud,FL05
+Lucas Souza,DT59465,9750.87,Analista Comercial Pleno,41,35-44,Masculino,09/05/2015,Ativo,Vendas e Parcerias,FL01
+Ana Marques,DT13662,17192.37,Engenheiro de Dados Sênior,61,55+,Feminino,02/01/2025,Ativo,Engenharia de Dados,FL03
+André Alves,DT97046,9698.06,Cientista de Dados Pleno,50,45-54,Masculino,01/06/2012,Ativo,Ciência de Dados,FL01
+Tatiana Martins,DT91877,26603.0,Lead de Ciência de Dados,25,25-34,Feminino,19/03/2015,Ativo,Ciência de Dados,FL04
+Leonardo Rocha,DT32756,22750.95,Arquiteto de Dados,18,18-24,Masculino,24/09/2018,Ativo,Engenharia de Dados,FL03
+Thiago Rodrigues,DT96240,11697.73,Analista de Dados Sênior,31,25-34,Masculino,22/03/2019,Ativo,Análise de Dados,FL01
+Marcelo Ramos,DT23344,7881.79,Analista Financeiro Pleno,24,18-24,Masculino,16/06/2023,Ativo,Financeiro,FL01
+Paulo Moreira,DT98853,7662.16,Analista Comercial Pleno,58,55+,Masculino,17/02/2017,Inativo,Vendas e Parcerias,FL01
+Vitor Cardoso,DT18849,8825.6,Engenheiro de ML Júnior,55,55+,Masculino,26/01/2020,Ativo,Machine Learning,FL01
+Paulo Almeida,DT75984,6697.82,Product Manager Júnior,57,55+,Masculino,13/10/2012,Ativo,Produto,FL01
+Renato Machado,DT41922,3619.85,Analista de RH Júnior,41,35-44,Masculino,09/03/2021,Ativo,Recursos Humanos,FL02
+Mariana Moreira,DT36789,3976.13,Analista de RH Júnior,56,55+,Feminino,15/12/2019,Ativo,Recursos Humanos,FL03
+Gustavo Lima,DT46454,8562.62,Engenheiro de ML Júnior,44,35-44,Masculino,14/07/2024,Ativo,Machine Learning,FL01
+Leandro Santos,DT40016,12042.28,Gerente de Contas,31,25-34,Masculino,05/02/2022,Ativo,Vendas e Parcerias,FL03
+Cristina Lopes,DT39156,24650.3,Head de Produto,29,25-34,Feminino,03/12/2019,Ativo,Produto,FL08
+Juliana Ramos,DT19173,7903.1,Cientista de Dados Júnior,27,25-34,Feminino,31/07/2014,Ativo,Ciência de Dados,FL05
+Beatriz Carvalho,DT40973,6278.72,Engenheiro Cloud Júnior,47,45-54,Feminino,26/12/2016,Ativo,Infraestrutura e Cloud,FL04
+Diego Lopes,DT65576,10863.95,Cientista de Dados Pleno,54,45-54,Masculino,21/01/2020,Inativo,Ciência de Dados,FL01
+Larissa Fernandes,DT73068,15292.1,Engenheiro de Dados Sênior,28,25-34,Feminino,23/07/2020,Ativo,Engenharia de Dados,FL05
+Daniel Machado,DT30431,7285.79,Engenheiro Cloud Júnior,45,45-54,Masculino,13/11/2011,Ativo,Infraestrutura e Cloud,FL01
+Marcos Barbosa,DT88011,10711.41,Engenheiro Cloud Pleno,29,25-34,Masculino,09/10/2015,Ativo,Infraestrutura e Cloud,FL01
+Anderson Freitas,DT47122,22575.52,Especialista em IA,26,25-34,Masculino,11/07/2020,Ativo,Machine Learning,FL01
+Marcos Martins,DT10547,15711.54,Engenheiro de Dados Sênior,44,35-44,Masculino,07/11/2018,Inativo,Engenharia de Dados,FL01
+Vanessa Moreira,DT74166,8226.36,Engenheiro de ML Júnior,20,18-24,Feminino,16/10/2012,Ativo,Machine Learning,FL05
+Fernando Costa,DT35457,23656.78,Diretor Comercial,40,35-44,Masculino,06/06/2021,Ativo,Vendas e Parcerias,FL01
+Paulo Andrade,DT17563,18632.59,Gerente de RH,33,25-34,Masculino,09/06/2015,Ativo,Recursos Humanos,FL01
+Cristina Andrade,DT92700,5743.68,Analista Financeiro Júnior,59,55+,Feminino,26/04/2013,Ativo,Financeiro,FL04
